@@ -1,0 +1,34 @@
+{
+  "name": "eslint-rule-docs",
+  "version": "1.0.0",
+  "description": "Find documentation url for a given ESLint rule",
+  "main": "index.js",
+  "scripts": {
+    "update-plugins": "./scripts/update-plugins.js",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanbuck/eslint-rule-documentation.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "docs",
+    "documenation",
+    "rules",
+    "rule"
+  ],
+  "author": "Stefan Buck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanbuck/eslint-rule-documentation/issues"
+  },
+  "homepage": "https://github.com/stefanbuck/eslint-rule-documentation#readme",
+  "devDependencies": {
+    "async": "^2.6.1",
+    "got": "^9.2.0",
+    "mocha": "^5.2.0",
+    "sort-keys": "^2.0.0"
+  }
+}
