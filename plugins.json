@@ -1,0 +1,9 @@
+{
+  "react": {
+    "docs": "https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/",
+    "repository": "https://github.com/yannickcr/eslint-plugin-react"
+   },
+   "flowtype": {
+    "repository": "https://github.com/gajus/eslint-plugin-flowtype"
+   }
+}
