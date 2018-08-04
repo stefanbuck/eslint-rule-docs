@@ -3,14 +3,16 @@ language: node_js
 node_js:
 - 10
 script:
+- npm test
 - npm run update-plugins
 - npm version patch --no-git-tag-version
 deploy:
   - provider: npm
     email: github@stefanbuck.com
     api_key:
-      secure: mQPHo8h57Y/0PECnCGxnOXcRs71aenPJjfc9A/Sl4f0U0j38ae4iG//+iGmK3MXvzquVCZParjLwFauqxtH4UcyJpMqjMWgAS3p/DDkMDbjvSAqxnK81vPia6baFtbvx4YwFJpaVup0nYab0mHoswR6Eqnau33E+Vpnow1lAnzsIjeevIipHOTOJoIhcby+1LzpddTT8EyhA2TrnR7Nzw7RQp5JmyvhJCUJzhfRenmlkI9mT0XkOAPt0d8xjjS0NSLD072bSK+X7AUTIcy25nk5uDW/58oWkklOXrdo71fwdFslj2IV48YDQ5kUft15bDwiW2/NZTXlOziKtesRjPnrrHAPg/l+dA8ZZylRQ2XgX0mbp2Z3K6iDjBddOn7XMtzU1qmJL5RkBLsLO3Ra4cTkZA2qYcYR2eTXeZCkuWerpmvwFexgfqIBXEvIbsxXKwLRNVJsL/VfJIdbfq5SogGbSjepyc2ZjZTG0C0j4LH8dlqdORSLunXwrHESIDCvT3mulg/C4DTQTf+OecUEREm6N9AbSB0Kn8qzjL2BmokLlYiyeGTyGxUGQjnSnP5OJ+tczCNq+dS/azNOWJu7FGqpc2kl81rKHuSgvVrLcWXOyRHWQtLItYkgfGiYtS97F4K6iRWtnr/YkVMJK6VQfw52h5z8SAQ+7Efe9VwXJoeM=
-    skip_cleanup: true
+      secure: cw74CshH9oQNzjKn62XKfUdAx79469edLXGNx/Oay/BKPBjPfZ/d/oLoGMfIE8H63/Ugp3YCfZEY9Y6/Nb160Pn3dAuRZxD3qX6jML7wN+MIH3NSJL0Q8BzI/RdNkULkcX8cwdNDLBLFtR/jLjmmQ3K3+yP6tkbQps6Pw834Q6vcfqvqZPuhCUAIUBM3aY3JpVBUMCZ1pvHI3rE8/hUpAg96/OYk3Z0UjtK9kUyGu2h1y4TPhzhq2rczrjHmWHd3ADw2VDkExnH8zl08niJRq2NHiYnaz20hFeuemUiqVWv5pI0d97WZ8lNsnZO58yw6QXH3xgFCZxJ0Eue0Z5e0s+AAdx6W7pvcKMlOT0dIP1ZsbwPgehjH1A3D9Li+VIy/80PLMrRB2AzE8si9KdxwjdYphMoegex8+0k9RlRrdCRGkU2NxaX3mxvL+IL1QbMDjqEZu7j5iF6a2b8CP6CZzW+CJDhZVl9nXEwrLstmBBJGiV8quSuQl8l42KPI/Any3Lye1WqDmWznJxGq9pV7rz9ntcIIWu7D4iK0tukdftwDqFDuCEGPgUQbNnmeR9UlV83FPSn4HK4ZWHcnAJUzgBha5uHIMmS9RC5dEb7k12Hj4eoY1HT1RCOMdGhHwXTLcZImmgELaTttZ9A+3SZwSf5JdPOr0YoUwNSvP1hLaO0=
+    on:
+      repo: stefanbuck/eslint-rule-docs
   - provider: pages
     target-branch: master
     skip-cleanup: true

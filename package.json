@@ -8,12 +8,18 @@
     "got": "^8.3.2"
   },
   "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
     "mocha": "^5.2.0",
     "sort-keys": "^2.0.0"
   },
   "scripts": {
     "update-plugins": "./scripts/update-plugins.js",
-    "test": "mocha test.js"
+    "test": "eslint . && mocha test.js"
   },
   "repository": {
     "type": "git",
