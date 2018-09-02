@@ -17,3 +17,5 @@ deploy:
     skip-cleanup: true
     github-token: $GITHUB_TOKEN
     keep-history: true
+    name: Stefan Buck
+    email: dev@stefanbuck.com
