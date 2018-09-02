@@ -147,6 +147,10 @@
   "docs": "https://github.com/sloops77/eslint-plugin-better-mutation/blob/master/docs/rules/",
   "repository": "https://github.com/sloops77/eslint-plugin-better-mutation"
  },
+ "better-styled-components": {
+  "docs": "https://github.com/siffogh/eslint-plugin-better-styled-components/blob/master/docs/rules/",
+  "repository": "https://github.com/siffogh/eslint-plugin-better-styled-components"
+ },
  "blank-line": {
   "repository": "https://github.com/xbdtb/eslint-plugin-blank-line"
  },
