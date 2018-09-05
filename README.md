@@ -1,7 +1,6 @@
 # eslint-rule-docs [![Build Status](https://travis-ci.com/stefanbuck/eslint-rule-docs.svg?branch=master)](https://travis-ci.com/stefanbuck/eslint-rule-docs)
 
-> Find documentation url for a given ESLint rule
-
+> Find documentation url for a given ESLint rule. Updated daily!
 
 ## Install
 
