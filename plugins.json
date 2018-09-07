@@ -378,9 +378,6 @@
  "dependencies": {
   "repository": "https://github.com/zertosh/eslint-plugin-dependencies"
  },
- "dependencies-2": {
-  "repository": "https://github.com/zertosh/eslint-plugin-dependencies"
- },
  "deprecate": {
   "docs": "https://github.com/AlexMost/eslint-plugin-deprecate/blob/master/docs/rules/",
   "repository": "https://github.com/AlexMost/eslint-plugin-deprecate"
@@ -459,10 +456,6 @@
  },
  "env": {
   "repository": "https://github.com/rtsao/eslint-plugin-env"
- },
- "episerver-cms": {
-  "docs": "https://github.com/seriema/eslint-plugin-episerver-cms/blob/master/docs/rules/",
-  "repository": "https://github.com/seriema/eslint-plugin-episerver-cms"
  },
  "es": {
   "docs": "https://github.com/mysticatea/eslint-plugin-es/blob/master/docs/rules/",
@@ -701,6 +694,9 @@
  },
  "html": {
   "repository": "https://github.com/BenoitZugmeyer/eslint-plugin-html"
+ },
+ "html-erb": {
+  "repository": "https://github.com/pmrotule/eslint-plugin-html-erb"
  },
  "i-bem-js": {
   "repository": "https://github.com/Realetive/eslint-plugin-i-bem-js"
@@ -1733,9 +1729,6 @@
   "repository": "https://github.com/mapbox/eslint-plugin-script-tags"
  },
  "security": {
-  "repository": "https://github.com/nodesecurity/eslint-plugin-security"
- },
- "security-2": {
   "repository": "https://github.com/nodesecurity/eslint-plugin-security"
  },
  "segment-ember-actions": {
