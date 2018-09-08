@@ -1700,6 +1700,9 @@
  "rpgmaker": {
   "repository": "https://github.com/waynee95/eslint-plugin-rpgmaker"
  },
+ "ru-typography": {
+  "repository": "https://github.com/doochik/eslint-plugin-ru-typography"
+ },
  "runtime-internal": {
   "repository": "https://github.com/runtimejs/eslint-plugin-runtime-internal"
  },
