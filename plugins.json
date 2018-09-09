@@ -190,6 +190,9 @@
  "cah": {
   "repository": "https://github.com/colonyamerican/eslint-plugin-cah"
  },
+ "caleb": {
+  "repository": "https://github.com/calebeby/eslint-config"
+ },
  "callback": {
   "repository": "https://github.com/andreysm/eslint-plugin-callback"
  },

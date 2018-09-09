@@ -1,6 +1,6 @@
 {
   "name": "eslint-rule-docs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Find documentation url for a given ESLint rule",
   "main": "index.js",
   "scripts": {
