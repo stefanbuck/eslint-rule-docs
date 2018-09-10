@@ -427,6 +427,9 @@
  "eggache": {
   "repository": "https://github.com/eggjs/eslint-plugin-eggache"
  },
+ "ejs-js": {
+  "repository": "https://github.com/overlookmotel/eslint-plugin-ejs-js"
+ },
  "email-css-rules": {
   "repository": "https://github.com/taskworld/eslint-plugin-email-css-rules"
  },
