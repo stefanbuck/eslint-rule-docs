@@ -1275,6 +1275,9 @@
  "no-shit": {
   "repository": "https://github.com/jakubsadura/eslint-plugin-no-shit"
  },
+ "no-skip-tests": {
+  "repository": "https://github.com/romaingaillardjs/eslint-plugin-no-skip-tests"
+ },
  "no-spaces-in-call-expression": {
   "repository": "https://github.com/fasttime/eslint-plugin-no-spaces-in-call-expression"
  },
@@ -2140,6 +2143,9 @@
  },
  "you-dont-need-lodash-underscore": {
   "repository": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"
+ },
+ "you-dont-need-momentjs": {
+  "repository": "https://github.com/you-dont-need/You-Dont-Need-Momentjs"
  },
  "zillow": {
   "repository": "https://github.com/zillow/javascript"
