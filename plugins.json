@@ -1249,6 +1249,10 @@
  "no-mixed-operators": {
   "repository": "https://github.com/kevin940726/eslint-plugin-no-mixed-operators"
  },
+ "no-named-imports": {
+  "docs": "https://github.com/gabemeola/eslint-plugin-no-named-imports/blob/master/docs/rules/",
+  "repository": "https://github.com/gabemeola/eslint-plugin-no-named-imports"
+ },
  "no-not-accumulator-reassign": {
   "docs": "https://github.com/mathieudutour/eslint-plugin-no-not-accumulator-reassign/blob/master/docs/rules/",
   "repository": "https://github.com/mathieudutour/eslint-plugin-no-not-accumulator-reassign"
