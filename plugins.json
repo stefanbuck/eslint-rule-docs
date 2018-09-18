@@ -1510,6 +1510,10 @@
   "docs": "https://github.com/tknysh/eslint-plugin-prop-has-no-shadow-declaration/blob/master/docs/rules/",
   "repository": "https://github.com/tknysh/eslint-plugin-prop-has-no-shadow-declaration"
  },
+ "prototype": {
+  "docs": "https://github.com/noyobo/eslint-plugin-prototype/blob/master/docs/rules/",
+  "repository": "https://github.com/noyobo/eslint-plugin-prototype"
+ },
  "prototype-chain": {
   "repository": "https://github.com/boneskull/eslint-plugin-prototype-chain"
  },
