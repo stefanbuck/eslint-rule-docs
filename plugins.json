@@ -523,7 +523,6 @@
   "repository": "https://github.com/th317erd/eslint-plugin-extra-syntax"
  },
  "extras": {
-  "docs": "https://github.com/maikziemer/eslint-plugin-extras/blob/master/docs/rules/",
   "repository": "https://github.com/maikziemer/eslint-plugin-extras"
  },
  "fasec": {
@@ -1199,6 +1198,9 @@
  },
  "no-es2015": {
   "repository": "https://github.com/NatureFeng/eslint-plugin-no-es2015"
+ },
+ "no-eslint-disable": {
+  "repository": "https://github.com/unlight/eslint-plugin-no-eslint-disable"
  },
  "no-extension-in-require": {
   "repository": "https://github.com/pdubroy/eslint-plugin-no-extension-in-require"
