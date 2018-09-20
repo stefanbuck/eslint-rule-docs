@@ -522,9 +522,6 @@
  "extra-syntax": {
   "repository": "https://github.com/th317erd/eslint-plugin-extra-syntax"
  },
- "extras": {
-  "repository": "https://github.com/maikziemer/eslint-plugin-extras"
- },
  "fasec": {
   "docs": "https://github.com/fusionalliance/eslint-plugin-fasec/blob/master/docs/rules/",
   "repository": "https://github.com/fusionalliance/eslint-plugin-fasec"
