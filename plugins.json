@@ -1173,6 +1173,10 @@
   "docs": "https://github.com/emmenko/eslint-plugin-no-class/blob/master/docs/rules/",
   "repository": "https://github.com/emmenko/eslint-plugin-no-class"
  },
+ "no-classname-with-stylename": {
+  "docs": "https://github.com/bendtherules/eslint-plugin-no-classname-with-stylename/blob/master/docs/rules/",
+  "repository": "https://github.com/bendtherules/eslint-plugin-no-classname-with-stylename"
+ },
  "no-compound-assigned-await": {
   "docs": "https://github.com/PJWalker/eslint-plugin-no-compound-assigned-await/blob/master/docs/rules/",
   "repository": "https://github.com/PJWalker/eslint-plugin-no-compound-assigned-await"
@@ -1803,6 +1807,9 @@
  },
  "snakecasejs": {
   "repository": "https://github.com/ptkdev/eslint-plugin-snakecasejs"
+ },
+ "so-jah-seh": {
+  "repository": "https://github.com/independentgeorge/eslint-plugin-so-jah-seh"
  },
  "solfege": {
   "repository": "https://github.com/neolao/eslint-plugin-solfege"
