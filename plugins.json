@@ -1874,9 +1874,6 @@
  "step-functions": {
   "repository": "https://github.com/bdgamble/eslint-plugin-step-functions"
  },
- "strict": {
-  "repository": "https://github.com/afewyards/eslint-plugin-strict"
- },
  "strict-newline": {
   "docs": "https://github.com/MitMaro/eslint-plugin-strict-newline/blob/master/docs/rules/",
   "repository": "https://github.com/MitMaro/eslint-plugin-strict-newline"
