@@ -1025,6 +1025,9 @@
  "max-len-2": {
   "repository": "https://github.com/andreineculau/eslint-plugin-max-len-2"
  },
+ "mdx": {
+  "repository": "https://github.com/azz/eslint-plugin-mdx"
+ },
  "meetup": {
   "docs": "https://github.com/meetup/eslint-plugin-meetup/blob/master/docs/rules/",
   "repository": "https://github.com/meetup/eslint-plugin-meetup"
@@ -1690,9 +1693,6 @@
  "requirejs": {
   "docs": "https://github.com/cvisco/eslint-plugin-requirejs/blob/master/docs/rules/",
   "repository": "https://github.com/cvisco/eslint-plugin-requirejs"
- },
- "reselect": {
-  "repository": "https://github.com/popul/eslint-plugin-reselect"
  },
  "rgl": {
   "repository": "https://github.com/fengzilong/eslint-plugin-rgl"
