@@ -1589,6 +1589,10 @@
  "react-functional-set-state": {
   "repository": "https://github.com/BE-Webdesign/eslint-plugin-react-functional-set-state"
  },
+ "react-intl-format": {
+  "docs": "https://github.com/calm/eslint-plugin-react-intl-format/blob/master/docs/rules/",
+  "repository": "https://github.com/calm/eslint-plugin-react-intl-format"
+ },
  "react-native": {
   "docs": "https://github.com/intellicode/eslint-plugin-react-native/blob/master/docs/rules/",
   "repository": "https://github.com/intellicode/eslint-plugin-react-native"
