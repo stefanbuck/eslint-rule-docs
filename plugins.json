@@ -1523,6 +1523,9 @@
  "prototype-chain": {
   "repository": "https://github.com/boneskull/eslint-plugin-prototype-chain"
  },
+ "prototype-pollution-security-rules": {
+  "repository": "https://github.com/LewisArdern/eslint-plugin-prototype-pollution-security-rules"
+ },
  "protractor": {
   "docs": "https://github.com/alecxe/eslint-plugin-protractor/blob/master/docs/rules/",
   "repository": "https://github.com/alecxe/eslint-plugin-protractor"
@@ -1987,6 +1990,10 @@
  },
  "tribou": {
   "repository": "https://github.com/tribou/eslint-plugin-tribou"
+ },
+ "ts": {
+  "docs": "https://github.com/ovidiubute/eslint-plugin-ts/blob/master/docs/rules/",
+  "repository": "https://github.com/ovidiubute/eslint-plugin-ts"
  },
  "tsc": {
   "repository": "https://github.com/unlight/eslint-plugin-tsc"
