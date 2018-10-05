@@ -526,6 +526,9 @@
   "docs": "https://github.com/fusionalliance/eslint-plugin-fasec/blob/master/docs/rules/",
   "repository": "https://github.com/fusionalliance/eslint-plugin-fasec"
  },
+ "fasttime-rules": {
+  "repository": "https://github.com/fasttime/eslint-plugin-fasttime-rules"
+ },
  "fat-arrow-same-line": {
   "repository": "https://github.com/pzuraq/eslint-plugin-fat-arrow-same-line"
  },
@@ -1354,6 +1357,9 @@
  },
  "one-variable-per-var": {
   "repository": "https://github.com/greggman/eslint-plugin-one-variable-per-var"
+ },
+ "only-error": {
+  "repository": "https://github.com/davidjbradshaw/eslint-plugin-only-error"
  },
  "only-var": {
   "repository": "https://github.com/deecewan/eslint-plugin-only-var"
