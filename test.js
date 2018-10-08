@@ -27,8 +27,4 @@ describe('eslint-rule-docs', () => {
   it('If the plugin is unknown, returns an empty object', () => {
     assert.throws(getRuleUrl.bind(null, 'unknown-foo/bar'), new Error('No documentation found for rule'));
   });
-
-  it('throws an error if no ruleKey is provided', () => {
-    assert.throws(getRuleUrl, new Error('Argument ruleKey is missing'));
-  });
 });

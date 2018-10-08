@@ -1,10 +1,6 @@
 const plugins = require('./plugins.json');
 
 module.exports = function(ruleKey) {
-  if (!ruleKey) {
-    throw new Error('Argument ruleKey is missing');
-  }
-
   const [pluginName, ruleName] = ruleKey.split('/');
 
   if (!ruleName) {
