@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanbuck/eslint-rule-documentation.git"
+    "url": "git+https://github.com/stefanbuck/eslint-rule-docs.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
   "author": "Stefan Buck",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefanbuck/eslint-rule-documentation/issues"
+    "url": "https://github.com/stefanbuck/eslint-rule-docs/issues"
   },
-  "homepage": "https://github.com/stefanbuck/eslint-rule-documentation#readme",
+  "homepage": "https://github.com/stefanbuck/eslint-rule-docs#readme",
   "devDependencies": {
     "async": "^2.6.1",
     "got": "^9.2.0",
