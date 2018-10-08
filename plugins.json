@@ -1301,6 +1301,10 @@
   "docs": "https://github.com/julienben/eslint-plugin-no-this-in-jsx-component-name/blob/master/docs/rules/",
   "repository": "https://github.com/julienben/eslint-plugin-no-this-in-jsx-component-name"
  },
+ "no-undef-class-this": {
+  "docs": "https://github.com/langdonx/eslint-plugin-no-undef-class-this/blob/master/docs/rules/",
+  "repository": "https://github.com/langdonx/eslint-plugin-no-undef-class-this"
+ },
  "no-underscore": {
   "repository": "https://github.com/chrisakakay/eslint-plugin-no-underscore"
  },
