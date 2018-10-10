@@ -532,6 +532,9 @@
  "fat-arrow-same-line": {
   "repository": "https://github.com/pzuraq/eslint-plugin-fat-arrow-same-line"
  },
+ "fest-tags": {
+  "repository": "https://github.com/Angmor23/eslint-plugin-script-tags"
+ },
  "fieldbook": {
   "repository": "https://github.com/fieldbook/fieldbook-eslint"
  },
