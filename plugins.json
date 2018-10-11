@@ -1025,6 +1025,9 @@
  "markdown-antd": {
   "repository": "https://github.com/eslint/eslint-plugin-markdown"
  },
+ "markdown-runkit": {
+  "repository": "https://github.com/eslint/eslint-plugin-markdown"
+ },
  "mavenlint": {
   "repository": "https://github.com/mavenlink/mavenlint"
  },
