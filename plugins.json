@@ -628,6 +628,9 @@
  "geekie": {
   "repository": "https://github.com/geekie/eslint-plugin"
  },
+ "geojson": {
+  "repository": "https://github.com/arlyn-bones/eslint-plugin-json"
+ },
  "get-off-my-lawn": {
   "docs": "https://github.com/manovotny/eslint-plugin-get-off-my-lawn/blob/master/docs/rules/",
   "repository": "https://github.com/manovotny/eslint-plugin-get-off-my-lawn"
