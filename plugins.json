@@ -802,6 +802,9 @@
   "docs": "https://github.com/jfrej/eslint-plugin-import-order-emotion/blob/master/docs/rules/",
   "repository": "https://github.com/jfrej/eslint-plugin-import-order-emotion"
  },
+ "import-path": {
+  "repository": "https://github.com/andrienko/eslint-plugin-import-path"
+ },
  "import-sorter": {
   "repository": "https://github.com/fengkfengk/eslint-plugin-import-sorter"
  },
@@ -2038,6 +2041,9 @@
  },
  "udemy": {
   "repository": "https://github.com/udemy/js-tooling"
+ },
+ "uilib": {
+  "repository": "https://github.com/wix/react-native-ui-lib"
  },
  "unar": {
   "repository": "https://github.com/lkdghzh/eslint-plugin-unar-extends"
