@@ -64,6 +64,9 @@
  "arguments": {
   "repository": "https://github.com/ronapelbaum/eslint-plugin-arguments"
  },
+ "arithmetic": {
+  "repository": "https://github.com/JonnyBurger/eslint-plugin-arithmetic"
+ },
  "array-func": {
   "repository": "https://github.com/freaktechnik/eslint-plugin-array-func"
  },
