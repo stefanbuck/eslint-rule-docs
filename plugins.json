@@ -83,6 +83,9 @@
  "async-await": {
   "repository": "https://github.com/59naga/eslint-plugin-async-await"
  },
+ "atomic-design": {
+  "repository": "https://github.com/RyoNkmr/eslint-plugin-atomic-design"
+ },
  "aurelia": {
   "repository": "https://github.com/bryanrsmith/eslint-plugin-aurelia"
  },
