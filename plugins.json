@@ -951,6 +951,9 @@
   "docs": "https://github.com/rankida/eslint-plugin-lab/blob/master/docs/rules/",
   "repository": "https://github.com/rankida/eslint-plugin-lab"
  },
+ "lcb-mini": {
+  "repository": "https://github.com/douzi8/eslint-plugin-lcb-mini"
+ },
  "lean-imports": {
   "docs": "https://github.com/eslint-plugins/eslint-plugin-lean-imports/blob/master/docs/rules/",
   "repository": "https://github.com/eslint-plugins/eslint-plugin-lean-imports"
@@ -1619,6 +1622,9 @@
  },
  "react-functional-set-state": {
   "repository": "https://github.com/BE-Webdesign/eslint-plugin-react-functional-set-state"
+ },
+ "react-hooks": {
+  "repository": "https://github.com/facebook/react"
  },
  "react-intl-format": {
   "docs": "https://github.com/calm/eslint-plugin-react-intl-format/blob/master/docs/rules/",
