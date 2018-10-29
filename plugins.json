@@ -362,6 +362,10 @@
  "cx": {
   "repository": "https://github.com/artemdudkin/eslint-plugin-cx"
  },
+ "cxweb": {
+  "docs": "https://github.com/metreniuk/eslint-plugin-cxweb/blob/master/docs/rules/",
+  "repository": "https://github.com/metreniuk/eslint-plugin-cxweb"
+ },
  "cypress": {
   "repository": "https://github.com/cypress-io/eslint-plugin-cypress"
  },
@@ -1059,6 +1063,10 @@
  "meteor": {
   "docs": "https://github.com/dferber90/eslint-plugin-meteor/blob/master/docs/rules/",
   "repository": "https://github.com/dferber90/eslint-plugin-meteor"
+ },
+ "minoris": {
+  "docs": "https://github.com/minoris-io/eslint-plugin-minoris/blob/master/docs/rules/",
+  "repository": "https://github.com/minoris-io/eslint-plugin-minoris"
  },
  "minxing": {
   "repository": "https://github.com/stuartZhang/eslint-plugin-minxing"
