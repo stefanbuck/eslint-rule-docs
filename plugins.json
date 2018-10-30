@@ -9,6 +9,10 @@
  "7g": {
   "repository": "https://github.com/7Geese/eslint-plugin-7g"
  },
+ "absolute-import": {
+  "docs": "https://github.com/mcclowes/eslint-plugin-absolute-import/blob/master/docs/rules/",
+  "repository": "https://github.com/mcclowes/eslint-plugin-absolute-import"
+ },
  "adone": {
   "repository": "https://github.com/ciferox/eslint-plugin-adone"
  },
@@ -266,6 +270,9 @@
  },
  "codebox": {
   "repository": "https://github.com/asn007/eslint-plugin-codebox"
+ },
+ "codebox-jh": {
+  "repository": "https://github.com/judithhartmann/eslint-plugin-codebox"
  },
  "codeceptjs": {
   "repository": "https://github.com/poenneby/eslint-plugin-codeceptjs"
@@ -2200,6 +2207,10 @@
  "xss": {
   "docs": "https://github.com/Rantanen/eslint-plugin-xss/blob/master/docs/rules/",
   "repository": "https://github.com/Rantanen/eslint-plugin-xss"
+ },
+ "xurei": {
+  "docs": "https://github.com/xurei/eslint-plugin/blob/master/docs/rules/",
+  "repository": "https://github.com/xurei/eslint-plugin"
  },
  "yoast": {
   "docs": "https://github.com/Yoast/eslint-plugin/blob/master/docs/rules/",
