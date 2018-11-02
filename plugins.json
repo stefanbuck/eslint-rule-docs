@@ -242,8 +242,8 @@
  "chai-friendly": {
   "repository": "https://github.com/ihordiachenko/eslint-plugin-chai-friendly"
  },
- "check-pview-name": {
-  "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-checkFolderNameWidthPViewName"
+ "check-pview-class-name": {
+  "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-checkFolderNameWithPViewName"
  },
  "class-extends": {
   "docs": "https://github.com/wesbaker/eslint-plugin-class-extends/blob/master/docs/rules/",
