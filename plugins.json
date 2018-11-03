@@ -377,6 +377,7 @@
   "repository": "https://github.com/metreniuk/eslint-plugin-cxweb"
  },
  "cypress": {
+  "docs": "https://github.com/cypress-io/eslint-plugin-cypress/blob/master/docs/rules/",
   "repository": "https://github.com/cypress-io/eslint-plugin-cypress"
  },
  "cypress-dev": {
