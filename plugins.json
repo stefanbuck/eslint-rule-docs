@@ -1897,6 +1897,9 @@
  "sort-imports-es6-autofix": {
   "repository": "https://github.com/schuchertmanagementberatung/eslint-plugin-sort-imports-es6-autofix"
  },
+ "sort-keys-fix": {
+  "repository": "https://github.com/leo-buneev/eslint-plugin-sort-keys-fix"
+ },
  "sort-requires": {
   "repository": "https://github.com/kentor/eslint-plugin-sort-requires"
  },
