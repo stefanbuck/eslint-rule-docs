@@ -619,6 +619,10 @@
   "docs": "https://github.com/jfmengels/eslint-plugin-fp/blob/master/docs/rules/",
   "repository": "https://github.com/jfmengels/eslint-plugin-fp"
  },
+ "fp-jxl": {
+  "docs": "https://github.com/jesterxl/eslint-plugin-fp-jxl/blob/master/docs/rules/",
+  "repository": "https://github.com/jesterxl/eslint-plugin-fp-jxl"
+ },
  "freaking": {
   "repository": "https://github.com/iandarling/eslint-plugin-freaking"
  },
