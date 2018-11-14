@@ -1840,10 +1840,6 @@
  "should-promised": {
   "repository": "https://github.com/dbrockman/eslint-plugin-should-promised"
  },
- "silvermine": {
-  "docs": "https://github.com/silvermine/eslint-plugin-silvermine/blob/master/docs/rules/",
-  "repository": "https://github.com/silvermine/eslint-plugin-silvermine"
- },
  "simple-i18n-text": {
   "repository": "https://github.com/azu/eslint-plugin-simple-i18n-text"
  },
