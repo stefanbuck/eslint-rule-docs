@@ -751,6 +751,9 @@
   "docs": "https://github.com/OvalMoney/eslint-plugin-i18n-validator/blob/master/docs/rules/",
   "repository": "https://github.com/OvalMoney/eslint-plugin-i18n-validator"
  },
+ "icon-button": {
+  "repository": "https://github.com/SmallImprovements-OpenSource/eslint-plugin-icon-button"
+ },
  "ideal": {
   "docs": "https://github.com/gyandeeps/eslint-plugin-ideal/blob/master/docs/rules/",
   "repository": "https://github.com/gyandeeps/eslint-plugin-ideal"
@@ -1064,6 +1067,9 @@
  },
  "mavenlint": {
   "repository": "https://github.com/mavenlink/mavenlint"
+ },
+ "max-comments-per-function": {
+  "repository": "https://github.com/miangraham/eslint-plugin-max-comments-per-function"
  },
  "max-len-2": {
   "repository": "https://github.com/andreineculau/eslint-plugin-max-len-2"
