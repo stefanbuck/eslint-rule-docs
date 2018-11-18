@@ -1677,10 +1677,6 @@
  "react-native-wix": {
   "repository": "https://github.com/wix/eslint-config-wix"
  },
- "react-nightly": {
-  "docs": "https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/",
-  "repository": "https://github.com/yannickcr/eslint-plugin-react"
- },
  "react-no-text-nodes": {
   "docs": "https://github.com/chaps-io/eslint-plugin-react-no-text-nodes/blob/master/docs/rules/",
   "repository": "https://github.com/chaps-io/eslint-plugin-react-no-text-nodes"
