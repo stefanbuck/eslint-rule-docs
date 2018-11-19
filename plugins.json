@@ -807,6 +807,9 @@
   "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/benmosher/eslint-plugin-import"
  },
+ "import-alias": {
+  "repository": "https://github.com/steelsojka/eslint-import-alias"
+ },
  "import-auto-name": {
   "repository": "https://github.com/shnhrrsn/eslint-plugin-import-auto-name"
  },
@@ -1848,6 +1851,12 @@
  },
  "simple-i18n-text": {
   "repository": "https://github.com/azu/eslint-plugin-simple-i18n-text"
+ },
+ "simple-import-sort": {
+  "repository": "https://github.com/lydell/eslint-plugin-simple-import-sort"
+ },
+ "simple-jsx": {
+  "repository": "https://github.com/putan/eslint-plugin-simple-jsx"
  },
  "skeleton": {
   "repository": "https://github.com/akullpp/eslint-plugin-skeleton"
