@@ -180,6 +180,9 @@
  "botland": {
   "repository": "https://github.com/freaktechnik/eslint-plugin-botland"
  },
+ "boyscout": {
+  "repository": "https://github.com/nicolaslt/eslint-plugin-boyscout"
+ },
  "bpmn-io": {
   "repository": "https://github.com/bpmn-io/eslint-plugin-bpmn-io"
  },
@@ -1397,6 +1400,7 @@
   "repository": "https://github.com/geek/eslint-plugin-nodejs"
  },
  "noko": {
+  "docs": "https://github.com/doronwix/eslint-plugin-noko/blob/master/docs/rules/",
   "repository": "https://github.com/doronwix/eslint-plugin-noko"
  },
  "notice": {
