@@ -487,6 +487,10 @@
  "env": {
   "repository": "https://github.com/rtsao/eslint-plugin-env"
  },
+ "enzyme": {
+  "docs": "https://github.com/giamir/eslint-plugin-enzyme/blob/master/docs/rules/",
+  "repository": "https://github.com/giamir/eslint-plugin-enzyme"
+ },
  "es": {
   "docs": "https://github.com/mysticatea/eslint-plugin-es/blob/master/docs/rules/",
   "repository": "https://github.com/mysticatea/eslint-plugin-es"
