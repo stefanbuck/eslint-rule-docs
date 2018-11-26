@@ -23,6 +23,9 @@
   "docs": "https://github.com/ast2018/eslint-plugin-agree/blob/master/docs/rules/",
   "repository": "https://github.com/ast2018/eslint-plugin-agree"
  },
+ "ala": {
+  "repository": "https://github.com/alaameddeb/ESLint-plugin"
+ },
  "alint": {
   "repository": "https://github.com/AlanFoster/eslint-plugin-alint"
  },
@@ -347,9 +350,6 @@
  },
  "cssx": {
   "repository": "https://github.com/krasimir/eslint-plugin-cssx"
- },
- "cubyn": {
-  "repository": "https://github.com/cubyn/eslint-plugin-cubyn"
  },
  "cucumber": {
   "docs": "https://github.com/darrinholst/eslint-plugin-cucumber/blob/master/docs/rules/",
@@ -864,6 +864,9 @@
  },
  "instructure-ui": {
   "repository": "https://github.com/instructure/instructure-ui"
+ },
+ "irm": {
+  "repository": "https://github.com/hadeshe93/eslint-plugin-irm"
  },
  "iruhl": {
   "docs": "https://github.com/LeadingLight/eslint-plugin-iruhl/blob/master/docs/rules/",
