@@ -1253,9 +1253,6 @@
  "no-confusing-arrow": {
   "repository": "https://github.com/jasperck/eslint-plugin-no-confusing-arrow"
  },
- "no-constant-expressions": {
-  "repository": "https://github.com/denis-sokolov/eslint-plugin-no-constant-expressions"
- },
  "no-constructor-bind": {
   "docs": "https://github.com/markalfred/eslint-plugin-no-constructor-bind/blob/master/docs/rules/",
   "repository": "https://github.com/markalfred/eslint-plugin-no-constructor-bind"
