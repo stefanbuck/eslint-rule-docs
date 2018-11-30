@@ -24,7 +24,7 @@
   "repository": "https://github.com/ast2018/eslint-plugin-agree"
  },
  "ala": {
-  "repository": "https://github.com/alaameddeb/ESLint-plugin"
+  "repository": "https://github.com/alaameddeb/test-folder"
  },
  "alint": {
   "repository": "https://github.com/AlanFoster/eslint-plugin-alint"
@@ -974,6 +974,7 @@
   "repository": "https://github.com/ncaq/eslint-plugin-julius"
  },
  "kaola": {
+  "docs": "https://github.com/Deol/eslint-plugin-kaola/blob/master/docs/rules/",
   "repository": "https://github.com/Deol/eslint-plugin-kaola"
  },
  "kiddomstyle": {
