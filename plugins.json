@@ -24,7 +24,7 @@
   "repository": "https://github.com/ast2018/eslint-plugin-agree"
  },
  "ala": {
-  "repository": "https://github.com/alaameddeb/test-folder"
+  "repository": "https://github.com/exodev/commons"
  },
  "alint": {
   "repository": "https://github.com/AlanFoster/eslint-plugin-alint"
@@ -700,6 +700,9 @@
  },
  "graphql-next": {
   "repository": "https://github.com/apollostack/eslint-plugin-graphql"
+ },
+ "gridsome": {
+  "repository": "https://github.com/tyankatsu0105/eslint-plugin-gridsome"
  },
  "grind": {
   "repository": "https://github.com/grindjs/eslint-plugin-grind"
