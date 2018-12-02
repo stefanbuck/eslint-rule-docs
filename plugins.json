@@ -334,6 +334,9 @@
   "docs": "https://github.com/coursera/eslint-plugin-coursera/blob/master/docs/rules/",
   "repository": "https://github.com/coursera/eslint-plugin-coursera"
  },
+ "crb": {
+  "repository": "https://github.com/chrisbreiding/eslint-plugin-crb"
+ },
  "css-in-js": {
   "docs": "https://github.com/jackyho112/eslint-plugin-css-in-js/blob/master/docs/rules/",
   "repository": "https://github.com/jackyho112/eslint-plugin-css-in-js"
@@ -392,9 +395,6 @@
  },
  "delegated-events": {
   "repository": "https://github.com/dgraham/eslint-plugin-delegated-events"
- },
- "demandware": {
-  "repository": "https://github.com/ariyalabs/eslint-plugin-demandware"
  },
  "deopt": {
   "repository": "https://github.com/Gvozd/eslint-plugin-deopt"
