@@ -702,6 +702,7 @@
   "repository": "https://github.com/apollostack/eslint-plugin-graphql"
  },
  "gridsome": {
+  "docs": "https://github.com/tyankatsu0105/eslint-plugin-gridsome/blob/master/docs/rules/",
   "repository": "https://github.com/tyankatsu0105/eslint-plugin-gridsome"
  },
  "grind": {
@@ -1948,6 +1949,9 @@
  },
  "sql": {
   "repository": "https://github.com/gajus/eslint-plugin-sql"
+ },
+ "sql-injection": {
+  "repository": "https://github.com/gavinaiken/eslint-plugin-sql-injection"
  },
  "sql-template": {
   "repository": "https://github.com/uphold/eslint-plugin-sql-template"
