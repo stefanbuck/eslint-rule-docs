@@ -987,6 +987,9 @@
  "kiddomstyle": {
   "repository": "https://github.com/kiddom/eslint-plugin-kiddomstyle"
  },
+ "kiwicom": {
+  "repository": "https://github.com/kiwicom/eslint-plugin-kiwicom"
+ },
  "known-imports": {
   "repository": "https://github.com/helixbass/eslint-plugin-known-imports"
  },
