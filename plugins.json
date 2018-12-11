@@ -1428,6 +1428,10 @@
  "nowrap-in-template-string": {
   "repository": "https://github.com/coolzjy/eslint-plugin-nowrap-in-template-string"
  },
+ "nuxt": {
+  "docs": "https://github.com/nuxt/eslint-plugin-nuxt/blob/master/docs/rules/",
+  "repository": "https://github.com/nuxt/eslint-plugin-nuxt"
+ },
  "objects": {
   "docs": "https://github.com/davidwaterston/eslint-plugin-objects/blob/master/docs/rules/",
   "repository": "https://github.com/davidwaterston/eslint-plugin-objects"
