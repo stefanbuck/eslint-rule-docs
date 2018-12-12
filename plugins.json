@@ -7,6 +7,7 @@
   "repository": "https://github.com/6RiverSystems/eslint-plugin-6river"
  },
  "7g": {
+  "docs": "https://github.com/7Geese/eslint-plugin-7g/blob/master/docs/rules/",
   "repository": "https://github.com/7Geese/eslint-plugin-7g"
  },
  "absolute-import": {
@@ -247,6 +248,9 @@
  },
  "chai-friendly": {
   "repository": "https://github.com/ihordiachenko/eslint-plugin-chai-friendly"
+ },
+ "check-class-name": {
+  "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name"
  },
  "check-pview-class-name": {
   "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-checkFolderNameWithPViewName"
@@ -705,8 +709,8 @@
   "repository": "https://github.com/apollostack/eslint-plugin-graphql"
  },
  "gridsome": {
-  "docs": "https://github.com/tyankatsu0105/eslint-plugin-gridsome/blob/master/docs/rules/",
-  "repository": "https://github.com/tyankatsu0105/eslint-plugin-gridsome"
+  "docs": "https://github.com/gridsome/eslint-plugin-gridsome/blob/master/docs/rules/",
+  "repository": "https://github.com/gridsome/eslint-plugin-gridsome"
  },
  "grind": {
   "repository": "https://github.com/grindjs/eslint-plugin-grind"
