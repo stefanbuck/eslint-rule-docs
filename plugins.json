@@ -300,6 +300,9 @@
  "coffeescript-es7": {
   "repository": "https://github.com/ovikholt/eslint-plugin-coffeescript"
  },
+ "comment-annotations": {
+  "repository": "https://github.com/102/eslint-plugin-comment-annotations"
+ },
  "comments": {
   "repository": "https://github.com/lo1tuma/eslint-plugin-comments"
  },
