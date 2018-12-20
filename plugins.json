@@ -255,6 +255,9 @@
  "check-pview-class-name": {
   "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-checkFolderNameWithPViewName"
  },
+ "ckeditor5-rules": {
+  "repository": "https://github.com/ckeditor/ckeditor5-dev"
+ },
  "class-extends": {
   "docs": "https://github.com/wesbaker/eslint-plugin-class-extends/blob/master/docs/rules/",
   "repository": "https://github.com/wesbaker/eslint-plugin-class-extends"
@@ -898,6 +901,10 @@
  },
  "ja": {
   "repository": "https://github.com/mysticatea/eslint-plugin-ja"
+ },
+ "jacobsmith-custom": {
+  "docs": "https://github.com/jacobsmith/jacobsmith-eslint-plugins/blob/master/docs/rules/",
+  "repository": "https://github.com/jacobsmith/jacobsmith-eslint-plugins"
  },
  "jam3": {
   "docs": "https://github.com/Jam3/eslint-plugin-jam3/blob/master/docs/rules/",
