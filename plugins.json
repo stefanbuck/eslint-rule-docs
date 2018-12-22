@@ -2116,9 +2116,6 @@
  "tslint": {
   "repository": "https://github.com/JamesHenry/eslint-plugin-tslint"
  },
- "tslint2": {
-  "repository": "https://github.com/unlight/eslint-plugin-tslint2"
- },
  "turbopatent": {
   "repository": "https://github.com/PatentNavigation/eslint-plugin-turbopatent"
  },
