@@ -1183,6 +1183,9 @@
  "more-naming-conventions": {
   "repository": "https://github.com/TheKoopaKingdom/eslint-plugin-more-naming-conventions"
  },
+ "more-naming-conventions-leading-underscore": {
+  "repository": "https://github.com/alex-zissis/eslint-plugin-more-naming-conventions"
+ },
  "mpirik": {
   "repository": "https://github.com/mpirik/eslint-plugin-mpirik"
  },
@@ -1995,6 +1998,9 @@
  },
  "step-functions": {
   "repository": "https://github.com/bdgamble/eslint-plugin-step-functions"
+ },
+ "strict-cast": {
+  "repository": "https://github.com/TrySound/strict-cast"
  },
  "strict-newline": {
   "docs": "https://github.com/MitMaro/eslint-plugin-strict-newline/blob/master/docs/rules/",
