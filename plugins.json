@@ -2233,9 +2233,6 @@
   "docs": "https://github.com/erha19/eslint-plugin-weex/blob/master/docs/rules/",
   "repository": "https://github.com/erha19/eslint-plugin-weex"
  },
- "weex-bundle": {
-  "repository": "https://github.com/Hanks10100/eslint-plugin-weex-bundle"
- },
  "weex-vue": {
   "docs": "https://github.com/erha19/eslint-plugin-weex-vue/blob/master/docs/rules/",
   "repository": "https://github.com/erha19/eslint-plugin-weex-vue"
