@@ -252,9 +252,6 @@
  "check-class-name": {
   "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name"
  },
- "check-pview-class-name": {
-  "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-checkFolderNameWithPViewName"
- },
  "ckeditor5-rules": {
   "repository": "https://github.com/ckeditor/ckeditor5-dev"
  },
@@ -2232,6 +2229,9 @@
  "weex": {
   "docs": "https://github.com/erha19/eslint-plugin-weex/blob/master/docs/rules/",
   "repository": "https://github.com/erha19/eslint-plugin-weex"
+ },
+ "weex-bundle": {
+  "repository": "https://github.com/Hanks10100/eslint-plugin-weex-bundle"
  },
  "weex-vue": {
   "docs": "https://github.com/erha19/eslint-plugin-weex-vue/blob/master/docs/rules/",
