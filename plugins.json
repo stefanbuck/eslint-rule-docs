@@ -1880,6 +1880,10 @@
  "semistandard-react": {
   "repository": "https://github.com/adamelliotfields/eslint-plugin-semistandard-react"
  },
+ "servicenow": {
+  "docs": "https://github.com/arnoudkooi/eslint-plugin-servicenow/blob/master/docs/rules/",
+  "repository": "https://github.com/arnoudkooi/eslint-plugin-servicenow"
+ },
  "settimeout": {
   "repository": "https://github.com/udemy/eslint-udemy"
  },
