@@ -946,6 +946,9 @@
   "docs": "https://github.com/ideadapt/eslint-plugin-jsapps/blob/master/docs/rules/",
   "repository": "https://github.com/ideadapt/eslint-plugin-jsapps"
  },
+ "jsbox": {
+  "repository": "https://github.com/EqualMa/eslint-plugin-jsbox"
+ },
  "jsdoc": {
   "repository": "https://github.com/gajus/eslint-plugin-jsdoc"
  },
