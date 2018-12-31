@@ -1080,6 +1080,9 @@
  "loosely-restrict-imports": {
   "repository": "https://github.com/mattgoucher/eslint-plugin-loosely-restrict-imports"
  },
+ "lucky-monkey": {
+  "repository": "https://github.com/borenXue/eslint-plugin-lucky-monkey"
+ },
  "lw": {
   "repository": "https://github.com/laurelandwolf/eslint-plugin-lw"
  },
