@@ -37,6 +37,9 @@
  "amd-imports": {
   "repository": "https://github.com/jkieboom/eslint-plugin-amd-imports"
  },
+ "ami": {
+  "repository": "https://github.com/ami-team/eslint-plugin-ami"
+ },
  "analyze": {
   "repository": "https://github.com/th317erd/eslint-plugin-analyze"
  },
