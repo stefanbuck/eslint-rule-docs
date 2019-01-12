@@ -1298,6 +1298,9 @@
   "docs": "https://github.com/eprincev-egor/no-cyrillic-string/blob/master/docs/rules/",
   "repository": "https://github.com/eprincev-egor/no-cyrillic-string"
  },
+ "no-dupe-class-fields": {
+  "repository": "https://github.com/Macil/eslint-plugin-no-dupe-class-fields"
+ },
  "no-editor-code": {
   "repository": "https://github.com/lukebelliveau/eslint-plugin-no-editor-code"
  },
