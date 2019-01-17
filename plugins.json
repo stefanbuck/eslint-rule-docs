@@ -1014,6 +1014,10 @@
   "docs": "https://github.com/rankida/eslint-plugin-lab/blob/master/docs/rules/",
   "repository": "https://github.com/rankida/eslint-plugin-lab"
  },
+ "langs": {
+  "docs": "https://github.com/infodusha/eslint-plugin-langs/blob/master/docs/rules/",
+  "repository": "https://github.com/infodusha/eslint-plugin-langs"
+ },
  "lcb-mini": {
   "repository": "https://github.com/douzi8/eslint-plugin-lcb-mini"
  },
