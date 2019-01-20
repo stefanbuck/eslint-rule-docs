@@ -1445,6 +1445,9 @@
  "nodeca": {
   "repository": "https://github.com/nodeca/eslint-plugin-nodeca"
  },
+ "nodejs": {
+  "repository": "https://github.com/geek/eslint-plugin-nodejs"
+ },
  "noko": {
   "docs": "https://github.com/doronwix/eslint-plugin-noko/blob/master/docs/rules/",
   "repository": "https://github.com/doronwix/eslint-plugin-noko"
