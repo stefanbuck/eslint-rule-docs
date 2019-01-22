@@ -434,6 +434,10 @@
   "docs": "https://github.com/brendenpalmer/eslint-plugin-disable-features/blob/master/docs/rules/",
   "repository": "https://github.com/brendenpalmer/eslint-plugin-disable-features"
  },
+ "disallow-literals-as-jsxelement-children": {
+  "docs": "https://github.com/dominiczaq/eslint-plugin-disallow-literals-as-jsxelement-children/blob/master/docs/rules/",
+  "repository": "https://github.com/dominiczaq/eslint-plugin-disallow-literals-as-jsxelement-children"
+ },
  "dollar-sign": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-dollar-sign"
  },
@@ -2151,6 +2155,10 @@
  "typescript": {
   "docs": "https://github.com/nzakas/eslint-plugin-typescript/blob/master/docs/rules/",
   "repository": "https://github.com/nzakas/eslint-plugin-typescript"
+ },
+ "typescript-sort-keys": {
+  "docs": "https://github.com/infctr/eslint-plugin-typescript-sort-keys/blob/master/docs/rules/",
+  "repository": "https://github.com/infctr/eslint-plugin-typescript-sort-keys"
  },
  "typling": {
   "repository": "https://github.com/jamen/eslint-plugin-typling"
