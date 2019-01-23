@@ -2152,10 +2152,6 @@
  "types": {
   "repository": "https://github.com/dissimulate/eslint-plugin-types"
  },
- "typescript": {
-  "docs": "https://github.com/nzakas/eslint-plugin-typescript/blob/master/docs/rules/",
-  "repository": "https://github.com/nzakas/eslint-plugin-typescript"
- },
  "typescript-sort-keys": {
   "docs": "https://github.com/infctr/eslint-plugin-typescript-sort-keys/blob/master/docs/rules/",
   "repository": "https://github.com/infctr/eslint-plugin-typescript-sort-keys"
