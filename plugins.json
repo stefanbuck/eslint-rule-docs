@@ -1968,9 +1968,6 @@
   "docs": "https://github.com/mthadley/eslint-plugin-sort-destructure-keys/blob/master/docs/rules/",
   "repository": "https://github.com/mthadley/eslint-plugin-sort-destructure-keys"
  },
- "sort-imports": {
-  "repository": "https://github.com/umidbekkarimov/eslint-plugin-sort-imports"
- },
  "sort-imports-es6": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-sort-imports-es6"
  },
