@@ -1095,6 +1095,7 @@
   "repository": "https://github.com/mattgoucher/eslint-plugin-loosely-restrict-imports"
  },
  "lucky-monkey": {
+  "docs": "https://github.com/borenXue/eslint-plugin-lucky-monkey/blob/master/docs/rules/",
   "repository": "https://github.com/borenXue/eslint-plugin-lucky-monkey"
  },
  "lw": {
