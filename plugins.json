@@ -340,6 +340,9 @@
  "contains": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-contains"
  },
+ "couchdb": {
+  "repository": "https://github.com/scdf/eslint-plugin-couchdb"
+ },
  "coursera": {
   "docs": "https://github.com/coursera/eslint-plugin-coursera/blob/master/docs/rules/",
   "repository": "https://github.com/coursera/eslint-plugin-coursera"
