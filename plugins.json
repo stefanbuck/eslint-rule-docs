@@ -851,6 +851,10 @@
   "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/benmosher/eslint-plugin-import"
  },
+ "import-force-abbr": {
+  "docs": "https://github.com/deser/eslint-plugin-import-force-abbr/blob/master/docs/rules/",
+  "repository": "https://github.com/deser/eslint-plugin-import-force-abbr"
+ },
  "import-length": {
   "repository": "https://github.com/steelsojka/eslint-import-length"
  },
@@ -1666,6 +1670,9 @@
  },
  "pureness": {
   "repository": "https://github.com/rom-melnyk/eslint-plugin-pureness"
+ },
+ "putout": {
+  "repository": "https://github.com/coderaiser/putout"
  },
  "quintoandar": {
   "repository": "https://github.com/quintoandar/eslint-config-quintoandar"
