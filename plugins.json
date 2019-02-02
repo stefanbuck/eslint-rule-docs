@@ -1968,6 +1968,9 @@
  "solfege": {
   "repository": "https://github.com/neolao/eslint-plugin-solfege"
  },
+ "solfegejs": {
+  "repository": "https://github.com/solfegejs/eslint-plugin"
+ },
  "sonarjs": {
   "docs": "https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/",
   "repository": "https://github.com/SonarSource/eslint-plugin-sonarjs"
