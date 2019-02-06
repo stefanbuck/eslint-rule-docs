@@ -753,7 +753,7 @@
   "repository": "https://github.com/Stuk/eslint-plugin-header"
  },
  "healthier": {
-  "repository": "https://github.com/KidkArolis/eslint-config-healthier"
+  "repository": "https://github.com/KidkArolis/eslint-plugin-healthier"
  },
  "heisenberg": {
   "repository": "https://github.com/DekodeInteraktiv/heisenberg"
