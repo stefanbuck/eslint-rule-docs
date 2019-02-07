@@ -2060,6 +2060,9 @@
   "docs": "https://github.com/strudeljs/eslint-plugin-strudel/blob/master/docs/rules/",
   "repository": "https://github.com/strudeljs/eslint-plugin-strudel"
  },
+ "styles-object": {
+  "repository": "https://github.com/helixbass/eslint-plugin-styles-object"
+ },
  "stzhang": {
   "repository": "https://github.com/stuartZhang/eslint-plugin-amo"
  },
