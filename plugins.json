@@ -1508,6 +1508,9 @@
  "opinionated": {
   "repository": "https://github.com/dogma-io/eslint-plugin-opinionated"
  },
+ "opipe": {
+  "repository": "https://github.com/peoro/eslint-plugin-opipe"
+ },
  "optimize-regex": {
   "docs": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex/blob/master/docs/rules/",
   "repository": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex"
