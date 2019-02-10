@@ -1639,6 +1639,9 @@
  "producthunt": {
   "repository": "https://github.com/producthunt/eslint-plugin-producthunt"
  },
+ "project": {
+  "repository": "https://github.com/g-plane/eslint-plugin-project"
+ },
  "promise": {
   "docs": "https://github.com/xjamundx/eslint-plugin-promise/blob/master/docs/rules/",
   "repository": "https://github.com/xjamundx/eslint-plugin-promise"
@@ -1653,6 +1656,9 @@
  "prop-has-no-shadow-declaration": {
   "docs": "https://github.com/tknysh/eslint-plugin-prop-has-no-shadow-declaration/blob/master/docs/rules/",
   "repository": "https://github.com/tknysh/eslint-plugin-prop-has-no-shadow-declaration"
+ },
+ "prop-types-shorthand": {
+  "repository": "https://github.com/helixbass/eslint-plugin-prop-types-shorthand"
  },
  "prototype": {
   "docs": "https://github.com/noyobo/eslint-plugin-prototype/blob/master/docs/rules/",
