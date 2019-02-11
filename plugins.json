@@ -100,6 +100,9 @@
  "aurelia": {
   "repository": "https://github.com/bryanrsmith/eslint-plugin-aurelia"
  },
+ "autofix": {
+  "repository": "https://github.com/aladdin-add/eslint-plugin-autofix"
+ },
  "ava": {
   "docs": "https://github.com/avajs/eslint-plugin-ava/blob/master/docs/rules/",
   "repository": "https://github.com/avajs/eslint-plugin-ava"
