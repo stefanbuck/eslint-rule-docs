@@ -171,6 +171,10 @@
   "docs": "https://github.com/siffogh/eslint-plugin-better-styled-components/blob/master/docs/rules/",
   "repository": "https://github.com/siffogh/eslint-plugin-better-styled-components"
  },
+ "bitrefill": {
+  "docs": "https://github.com/bitrefill/eslint-plugin-bitrefill/blob/master/docs/rules/",
+  "repository": "https://github.com/bitrefill/eslint-plugin-bitrefill"
+ },
  "blank-line": {
   "repository": "https://github.com/xbdtb/eslint-plugin-blank-line"
  },
@@ -1282,6 +1286,9 @@
  },
  "no-async-without-await": {
   "repository": "https://github.com/zertosh/eslint-plugin-no-async-without-await"
+ },
+ "no-autofix": {
+  "repository": "https://github.com/aladdin-add/eslint-plugin-no-autofix"
  },
  "no-await-async-call": {
   "repository": "https://github.com/christensson/eslint-plugin-no-await-async-call"
