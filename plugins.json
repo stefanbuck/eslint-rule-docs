@@ -17,6 +17,9 @@
  "adone": {
   "repository": "https://github.com/ciferox/eslint-plugin-adone"
  },
+ "adventure-land": {
+  "repository": "https://github.com/davidtimmons/eslint-plugin-adventure-land"
+ },
  "agpl": {
   "repository": "https://github.com/ArekZc/eslint-plugin-agpl"
  },
