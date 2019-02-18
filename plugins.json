@@ -1014,6 +1014,10 @@
  "jsx-extras": {
   "repository": "https://github.com/nmn/eslint-plugin-jsx-extras"
  },
+ "jsx-form": {
+  "docs": "https://github.com/deadlybyte/eslint-plugin-jsx-form/blob/master/docs/rules/",
+  "repository": "https://github.com/deadlybyte/eslint-plugin-jsx-form"
+ },
  "jsxspacing": {
   "docs": "https://github.com/alexbird/eslint-plugin-jsxspacing/blob/master/docs/rules/",
   "repository": "https://github.com/alexbird/eslint-plugin-jsxspacing"
