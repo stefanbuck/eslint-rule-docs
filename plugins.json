@@ -229,6 +229,9 @@
  "camelcase-ohm": {
   "repository": "https://github.com/ohmlang/eslint-plugin-camelcase-ohm"
  },
+ "camunda-licensed": {
+  "repository": "https://github.com/camunda/eslint-plugin-camunda-licensed"
+ },
  "caniuse": {
   "repository": "https://github.com/amilajack/eslint-plugin-caniuse"
  },
@@ -1062,6 +1065,10 @@
  "levitate": {
   "repository": "https://github.com/ThisIsManta/eslint-plugin-levitate"
  },
+ "license-header": {
+  "docs": "https://github.com/nikku/eslint-plugin-license-header/blob/master/docs/rules/",
+  "repository": "https://github.com/nikku/eslint-plugin-license-header"
+ },
  "lint": {
   "repository": "https://github.com/zertosh/eslint-plugin-lint"
  },
@@ -1374,6 +1381,9 @@
  },
  "no-inferred-method-name": {
   "repository": "https://github.com/johnstonbl01/eslint-no-inferred-method-name"
+ },
+ "no-jquery": {
+  "repository": "https://github.com/wikimedia/eslint-plugin-no-jquery"
  },
  "no-js": {
   "repository": "https://github.com/chicoxyzzy/eslint-plugin-no-js"
