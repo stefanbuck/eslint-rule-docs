@@ -1214,6 +1214,10 @@
   "docs": "https://github.com/wunderflats/eslint-plugin-moment-utc/blob/master/docs/rules/",
   "repository": "https://github.com/wunderflats/eslint-plugin-moment-utc"
  },
+ "momentjs": {
+  "docs": "https://github.com/schnaser/eslint-plugin-momentjs/blob/master/docs/rules/",
+  "repository": "https://github.com/schnaser/eslint-plugin-momentjs"
+ },
  "mongo": {
   "repository": "https://github.com/ispringer/eslint-plugin-mongo"
  },
@@ -1656,6 +1660,9 @@
  },
  "prettier-rules": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-prettier-rules"
+ },
+ "prettierx": {
+  "repository": "https://github.com/aMarCruz/eslint-plugin-prettierx"
  },
  "private-props": {
   "repository": "https://github.com/globetro/eslint-plugin-private-props"
