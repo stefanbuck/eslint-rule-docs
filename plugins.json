@@ -106,6 +106,9 @@
  "autofix": {
   "repository": "https://github.com/aladdin-add/eslint-plugin-autofix"
  },
+ "automatic": {
+  "repository": "https://github.com/gaoxiaosong/eslint-plugin-automatic"
+ },
  "ava": {
   "docs": "https://github.com/avajs/eslint-plugin-ava/blob/master/docs/rules/",
   "repository": "https://github.com/avajs/eslint-plugin-ava"
@@ -1251,6 +1254,9 @@
  },
  "mutation": {
   "repository": "https://github.com/peterkhayes/eslint-plugin-mutation"
+ },
+ "myself": {
+  "repository": "https://github.com/kangkai124/eslint-plugin-myself"
  },
  "mysticatea": {
   "docs": "https://github.com/mysticatea/eslint-plugin/blob/master/docs/rules/",
