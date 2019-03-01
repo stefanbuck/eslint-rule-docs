@@ -481,6 +481,9 @@
   "docs": "https://github.com/enkidevs/eslint-plugin-duck/blob/master/docs/rules/",
   "repository": "https://github.com/enkidevs/eslint-plugin-duck"
  },
+ "efficient": {
+  "repository": "https://github.com/flexare/eslint-plugin-efficient"
+ },
  "eggache": {
   "repository": "https://github.com/eggjs/eslint-plugin-eggache"
  },
