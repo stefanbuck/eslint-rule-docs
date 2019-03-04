@@ -1849,6 +1849,9 @@
  "redux-constants": {
   "repository": "https://github.com/learningobjectsinc/eslint-plugin-redux-constants"
  },
+ "redux-reselect": {
+  "repository": "https://github.com/viktor-ku/eslint-plugin-redux-reselect"
+ },
  "redux-saga": {
   "docs": "https://github.com/pke/eslint-plugin-redux-saga/blob/master/docs/rules/",
   "repository": "https://github.com/pke/eslint-plugin-redux-saga"
