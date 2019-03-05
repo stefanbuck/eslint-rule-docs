@@ -1082,6 +1082,7 @@
   "repository": "https://github.com/zertosh/eslint-plugin-lint"
  },
  "lit": {
+  "docs": "https://github.com/43081j/eslint-plugin-lit/blob/master/docs/rules/",
   "repository": "https://github.com/43081j/eslint-plugin-lit"
  },
  "literal-blacklist": {
@@ -2348,6 +2349,9 @@
  },
  "whitespace": {
   "repository": "https://github.com/willklein/eslint-plugin-whitespace"
+ },
+ "why": {
+  "repository": "https://github.com/coleturner/eslint-plugin-why"
  },
  "wix-editor": {
   "repository": "https://github.com/wix/eslint-plugin-wix-editor"
