@@ -915,9 +915,6 @@
  "inlinecheck": {
   "repository": "https://github.com/aravindsrivats/eslint-plugin-inlinecheck"
  },
- "instructure-ui": {
-  "repository": "https://github.com/instructure/instructure-ui"
- },
  "irm": {
   "repository": "https://github.com/hadeshe93/eslint-plugin-irm"
  },
