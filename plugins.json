@@ -558,6 +558,9 @@
   "docs": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin/blob/master/docs/rules/",
   "repository": "https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin"
  },
+ "et": {
+  "repository": "https://github.com/wyhaya/eslint-plugin-et"
+ },
  "etiqa": {
   "repository": "https://github.com/Etiqa/eslint-plugin-etiqa"
  },
@@ -724,6 +727,9 @@
  },
  "glip": {
   "repository": "https://github.com/brettpaden/eslint-plugin-glip"
+ },
+ "good-practices": {
+  "repository": "https://github.com/Rahul9046/eslint-plugin-good-practices"
  },
  "goodbaby-server": {
   "repository": "https://github.com/gbtechhub/server-eslint-rules"
@@ -914,6 +920,9 @@
  },
  "inlinecheck": {
   "repository": "https://github.com/aravindsrivats/eslint-plugin-inlinecheck"
+ },
+ "instructure-ui": {
+  "repository": "https://github.com/instructure/instructure-ui"
  },
  "irm": {
   "repository": "https://github.com/hadeshe93/eslint-plugin-irm"
