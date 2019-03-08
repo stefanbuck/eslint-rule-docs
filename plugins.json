@@ -490,6 +490,9 @@
  "ejs-js": {
   "repository": "https://github.com/overlookmotel/eslint-plugin-ejs-js"
  },
+ "ekimlinger": {
+  "repository": "https://github.com/ekimlinger/eslint-plugin-ekimlinger"
+ },
  "elrond-childapp-bound": {
   "repository": "https://github.com/abeet/eslint-plugin-elrond-childapp-bound"
  },
