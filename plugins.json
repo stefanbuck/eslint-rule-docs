@@ -1686,6 +1686,9 @@
  "prettierx": {
   "repository": "https://github.com/aMarCruz/eslint-plugin-prettierx"
  },
+ "prettiest": {
+  "repository": "https://github.com/eamodio/eslint-plugin-prettiest"
+ },
  "private-props": {
   "repository": "https://github.com/globetro/eslint-plugin-private-props"
  },
