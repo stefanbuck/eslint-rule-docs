@@ -1087,6 +1087,9 @@
   "docs": "https://github.com/nikku/eslint-plugin-license-header/blob/master/docs/rules/",
   "repository": "https://github.com/nikku/eslint-plugin-license-header"
  },
+ "lightning-components": {
+  "repository": "https://github.com/reiniergs/eslint-plugin-lightning-components"
+ },
  "lint": {
   "repository": "https://github.com/zertosh/eslint-plugin-lint"
  },
@@ -1519,6 +1522,9 @@
  "noko": {
   "docs": "https://github.com/doronwix/eslint-plugin-noko/blob/master/docs/rules/",
   "repository": "https://github.com/doronwix/eslint-plugin-noko"
+ },
+ "nop": {
+  "repository": "https://github.com/pasaran/eslint-plugin-nop"
  },
  "notice": {
   "repository": "https://github.com/nickdeis/eslint-plugin-notice"
