@@ -2080,6 +2080,9 @@
  "sorting": {
   "repository": "https://github.com/jacobrask/eslint-plugin-sorting"
  },
+ "sowing-machine": {
+  "repository": "https://github.com/harrysolovay/sowing-machine"
+ },
  "spellcheck": {
   "repository": "https://github.com/aotaduy/eslint-plugin-spellcheck"
  },
