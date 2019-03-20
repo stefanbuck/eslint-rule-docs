@@ -1050,9 +1050,6 @@
   "docs": "https://github.com/Deol/eslint-plugin-kaola/blob/master/docs/rules/",
   "repository": "https://github.com/Deol/eslint-plugin-kaola"
  },
- "kiddomstyle": {
-  "repository": "https://github.com/kiddom/eslint-plugin-kiddomstyle"
- },
  "kiwicom": {
   "repository": "https://github.com/kiwicom/eslint-plugin-kiwicom"
  },
