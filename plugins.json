@@ -1767,6 +1767,9 @@
  "rapid7": {
   "repository": "https://github.com/rapid7/eslint-plugin-rapid7"
  },
+ "rational-studio": {
+  "repository": "https://github.com/rational-studio/eslint-plugin-rational-studio"
+ },
  "react": {
   "docs": "https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/",
   "repository": "https://github.com/yannickcr/eslint-plugin-react"
