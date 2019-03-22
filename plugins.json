@@ -442,6 +442,10 @@
   "docs": "https://github.com/findmypast-oss/eslint-plugin-deprecate-import/blob/master/docs/rules/",
   "repository": "https://github.com/findmypast-oss/eslint-plugin-deprecate-import"
  },
+ "deprecated": {
+  "docs": "https://github.com/ayqy/eslint-plugin-deprecated/blob/master/docs/rules/",
+  "repository": "https://github.com/ayqy/eslint-plugin-deprecated"
+ },
  "destructuring": {
   "docs": "https://github.com/lukeapage/eslint-plugin-destructuring/blob/master/docs/rules/",
   "repository": "https://github.com/lukeapage/eslint-plugin-destructuring"
@@ -563,6 +567,9 @@
  },
  "et": {
   "repository": "https://github.com/wyhaya/eslint-plugin-et"
+ },
+ "etc": {
+  "repository": "https://github.com/cartant/eslint-plugin-etc"
  },
  "etiqa": {
   "repository": "https://github.com/Etiqa/eslint-plugin-etiqa"
@@ -910,6 +917,9 @@
  },
  "impress": {
   "repository": "https://github.com/aqrln/eslint-plugin-impress"
+ },
+ "indent-class-properties": {
+  "repository": "https://github.com/larsmunkholm/eslint-plugin-indent-class-properties"
  },
  "inferno": {
   "docs": "https://github.com/infernojs/eslint-plugin-inferno/blob/master/docs/rules/",
@@ -1953,6 +1963,9 @@
  },
  "rwell-camelcase": {
   "repository": "https://github.com/RoundingWellOS/eslint-plugin-rwell-camelcase"
+ },
+ "rxjs": {
+  "repository": "https://github.com/cartant/eslint-plugin-rxjs"
  },
  "ryanair": {
   "repository": "https://github.com/ryanair/linters"
