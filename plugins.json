@@ -37,6 +37,9 @@
   "docs": "https://github.com/appcelerator/eslint-plugin-alloy/blob/master/docs/rules/",
   "repository": "https://github.com/appcelerator/eslint-plugin-alloy"
  },
+ "altesis": {
+  "repository": "https://github.com/AltesisPro/eslint-plugin-altesis"
+ },
  "amd-imports": {
   "repository": "https://github.com/jkieboom/eslint-plugin-amd-imports"
  },
@@ -355,6 +358,10 @@
  },
  "contains": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-contains"
+ },
+ "core": {
+  "docs": "https://github.com/Braised-Cakes/eslint-plugin-core/blob/master/docs/rules/",
+  "repository": "https://github.com/Braised-Cakes/eslint-plugin-core"
  },
  "couchdb": {
   "repository": "https://github.com/scdf/eslint-plugin-couchdb"
@@ -892,6 +899,10 @@
  "import-force-abbr": {
   "docs": "https://github.com/deser/eslint-plugin-import-force-abbr/blob/master/docs/rules/",
   "repository": "https://github.com/deser/eslint-plugin-import-force-abbr"
+ },
+ "import-helpers": {
+  "docs": "https://github.com/Tibfib/eslint-plugin-import-helpers/blob/master/docs/rules/",
+  "repository": "https://github.com/Tibfib/eslint-plugin-import-helpers"
  },
  "import-length": {
   "repository": "https://github.com/steelsojka/eslint-import-length"
@@ -2105,6 +2116,9 @@
  "springworks": {
   "docs": "https://github.com/Springworks/eslint-plugin-springworks/blob/master/docs/rules/",
   "repository": "https://github.com/Springworks/eslint-plugin-springworks"
+ },
+ "spruce": {
+  "repository": "https://github.com/sprucelabsai/workspace.sprucebot-skills-kit"
  },
  "sql": {
   "repository": "https://github.com/gajus/eslint-plugin-sql"
