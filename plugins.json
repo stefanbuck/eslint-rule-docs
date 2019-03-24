@@ -581,6 +581,10 @@
  "etiqa": {
   "repository": "https://github.com/Etiqa/eslint-plugin-etiqa"
  },
+ "evelyn": {
+  "docs": "https://github.com/evelynhathaway/eslint-plugin-evelyn/blob/master/docs/rules/",
+  "repository": "https://github.com/evelynhathaway/eslint-plugin-evelyn"
+ },
  "evernote": {
   "repository": "https://github.com/evernote/eslint-plugin-evernote"
  },
