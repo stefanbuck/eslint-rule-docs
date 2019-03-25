@@ -2271,9 +2271,6 @@
  "tsc": {
   "repository": "https://github.com/unlight/eslint-plugin-tsc"
  },
- "tslint": {
-  "repository": "https://github.com/JamesHenry/eslint-plugin-tslint"
- },
  "turbopatent": {
   "repository": "https://github.com/PatentNavigation/eslint-plugin-turbopatent"
  },
