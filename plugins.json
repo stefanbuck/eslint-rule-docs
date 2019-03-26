@@ -360,7 +360,6 @@
   "repository": "https://github.com/iambrandonn/eslint-plugin-contains"
  },
  "core": {
-  "docs": "https://github.com/Braised-Cakes/eslint-plugin-core/blob/master/docs/rules/",
   "repository": "https://github.com/Braised-Cakes/eslint-plugin-core"
  },
  "couchdb": {
@@ -450,7 +449,6 @@
   "repository": "https://github.com/findmypast-oss/eslint-plugin-deprecate-import"
  },
  "deprecated": {
-  "docs": "https://github.com/ayqy/eslint-plugin-deprecated/blob/master/docs/rules/",
   "repository": "https://github.com/ayqy/eslint-plugin-deprecated"
  },
  "destructuring": {
@@ -2047,6 +2045,9 @@
  },
  "skip-nolint-lines": {
   "repository": "https://github.com/gregsabo/eslint-plugin-skip-nolint-lines"
+ },
+ "skyscanner-dates": {
+  "repository": "https://github.com/Skyscanner/eslint-plugin-skyscanner-dates"
  },
  "sm": {
   "repository": "https://github.com/molee1905/eslint-plugin-sm"
