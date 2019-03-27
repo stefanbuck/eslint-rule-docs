@@ -747,6 +747,9 @@
  "glip": {
   "repository": "https://github.com/brettpaden/eslint-plugin-glip"
  },
+ "gmfe": {
+  "repository": "https://github.com/gmfe/eslint-plugin-gmfe"
+ },
  "good-practices": {
   "repository": "https://github.com/Rahul9046/eslint-plugin-good-practices"
  },
