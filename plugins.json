@@ -281,6 +281,9 @@
   "docs": "https://github.com/wesbaker/eslint-plugin-class-extends/blob/master/docs/rules/",
   "repository": "https://github.com/wesbaker/eslint-plugin-class-extends"
  },
+ "class-methods-use-this-regex": {
+  "repository": "https://github.com/Donov4n/eslint-plugin-class-methods-use-this-regex"
+ },
  "class-methods-use-this-regexp": {
   "repository": "https://github.com/teryaew/eslint-plugin-class-methods-use-this-regexp"
  },
@@ -2183,6 +2186,9 @@
  },
  "suitcss-classnames": {
   "repository": "https://github.com/azu/eslint-plugin-suitcss-classnames"
+ },
+ "svelte3": {
+  "repository": "https://github.com/sveltejs/eslint-plugin-svelte3"
  },
  "switch-case": {
   "docs": "https://github.com/lukeapage/eslint-plugin-switch-case/blob/master/docs/rules/",
