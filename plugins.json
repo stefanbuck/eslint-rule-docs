@@ -14,6 +14,9 @@
   "docs": "https://github.com/mcclowes/eslint-plugin-absolute-import/blob/master/docs/rules/",
   "repository": "https://github.com/mcclowes/eslint-plugin-absolute-import"
  },
+ "ad-hok": {
+  "repository": "https://github.com/helixbass/eslint-plugin-ad-hok"
+ },
  "adone": {
   "repository": "https://github.com/ciferox/eslint-plugin-adone"
  },
@@ -1157,6 +1160,9 @@
   "docs": "https://github.com/ota-meshi/eslint-plugin-lodash-template/blob/master/docs/rules/",
   "repository": "https://github.com/ota-meshi/eslint-plugin-lodash-template"
  },
+ "log": {
+  "repository": "https://github.com/omrilotan/mono"
+ },
  "log-filenames": {
   "repository": "https://github.com/justlep/eslint-plugin-log-filenames"
  },
@@ -1486,6 +1492,9 @@
  "no-return": {
   "docs": "https://github.com/boiyaa/eslint-plugin-no-return/blob/master/docs/rules/",
   "repository": "https://github.com/boiyaa/eslint-plugin-no-return"
+ },
+ "no-secrets": {
+  "repository": "https://github.com/nickdeis/eslint-plugin-no-secrets"
  },
  "no-shit": {
   "repository": "https://github.com/jakubsadura/eslint-plugin-no-shit"
