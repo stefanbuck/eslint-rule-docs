@@ -841,6 +841,10 @@
   "docs": "https://github.com/OvalMoney/eslint-plugin-i18n-validator/blob/master/docs/rules/",
   "repository": "https://github.com/OvalMoney/eslint-plugin-i18n-validator"
  },
+ "i18next": {
+  "docs": "https://github.com/edvardchen/eslint-plugin-i18next/blob/master/docs/rules/",
+  "repository": "https://github.com/edvardchen/eslint-plugin-i18next"
+ },
  "icon-button": {
   "repository": "https://github.com/SmallImprovements-OpenSource/eslint-plugin-icon-button"
  },
@@ -1502,6 +1506,10 @@
  "no-skip-tests": {
   "repository": "https://github.com/romaingaillardjs/eslint-plugin-no-skip-tests"
  },
+ "no-smart-quotes": {
+  "docs": "https://github.com/seleb/eslint-plugin-no-smart-quotes/blob/master/docs/rules/",
+  "repository": "https://github.com/seleb/eslint-plugin-no-smart-quotes"
+ },
  "no-spaces-in-call-expression": {
   "repository": "https://github.com/fasttime/eslint-plugin-no-spaces-in-call-expression"
  },
@@ -1566,6 +1574,9 @@
  },
  "nowrap-in-template-string": {
   "repository": "https://github.com/coolzjy/eslint-plugin-nowrap-in-template-string"
+ },
+ "number-literal-case": {
+  "repository": "https://github.com/kyriacos/eslint-plugin-number-literal-case"
  },
  "nuxt": {
   "docs": "https://github.com/nuxt/eslint-plugin-nuxt/blob/master/docs/rules/",
