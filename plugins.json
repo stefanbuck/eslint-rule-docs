@@ -633,6 +633,9 @@
  "fest": {
   "repository": "https://github.com/Angmor23/eslint-plugin-fest"
  },
+ "fetch-options": {
+  "repository": "https://github.com/piatra/eslint-plugin-fetch"
+ },
  "fieldbook": {
   "repository": "https://github.com/fieldbook/fieldbook-eslint"
  },
@@ -682,6 +685,9 @@
  },
  "flux-standard-actions": {
   "repository": "https://github.com/aosyatnik/eslint-plugin-flux-standard-actions"
+ },
+ "folder-schema-test": {
+  "repository": "https://github.com/servicetitan/folder-lint"
  },
  "force-void": {
   "repository": "https://github.com/pat841/eslint-plugin-force-void"
@@ -1004,6 +1010,10 @@
  "jest": {
   "docs": "https://github.com/jest-community/eslint-plugin-jest/blob/master/docs/rules/",
   "repository": "https://github.com/jest-community/eslint-plugin-jest"
+ },
+ "jest-formatting": {
+  "docs": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting/blob/master/docs/rules/",
+  "repository": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting"
  },
  "jinja": {
   "repository": "https://github.com/alexkuz/eslint-plugin-jinja"
@@ -1927,6 +1937,9 @@
  "regru": {
   "docs": "https://github.com/regru/eslint-plugin-regru/blob/master/docs/rules/",
   "repository": "https://github.com/regru/eslint-plugin-regru"
+ },
+ "reiwa": {
+  "repository": "https://github.com/otofu-square/eslint-plugin-reiwa"
  },
  "relay": {
   "repository": "https://github.com/relayjs/eslint-plugin-relay"
