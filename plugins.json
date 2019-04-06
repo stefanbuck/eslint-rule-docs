@@ -686,6 +686,9 @@
  "flux-standard-actions": {
   "repository": "https://github.com/aosyatnik/eslint-plugin-flux-standard-actions"
  },
+ "folder-schema": {
+  "repository": "https://github.com/servicetitan/folder-lint"
+ },
  "folder-schema-test": {
   "repository": "https://github.com/servicetitan/folder-lint"
  },
@@ -1980,6 +1983,9 @@
  "requirejs": {
   "docs": "https://github.com/cvisco/eslint-plugin-requirejs/blob/master/docs/rules/",
   "repository": "https://github.com/cvisco/eslint-plugin-requirejs"
+ },
+ "restify-use-next": {
+  "repository": "https://github.com/rajatkumar/eslint-plugin-restify-use-next"
  },
  "rgl": {
   "repository": "https://github.com/fengzilong/eslint-plugin-rgl"
