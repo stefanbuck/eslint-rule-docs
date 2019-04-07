@@ -1562,6 +1562,9 @@
  "no-useless-assign": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-no-useless-assign"
  },
+ "no-var-reassign": {
+  "repository": "https://github.com/jacksonrayhamilton/eslint-plugin-no-var-reassign"
+ },
  "node": {
   "docs": "https://github.com/mysticatea/eslint-plugin-node/blob/master/docs/rules/",
   "repository": "https://github.com/mysticatea/eslint-plugin-node"
