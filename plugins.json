@@ -531,6 +531,10 @@
  "ember-standard": {
   "repository": "https://github.com/ciena-blueplanet/eslint-plugin-ember-standard"
  },
+ "emmanuel": {
+  "docs": "https://github.com/Manu1400/eslint-plugin-emmanuel/blob/master/docs/rules/",
+  "repository": "https://github.com/Manu1400/eslint-plugin-emmanuel"
+ },
  "empty-returns": {
   "repository": "https://github.com/aero31aero/eslint-plugin-empty-returns"
  },
@@ -687,9 +691,6 @@
   "repository": "https://github.com/aosyatnik/eslint-plugin-flux-standard-actions"
  },
  "folder-schema": {
-  "repository": "https://github.com/servicetitan/folder-lint"
- },
- "folder-schema-test": {
   "repository": "https://github.com/servicetitan/folder-lint"
  },
  "force-void": {
@@ -1786,6 +1787,10 @@
  },
  "prop-types-shorthand": {
   "repository": "https://github.com/helixbass/eslint-plugin-prop-types-shorthand"
+ },
+ "proposal-class": {
+  "docs": "https://github.com/peakchen90/eslint-plugin-proposal-class/blob/master/docs/rules/",
+  "repository": "https://github.com/peakchen90/eslint-plugin-proposal-class"
  },
  "prototype": {
   "docs": "https://github.com/noyobo/eslint-plugin-prototype/blob/master/docs/rules/",
