@@ -951,6 +951,10 @@
  "import-sorter": {
   "repository": "https://github.com/fengkfengk/eslint-plugin-import-sorter"
  },
+ "import-updated": {
+  "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
+  "repository": "https://github.com/benmosher/eslint-plugin-import"
+ },
  "impress": {
   "repository": "https://github.com/aqrln/eslint-plugin-impress"
  },
@@ -1451,6 +1455,9 @@
  "no-http-protocol": {
   "docs": "https://github.com/pstephenwille/no-http-protocol/blob/master/docs/rules/",
   "repository": "https://github.com/pstephenwille/no-http-protocol"
+ },
+ "no-hyogo-police": {
+  "repository": "https://github.com/pipboy3000/eslint-plugin-no-hyogo-police"
  },
  "no-if-not": {
   "repository": "https://github.com/bakkot/eslint-plugin-no-if-not"
