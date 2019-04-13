@@ -1300,6 +1300,10 @@
  "mongodb": {
   "repository": "https://github.com/nfroidure/eslint-plugin-mongodb"
  },
+ "mongodb-server": {
+  "docs": "https://github.com/visemet/eslint-plugin-mongodb-server/blob/master/docs/rules/",
+  "repository": "https://github.com/visemet/eslint-plugin-mongodb-server"
+ },
  "monorepo": {
   "repository": "https://github.com/azz/eslint-plugin-monorepo"
  },
