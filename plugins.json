@@ -242,6 +242,7 @@
   "repository": "https://github.com/camunda/eslint-plugin-camunda-licensed"
  },
  "caniuse": {
+  "docs": "https://github.com/amilajack/eslint-plugin-caniuse/blob/master/docs/rules/",
   "repository": "https://github.com/amilajack/eslint-plugin-caniuse"
  },
  "caps-on": {
@@ -341,6 +342,7 @@
   "repository": "https://github.com/charlesbjohnson/eslint-module-plugins"
  },
  "compat": {
+  "docs": "https://github.com/amilajack/eslint-plugin-compat/blob/master/docs/rules/",
   "repository": "https://github.com/amilajack/eslint-plugin-compat"
  },
  "consistent-modules-import": {
@@ -2267,6 +2269,9 @@
  "tanda": {
   "docs": "https://github.com/deecewan/eslint-plugin-tanda/blob/master/docs/rules/",
   "repository": "https://github.com/deecewan/eslint-plugin-tanda"
+ },
+ "tangerine": {
+  "repository": "https://github.com/atlassian/tangerine"
  },
  "tanok": {
   "repository": "https://github.com/kindritskyiMax/eslint-plugin-tanok"
