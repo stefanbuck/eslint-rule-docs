@@ -1804,10 +1804,6 @@
  "prop-types-shorthand": {
   "repository": "https://github.com/helixbass/eslint-plugin-prop-types-shorthand"
  },
- "proposal-class": {
-  "docs": "https://github.com/peakchen90/eslint-plugin-proposal-class/blob/master/docs/rules/",
-  "repository": "https://github.com/peakchen90/eslint-plugin-proposal-class"
- },
  "prototype": {
   "docs": "https://github.com/noyobo/eslint-plugin-prototype/blob/master/docs/rules/",
   "repository": "https://github.com/noyobo/eslint-plugin-prototype"
