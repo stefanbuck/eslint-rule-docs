@@ -2526,6 +2526,9 @@
  "you-dont-need-momentjs": {
   "repository": "https://github.com/you-dont-need/You-Dont-Need-Momentjs"
  },
+ "you-dont-need-recompose": {
+  "repository": "https://github.com/icrosil/eslint-plugin-you-dont-need-recompose"
+ },
  "zillow": {
   "repository": "https://github.com/zillow/javascript"
  },
