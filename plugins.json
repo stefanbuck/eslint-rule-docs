@@ -345,6 +345,10 @@
   "docs": "https://github.com/amilajack/eslint-plugin-compat/blob/master/docs/rules/",
   "repository": "https://github.com/amilajack/eslint-plugin-compat"
  },
+ "compfest": {
+  "docs": "https://github.com/COMPFEST/eslint-plugin-compfest/blob/master/docs/rules/",
+  "repository": "https://github.com/COMPFEST/eslint-plugin-compfest"
+ },
  "consistent-modules-import": {
   "repository": "https://github.com/kiwi-code/eslint-plugin-consistent-import"
  },
@@ -807,9 +811,6 @@
  },
  "hammerhead": {
   "repository": "https://github.com/LavrovArtem/eslint-plugin-hammerhead"
- },
- "hapi": {
-  "repository": "https://github.com/continuationlabs/eslint-plugin-hapi"
  },
  "haraka": {
   "repository": "https://github.com/haraka/haraka-eslint"
@@ -1321,6 +1322,10 @@
  "more-naming-conventions-leading-underscore": {
   "repository": "https://github.com/alex-zissis/eslint-plugin-more-naming-conventions"
  },
+ "mp": {
+  "docs": "https://github.com/mp-components/eslint-plugin-mp/blob/master/docs/rules/",
+  "repository": "https://github.com/mp-components/eslint-plugin-mp"
+ },
  "mpirik": {
   "repository": "https://github.com/mpirik/eslint-plugin-mpirik"
  },
@@ -1758,6 +1763,9 @@
  "prefer-spread": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-prefer-spread"
  },
+ "prefer-type-alias": {
+  "repository": "https://github.com/otofu-square/eslint-plugin-prefer-type-alias"
+ },
  "prefix": {
   "docs": "https://github.com/m-hall/eslint-plugin-prefix/blob/master/docs/rules/",
   "repository": "https://github.com/m-hall/eslint-plugin-prefix"
@@ -1888,6 +1896,9 @@
  },
  "react-hooks": {
   "repository": "https://github.com/facebook/react"
+ },
+ "react-hooks-breadhead": {
+  "repository": "https://github.com/breadhead/eslint-plugin-react-hooks-breadhead"
  },
  "react-intl-format": {
   "docs": "https://github.com/calm/eslint-plugin-react-intl-format/blob/master/docs/rules/",
