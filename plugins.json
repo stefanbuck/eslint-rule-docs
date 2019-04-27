@@ -1812,6 +1812,10 @@
  "prop-types-shorthand": {
   "repository": "https://github.com/helixbass/eslint-plugin-prop-types-shorthand"
  },
+ "proposal": {
+  "docs": "https://github.com/peakchen90/eslint-plugin-proposal/blob/master/docs/rules/",
+  "repository": "https://github.com/peakchen90/eslint-plugin-proposal"
+ },
  "prototype": {
   "docs": "https://github.com/noyobo/eslint-plugin-prototype/blob/master/docs/rules/",
   "repository": "https://github.com/noyobo/eslint-plugin-prototype"
@@ -2017,6 +2021,9 @@
  },
  "restify-use-next": {
   "repository": "https://github.com/rajatkumar/eslint-plugin-restify-use-next"
+ },
+ "revizto": {
+  "repository": "https://github.com/revizto/eslint-rules"
  },
  "rgl": {
   "repository": "https://github.com/fengzilong/eslint-plugin-rgl"
