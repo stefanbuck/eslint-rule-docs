@@ -1349,6 +1349,10 @@
   "docs": "https://github.com/mysticatea/eslint-plugin/blob/master/docs/rules/",
   "repository": "https://github.com/mysticatea/eslint-plugin"
  },
+ "nada": {
+  "docs": "https://github.com/leonardoanalista/eslint-plugin-nada/blob/master/docs/rules/",
+  "repository": "https://github.com/leonardoanalista/eslint-plugin-nada"
+ },
  "named-unassigned-functions": {
   "repository": "https://github.com/ValYouW/eslint-plugin-named-unassigned-functions"
  },
