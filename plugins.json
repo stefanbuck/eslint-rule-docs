@@ -2371,10 +2371,6 @@
  "types": {
   "repository": "https://github.com/dissimulate/eslint-plugin-types"
  },
- "typescript-sort-keys": {
-  "docs": "https://github.com/infctr/eslint-plugin-typescript-sort-keys/blob/master/docs/rules/",
-  "repository": "https://github.com/infctr/eslint-plugin-typescript-sort-keys"
- },
  "typling": {
   "repository": "https://github.com/jamen/eslint-plugin-typling"
  },
