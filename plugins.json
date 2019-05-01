@@ -578,6 +578,9 @@
  "escompat": {
   "repository": "https://github.com/keithamus/eslint-plugin-escompat"
  },
+ "eslint-badin": {
+  "repository": "https://github.com/nemanjaMiljkovic/typescript-eslint"
+ },
  "eslint-comments": {
   "docs": "https://github.com/mysticatea/eslint-plugin-eslint-comments/blob/master/docs/rules/",
   "repository": "https://github.com/mysticatea/eslint-plugin-eslint-comments"
