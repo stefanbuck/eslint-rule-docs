@@ -578,9 +578,6 @@
  "escompat": {
   "repository": "https://github.com/keithamus/eslint-plugin-escompat"
  },
- "eslint-badin": {
-  "repository": "https://github.com/nemanjaMiljkovic/typescript-eslint"
- },
  "eslint-comments": {
   "docs": "https://github.com/mysticatea/eslint-plugin-eslint-comments/blob/master/docs/rules/",
   "repository": "https://github.com/mysticatea/eslint-plugin-eslint-comments"
@@ -642,6 +639,10 @@
  },
  "fat-arrow-same-line": {
   "repository": "https://github.com/pzuraq/eslint-plugin-fat-arrow-same-line"
+ },
+ "fda": {
+  "docs": "https://github.com/meetromb/eslint-plugin-fda/blob/master/docs/rules/",
+  "repository": "https://github.com/meetromb/eslint-plugin-fda"
  },
  "fest": {
   "repository": "https://github.com/Angmor23/eslint-plugin-fest"
@@ -1637,6 +1638,10 @@
  "ocd": {
   "repository": "https://github.com/ciena-blueplanet/eslint-plugin-ocd"
  },
+ "oic": {
+  "docs": "https://github.com/whanwells/eslint-plugin-oic/blob/master/docs/rules/",
+  "repository": "https://github.com/whanwells/eslint-plugin-oic"
+ },
  "one-variable-per-var": {
   "repository": "https://github.com/greggman/eslint-plugin-one-variable-per-var"
  },
@@ -2117,6 +2122,10 @@
  "settimeout": {
   "repository": "https://github.com/udemy/eslint-udemy"
  },
+ "sfdx-typegen": {
+  "docs": "https://github.com/aheber/eslint-plugin-sfdx-typegen/blob/master/docs/rules/",
+  "repository": "https://github.com/aheber/eslint-plugin-sfdx-typegen"
+ },
  "shopify": {
   "docs": "https://github.com/Shopify/eslint-plugin-shopify/blob/master/docs/rules/",
   "repository": "https://github.com/Shopify/eslint-plugin-shopify"
@@ -2293,9 +2302,6 @@
  "tanda": {
   "docs": "https://github.com/deecewan/eslint-plugin-tanda/blob/master/docs/rules/",
   "repository": "https://github.com/deecewan/eslint-plugin-tanda"
- },
- "tangerine": {
-  "repository": "https://github.com/atlassian/tangerine"
  },
  "tanok": {
   "repository": "https://github.com/kindritskyiMax/eslint-plugin-tanok"
