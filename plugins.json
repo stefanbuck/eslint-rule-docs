@@ -1763,6 +1763,9 @@
  "prefer-arrow": {
   "repository": "https://github.com/TristonJ/eslint-plugin-prefer-arrow"
  },
+ "prefer-arrow-functions": {
+  "repository": "https://github.com/JamieMason/eslint-plugin-prefer-arrow-functions"
+ },
  "prefer-bind-operator": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-prefer-bind-operator"
  },
