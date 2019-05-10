@@ -2569,6 +2569,9 @@
  "zillow": {
   "repository": "https://github.com/zillow/javascript"
  },
+ "zob": {
+  "repository": "https://github.com/xovel/zob"
+ },
  "zooshgroup": {
   "repository": "https://github.com/zooshgroup/eslint-plugin-zooshgroup"
  }
