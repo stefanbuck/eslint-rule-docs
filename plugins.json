@@ -971,6 +971,9 @@
  "indent-class-properties": {
   "repository": "https://github.com/larsmunkholm/eslint-plugin-indent-class-properties"
  },
+ "infermedica": {
+  "repository": "https://github.com/infermedica/eslint-plugin-infermedica"
+ },
  "inferno": {
   "docs": "https://github.com/infernojs/eslint-plugin-inferno/blob/master/docs/rules/",
   "repository": "https://github.com/infernojs/eslint-plugin-inferno"
