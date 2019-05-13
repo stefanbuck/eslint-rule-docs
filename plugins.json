@@ -1085,6 +1085,9 @@
  "jsp": {
   "repository": "https://github.com/haroldputman/eslint-plugin-jsp"
  },
+ "jsspec": {
+  "repository": "https://github.com/JSSpec/eslint-plugin-jsspec"
+ },
  "jsx": {
   "repository": "https://github.com/jkroso/eslint-plugin-jsx"
  },
