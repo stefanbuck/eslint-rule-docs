@@ -548,6 +548,9 @@
   "docs": "https://github.com/enactjs/eslint-plugin-enact/blob/master/docs/rules/",
   "repository": "https://github.com/enactjs/eslint-plugin-enact"
  },
+ "endpass": {
+  "repository": "https://github.com/endpass/endpass-core"
+ },
  "engelhorn-sfcc": {
   "repository": "https://github.com/t-huth/eslint-plugin-engelhorn-sfcc"
  },
