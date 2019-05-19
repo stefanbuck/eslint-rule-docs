@@ -2049,6 +2049,9 @@
  "restify-use-next": {
   "repository": "https://github.com/rajatkumar/eslint-plugin-restify-use-next"
  },
+ "resub": {
+  "repository": "https://github.com/a-tarasyuk/eslint-plugin-resub"
+ },
  "revizto": {
   "repository": "https://github.com/revizto/eslint-rules"
  },
