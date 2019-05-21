@@ -961,6 +961,9 @@
  "import-path": {
   "repository": "https://github.com/andrienko/eslint-plugin-import-path"
  },
+ "import-quotes": {
+  "repository": "https://github.com/xneek/eslint-plugin-import-quotes"
+ },
  "import-sorter": {
   "repository": "https://github.com/fengkfengk/eslint-plugin-import-sorter"
  },
