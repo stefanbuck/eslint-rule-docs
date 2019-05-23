@@ -365,9 +365,6 @@
   "docs": "https://github.com/zeronone/eslint-plugin-const-immutable/blob/master/docs/rules/",
   "repository": "https://github.com/zeronone/eslint-plugin-const-immutable"
  },
- "constant-check": {
-  "repository": "https://github.com/RichardIvan/eslint-plugin-constant-check"
- },
  "contains": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-contains"
  },
