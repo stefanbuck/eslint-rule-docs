@@ -1765,6 +1765,9 @@
   "docs": "https://github.com/Comcast/eslint-plugin-polymer-components/blob/master/docs/rules/",
   "repository": "https://github.com/Comcast/eslint-plugin-polymer-components"
  },
+ "pragmatic-deprecate": {
+  "repository": "https://github.com/bhaskar20/pragmatic-deprecate"
+ },
  "preact-i18n": {
   "docs": "https://github.com/synacor/eslint-plugin-preact-i18n/blob/master/docs/rules/",
   "repository": "https://github.com/synacor/eslint-plugin-preact-i18n"
