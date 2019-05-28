@@ -2442,6 +2442,9 @@
   "docs": "https://github.com/keyfoxth/eslint-plugin-url/blob/master/docs/rules/",
   "repository": "https://github.com/keyfoxth/eslint-plugin-url"
  },
+ "use-macros": {
+  "repository": "https://github.com/wantedly/frolint"
+ },
  "uuapp": {
   "docs": "https://github.com/jiridudekusy/eslint-plugin-uuapp/blob/master/docs/rules/",
   "repository": "https://github.com/jiridudekusy/eslint-plugin-uuapp"
