@@ -499,6 +499,9 @@
   "docs": "https://github.com/enkidevs/eslint-plugin-duck/blob/master/docs/rules/",
   "repository": "https://github.com/enkidevs/eslint-plugin-duck"
  },
+ "editorconfig": {
+  "repository": "https://github.com/phanect/eslint-plugin-editorconfig"
+ },
  "efficient": {
   "repository": "https://github.com/flexare/eslint-plugin-efficient"
  },
@@ -1402,6 +1405,10 @@
  "newline-before-func": {
   "repository": "https://github.com/florian-richter/eslint-plugin-newline-before-func"
  },
+ "nextcloud": {
+  "docs": "https://github.com/nextcloud/eslint-plugin-nextcloud/blob/master/docs/rules/",
+  "repository": "https://github.com/nextcloud/eslint-plugin-nextcloud"
+ },
  "nnimetz": {
   "docs": "https://github.com/NicolasNimetz/eslint-plugin-nnimetz/blob/master/docs/rules/",
   "repository": "https://github.com/NicolasNimetz/eslint-plugin-nnimetz"
@@ -1875,9 +1882,6 @@
  "qunit": {
   "docs": "https://github.com/platinumazure/eslint-plugin-qunit/blob/master/docs/rules/",
   "repository": "https://github.com/platinumazure/eslint-plugin-qunit"
- },
- "qx-rules": {
-  "repository": "https://github.com/drawstack/eslint-plugin-qx-rules"
  },
  "radargun": {
   "repository": "https://github.com/dsfields/eslint-plugin-radargun"
@@ -2544,8 +2548,7 @@
   "repository": "https://github.com/ntwb/eslint-plugin-wordpress"
  },
  "wpcalypso": {
-  "docs": "https://github.com/Automattic/eslint-plugin-wpcalypso/blob/master/docs/rules/",
-  "repository": "https://github.com/Automattic/eslint-plugin-wpcalypso"
+  "repository": "https://github.com/Automattic/wp-calypso"
  },
  "wpy": {
   "repository": "https://github.com/romoo/eslint-plugin-wpy"
