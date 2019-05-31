@@ -2338,9 +2338,6 @@
  "taro": {
   "repository": "https://github.com/NervJS/taro"
  },
- "taskcluster": {
-  "repository": "https://github.com/taskcluster/eslint-plugin-taskcluster"
- },
  "tdd": {
   "repository": "https://github.com/Fox-n-Rabbit/fxnrbt"
  },
