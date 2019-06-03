@@ -1267,6 +1267,9 @@
   "docs": "https://github.com/dferber90/eslint-plugin-meteor/blob/master/docs/rules/",
   "repository": "https://github.com/dferber90/eslint-plugin-meteor"
  },
+ "microsoft-typescript": {
+  "repository": "https://github.com/a-tarasyuk/eslint-plugin-microsoft-typescript"
+ },
  "minoris": {
   "docs": "https://github.com/minoris-io/eslint-plugin-minoris/blob/master/docs/rules/",
   "repository": "https://github.com/minoris-io/eslint-plugin-minoris"
