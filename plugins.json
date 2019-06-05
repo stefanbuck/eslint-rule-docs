@@ -1496,6 +1496,9 @@
  "no-func-space": {
   "repository": "https://github.com/Jxck/eslint-plugin-no-func-space"
  },
+ "no-generic-identifier": {
+  "repository": "https://github.com/d7my11/eslint-plugin-no-generic-identifier"
+ },
  "no-global-lodash": {
   "docs": "https://github.com/adalbertoteixeira/eslint-plugin-no-global-lodash/blob/master/docs/rules/",
   "repository": "https://github.com/adalbertoteixeira/eslint-plugin-no-global-lodash"
