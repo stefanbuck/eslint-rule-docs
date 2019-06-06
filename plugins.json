@@ -2277,6 +2277,9 @@
  "starry": {
   "repository": "https://github.com/StarryInternet/eslint-plugin-starry"
  },
+ "stencil": {
+  "repository": "https://github.com/addtoevent/stencil-eslint"
+ },
  "step-functions": {
   "repository": "https://github.com/bdgamble/eslint-plugin-step-functions"
  },
