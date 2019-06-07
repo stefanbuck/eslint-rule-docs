@@ -245,6 +245,9 @@
   "docs": "https://github.com/amilajack/eslint-plugin-caniuse/blob/master/docs/rules/",
   "repository": "https://github.com/amilajack/eslint-plugin-caniuse"
  },
+ "capital-case": {
+  "repository": "https://github.com/tcorley/eslint-plugin-capital-case"
+ },
  "caps-on": {
   "repository": "https://github.com/or109/eslint-plugin-caps-on"
  },
