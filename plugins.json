@@ -2036,6 +2036,10 @@
   "docs": "https://github.com/bregenspan/eslint-plugin-require/blob/master/docs/rules/",
   "repository": "https://github.com/bregenspan/eslint-plugin-require"
  },
+ "require-call": {
+  "docs": "https://github.com/NelsonFrancisco/eslint-plugin-require-call/blob/master/docs/rules/",
+  "repository": "https://github.com/NelsonFrancisco/eslint-plugin-require-call"
+ },
  "require-docs": {
   "docs": "https://github.com/findmypast-oss/eslint-plugin-require-docs/blob/master/docs/rules/",
   "repository": "https://github.com/findmypast-oss/eslint-plugin-require-docs"
