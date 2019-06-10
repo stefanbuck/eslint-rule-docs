@@ -1277,6 +1277,9 @@
  "microsoft-typescript": {
   "repository": "https://github.com/a-tarasyuk/eslint-plugin-microsoft-typescript"
  },
+ "miniprogram": {
+  "repository": "https://github.com/airbnb/eslint-plugin-miniprogram"
+ },
  "minoris": {
   "docs": "https://github.com/minoris-io/eslint-plugin-minoris/blob/master/docs/rules/",
   "repository": "https://github.com/minoris-io/eslint-plugin-minoris"
