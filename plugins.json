@@ -931,6 +931,10 @@
   "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/benmosher/eslint-plugin-import"
  },
+ "import-1nd": {
+  "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
+  "repository": "https://github.com/benmosher/eslint-plugin-import"
+ },
  "import-alias": {
   "repository": "https://github.com/steelsojka/eslint-import-alias"
  },
