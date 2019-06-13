@@ -91,7 +91,6 @@
   "repository": "https://github.com/freaktechnik/eslint-plugin-array-func"
  },
  "artistco": {
-  "docs": "https://github.com/svengau/eslint-plugin-artistco/blob/master/docs/rules/",
   "repository": "https://github.com/svengau/eslint-plugin-artistco"
  },
  "ascii": {
@@ -1084,6 +1083,9 @@
  "jsdoc": {
   "repository": "https://github.com/gajus/eslint-plugin-jsdoc"
  },
+ "jsdoc-ex": {
+  "repository": "https://github.com/gajus/eslint-plugin-jsdoc"
+ },
  "jsfix": {
   "repository": "https://github.com/Digyter/eslint-plugin-jsfix"
  },
@@ -1837,6 +1839,7 @@
   "repository": "https://github.com/aMarCruz/eslint-plugin-prettierx"
  },
  "prettiest": {
+  "docs": "https://github.com/eamodio/eslint-plugin-prettiest/blob/master/docs/rules/",
   "repository": "https://github.com/eamodio/eslint-plugin-prettiest"
  },
  "private-props": {
@@ -2309,7 +2312,6 @@
   "repository": "https://github.com/GlebkaF/eslint-plugin-strict-vue"
  },
  "stringly-typed": {
-  "docs": "https://github.com/eddieantonio/eslint-plugin-stringly-typed/blob/master/docs/rules/",
   "repository": "https://github.com/eddieantonio/eslint-plugin-stringly-typed"
  },
  "stringly-typing": {
