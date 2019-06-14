@@ -91,6 +91,7 @@
   "repository": "https://github.com/freaktechnik/eslint-plugin-array-func"
  },
  "artistco": {
+  "docs": "https://github.com/svengau/eslint-plugin-artistco/blob/master/docs/rules/",
   "repository": "https://github.com/svengau/eslint-plugin-artistco"
  },
  "ascii": {
@@ -2312,6 +2313,7 @@
   "repository": "https://github.com/GlebkaF/eslint-plugin-strict-vue"
  },
  "stringly-typed": {
+  "docs": "https://github.com/eddieantonio/eslint-plugin-stringly-typed/blob/master/docs/rules/",
   "repository": "https://github.com/eddieantonio/eslint-plugin-stringly-typed"
  },
  "stringly-typing": {
