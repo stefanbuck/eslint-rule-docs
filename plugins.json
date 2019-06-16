@@ -15,6 +15,7 @@
   "repository": "https://github.com/mcclowes/eslint-plugin-absolute-import"
  },
  "ad-hok": {
+  "docs": "https://github.com/helixbass/eslint-plugin-ad-hok/blob/master/docs/rules/",
   "repository": "https://github.com/helixbass/eslint-plugin-ad-hok"
  },
  "adone": {
@@ -1795,6 +1796,9 @@
   "docs": "https://github.com/Comcast/eslint-plugin-polymer-components/blob/master/docs/rules/",
   "repository": "https://github.com/Comcast/eslint-plugin-polymer-components"
  },
+ "postcss-modules": {
+  "repository": "https://github.com/bmatcuk/eslint-plugin-postcss-modules"
+ },
  "pragmatic-deprecate": {
   "repository": "https://github.com/bhaskar20/pragmatic-deprecate"
  },
@@ -2535,6 +2539,10 @@
  },
  "wdio": {
   "repository": "https://github.com/webdriverio/webdriverio"
+ },
+ "web": {
+  "docs": "https://github.com/eslint/eslint/blob/master/docs/rules/",
+  "repository": "https://github.com/eslint/eslint"
  },
  "webassembly": {
   "repository": "https://github.com/xtuc/webassemblyjs"
