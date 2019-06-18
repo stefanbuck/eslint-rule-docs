@@ -2302,6 +2302,9 @@
  "starry": {
   "repository": "https://github.com/StarryInternet/eslint-plugin-starry"
  },
+ "state": {
+  "repository": "https://github.com/JackFei/eslint-plugin-state"
+ },
  "stencil": {
   "repository": "https://github.com/addtoevent/stencil-eslint"
  },
