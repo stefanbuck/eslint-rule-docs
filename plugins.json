@@ -2274,6 +2274,9 @@
  "spellcheck": {
   "repository": "https://github.com/aotaduy/eslint-plugin-spellcheck"
  },
+ "spellingbee": {
+  "repository": "https://github.com/eschaefer/eslint-plugin-spellingbee"
+ },
  "springload": {
   "repository": "https://github.com/springload/eslint-plugin-springload"
  },
