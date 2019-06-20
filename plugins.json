@@ -1168,6 +1168,10 @@
  "leon-require-jsdoc": {
   "repository": "https://github.com/JonatronLeon/eslint-plugin-leon-require-jsdoc"
  },
+ "letemplate": {
+  "docs": "https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/",
+  "repository": "https://github.com/vuejs/eslint-plugin-vue"
+ },
  "levitate": {
   "repository": "https://github.com/ThisIsManta/eslint-plugin-levitate"
  },
@@ -1289,7 +1293,6 @@
   "repository": "https://github.com/airbnb/eslint-plugin-miniprogram"
  },
  "minoris": {
-  "docs": "https://github.com/minoris-io/eslint-plugin-minoris/blob/master/docs/rules/",
   "repository": "https://github.com/minoris-io/eslint-plugin-minoris"
  },
  "minxing": {
