@@ -308,6 +308,10 @@
  "closure": {
   "repository": "https://github.com/google/eslint-closure"
  },
+ "closure-library": {
+  "docs": "https://github.com/koba04/eslint-plugin-closure-library/blob/master/docs/rules/",
+  "repository": "https://github.com/koba04/eslint-plugin-closure-library"
+ },
  "closuredepth": {
   "repository": "https://github.com/peteward44/eslint-plugin-closuredepth"
  },
@@ -2590,10 +2594,6 @@
  },
  "wolkenkit": {
   "repository": "https://github.com/thenativeweb/eslint-plugin-wolkenkit"
- },
- "wordpress": {
-  "docs": "https://github.com/ntwb/eslint-plugin-wordpress/blob/master/docs/rules/",
-  "repository": "https://github.com/ntwb/eslint-plugin-wordpress"
  },
  "wpcalypso": {
   "repository": "https://github.com/Automattic/wp-calypso"
