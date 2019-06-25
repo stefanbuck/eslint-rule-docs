@@ -2635,6 +2635,9 @@
  "you-dont-need-recompose": {
   "repository": "https://github.com/icrosil/eslint-plugin-you-dont-need-recompose"
  },
+ "zero": {
+  "repository": "https://github.com/zero-config/eslint-plugin-zero"
+ },
  "zillow": {
   "repository": "https://github.com/zillow/javascript"
  },
