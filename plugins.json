@@ -343,6 +343,9 @@
  "comments": {
   "repository": "https://github.com/lo1tuma/eslint-plugin-comments"
  },
+ "commonjs": {
+  "repository": "https://github.com/d-band/eslint-plugin-commonjs"
+ },
  "commonjs-require-case": {
   "repository": "https://github.com/charlesbjohnson/eslint-module-plugins"
  },
@@ -2186,6 +2189,9 @@
  "sfdx-typegen": {
   "docs": "https://github.com/aheber/eslint-plugin-sfdx-typegen/blob/master/docs/rules/",
   "repository": "https://github.com/aheber/eslint-plugin-sfdx-typegen"
+ },
+ "shitsurei": {
+  "repository": "https://github.com/yoidea/eslint-plugin-shitsurei"
  },
  "shopify": {
   "docs": "https://github.com/Shopify/eslint-plugin-shopify/blob/master/docs/rules/",
