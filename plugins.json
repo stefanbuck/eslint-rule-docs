@@ -510,6 +510,9 @@
   "docs": "https://github.com/enkidevs/eslint-plugin-duck/blob/master/docs/rules/",
   "repository": "https://github.com/enkidevs/eslint-plugin-duck"
  },
+ "dynamic-jest-global": {
+  "repository": "https://github.com/nickshevr/eslint-plugin-dynamic-jest-global"
+ },
  "editorconfig": {
   "repository": "https://github.com/phanect/eslint-plugin-editorconfig"
  },
@@ -1913,6 +1916,9 @@
  },
  "putout": {
   "repository": "https://github.com/coderaiser/putout"
+ },
+ "quick-prettier": {
+  "repository": "https://github.com/SalvatorePreviti/eslint-plugin-quick-prettier"
  },
  "quintoandar": {
   "repository": "https://github.com/quintoandar/eslint-config-quintoandar"
