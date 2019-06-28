@@ -1064,11 +1064,18 @@
   "docs": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting/blob/master/docs/rules/",
   "repository": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting"
  },
+ "jestx": {
+  "docs": "https://github.com/benmonro/eslint-plugin-jest/blob/master/docs/rules/",
+  "repository": "https://github.com/benmonro/eslint-plugin-jest"
+ },
  "jinja": {
   "repository": "https://github.com/alexkuz/eslint-plugin-jinja"
  },
  "jinja2": {
   "repository": "https://github.com/alexkuz/eslint-plugin-jinja"
+ },
+ "jira-ticket-todos": {
+  "repository": "https://github.com/Adam-Schlichtmann/jira-ticket-todos"
  },
  "jmacs": {
   "repository": "https://github.com/blake-regalia/jmacs.js"
