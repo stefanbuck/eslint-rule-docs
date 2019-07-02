@@ -2463,6 +2463,10 @@
   "docs": "https://github.com/ovidiubute/eslint-plugin-ts/blob/master/docs/rules/",
   "repository": "https://github.com/ovidiubute/eslint-plugin-ts"
  },
+ "ts-immutable": {
+  "docs": "https://github.com/jonaskello/eslint-plugin-ts-immutable/blob/master/docs/rules/",
+  "repository": "https://github.com/jonaskello/eslint-plugin-ts-immutable"
+ },
  "tsc": {
   "repository": "https://github.com/unlight/eslint-plugin-tsc"
  },
