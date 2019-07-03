@@ -1347,6 +1347,7 @@
   "repository": "https://github.com/iambrandonn/eslint-plugin-module-name"
  },
  "module-resolver": {
+  "docs": "https://github.com/HeroProtagonist/eslint-plugin-module-resolver/blob/master/docs/rules/",
   "repository": "https://github.com/HeroProtagonist/eslint-plugin-module-resolver"
  },
  "moment-utc": {
