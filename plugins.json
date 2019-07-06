@@ -1797,6 +1797,9 @@
  "piggyback": {
   "repository": "https://github.com/cowchimp/eslint-plugin-piggyback"
  },
+ "plantain": {
+  "repository": "https://github.com/plantain-00/eslint-plugin-plantain"
+ },
  "playlyfe": {
   "repository": "https://github.com/Mayank1791989/eslint-plugin-playlyfe"
  },
