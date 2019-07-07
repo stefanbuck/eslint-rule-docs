@@ -1776,9 +1776,6 @@
  "pep8-blank-lines": {
   "repository": "https://github.com/othree/eslint-plugin-pep8-blank-lines"
  },
- "percolate": {
-  "repository": "https://github.com/percolate/blend"
- },
  "perf": {
   "repository": "https://github.com/amilajack/eslint-plugin-perf"
  },
