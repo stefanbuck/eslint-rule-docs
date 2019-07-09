@@ -677,6 +677,9 @@
  "file-header": {
   "repository": "https://github.com/Sekhmet/eslint-plugin-file-header"
  },
+ "file-layout": {
+  "repository": "https://github.com/keik/eslint-plugin-file-layout"
+ },
  "filenames": {
   "repository": "https://github.com/selaux/eslint-plugin-filenames"
  },
