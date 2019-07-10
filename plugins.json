@@ -689,6 +689,10 @@
  "filesize": {
   "repository": "https://github.com/voltrevo/eslint-plugin-filesize"
  },
+ "fix-deps": {
+  "docs": "https://github.com/mitchellhamilton/eslint-plugin-fix-deps/blob/master/docs/rules/",
+  "repository": "https://github.com/mitchellhamilton/eslint-plugin-fix-deps"
+ },
  "flow": {
   "repository": "https://github.com/gajus/eslint-plugin-flowtype"
  },
@@ -1312,9 +1316,6 @@
  "miniprogram": {
   "repository": "https://github.com/airbnb/eslint-plugin-miniprogram"
  },
- "minoris": {
-  "repository": "https://github.com/minoris-io/eslint-plugin-minoris"
- },
  "minxing": {
   "repository": "https://github.com/stuartZhang/eslint-plugin-minxing"
  },
@@ -1479,6 +1480,9 @@
  "no-bad-naming-variables": {
   "docs": "https://github.com/kovboyjder/eslint-no-bad-naming/blob/master/docs/rules/",
   "repository": "https://github.com/kovboyjder/eslint-no-bad-naming"
+ },
+ "no-block-comments": {
+  "repository": "https://github.com/alex-shnayder/eslint-plugin-no-empty-blocks"
  },
  "no-call": {
   "docs": "https://github.com/igat64/eslint-plugin-no-call/blob/master/docs/rules/",
@@ -2177,9 +2181,6 @@
  },
  "screeps": {
   "repository": "https://github.com/postcrafter/eslint-plugin-screeps"
- },
- "script-tags": {
-  "repository": "https://github.com/mapbox/eslint-plugin-script-tags"
  },
  "security": {
   "repository": "https://github.com/nodesecurity/eslint-plugin-security"
