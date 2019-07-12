@@ -279,6 +279,10 @@
  "chai-friendly": {
   "repository": "https://github.com/ihordiachenko/eslint-plugin-chai-friendly"
  },
+ "chartjs": {
+  "docs": "https://github.com/Manu1400/eslint-plugin-chartjs/blob/master/docs/rules/",
+  "repository": "https://github.com/Manu1400/eslint-plugin-chartjs"
+ },
  "check-class-name": {
   "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name"
  },
@@ -554,6 +558,9 @@
  "emmanuel": {
   "docs": "https://github.com/Manu1400/eslint-plugin-emmanuel/blob/master/docs/rules/",
   "repository": "https://github.com/Manu1400/eslint-plugin-emmanuel"
+ },
+ "emotion-utils": {
+  "repository": "https://github.com/danielhusar/eslint-plugin-emotion-utils"
  },
  "empty-returns": {
   "repository": "https://github.com/aero31aero/eslint-plugin-empty-returns"
@@ -2235,9 +2242,6 @@
  },
  "skyscanner-dates": {
   "repository": "https://github.com/Skyscanner/eslint-plugin-skyscanner-dates"
- },
- "sm": {
-  "repository": "https://github.com/molee1905/eslint-plugin-sm"
  },
  "smart-quotes": {
   "repository": "https://github.com/jmont/eslint-plugin-smart-quotes"
