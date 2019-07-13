@@ -2129,6 +2129,10 @@
  "resub": {
   "repository": "https://github.com/a-tarasyuk/eslint-plugin-resub"
  },
+ "return-early-dont-assign": {
+  "docs": "https://github.com/deadbeef404/eslint-plugin-return-early-dont-assign/blob/master/docs/rules/",
+  "repository": "https://github.com/deadbeef404/eslint-plugin-return-early-dont-assign"
+ },
  "revizto": {
   "repository": "https://github.com/revizto/eslint-rules"
  },
