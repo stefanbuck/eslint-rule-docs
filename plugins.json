@@ -1128,6 +1128,10 @@
  "json": {
   "repository": "https://github.com/azeemba/eslint-plugin-json"
  },
+ "json-files": {
+  "docs": "https://github.com/kellyselden/eslint-plugin-json-files/blob/master/docs/rules/",
+  "repository": "https://github.com/kellyselden/eslint-plugin-json-files"
+ },
  "json-light": {
   "repository": "https://github.com/locomote/eslint-plugin-json-light"
  },
@@ -2636,6 +2640,9 @@
  },
  "wpy": {
   "repository": "https://github.com/romoo/eslint-plugin-wpy"
+ },
+ "wtf": {
+  "repository": "https://github.com/qix-/eslint-plugin-wtf"
  },
  "wyze": {
   "docs": "https://github.com/wyze/eslint-plugin-wyze/blob/master/docs/rules/",
