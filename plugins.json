@@ -2592,6 +2592,10 @@
  "vuefix": {
   "repository": "https://github.com/lkiarest/eslint-plugin-vuefix"
  },
+ "vuetify": {
+  "docs": "https://github.com/vuetifyjs/eslint-plugin-vuetify/blob/master/docs/rules/",
+  "repository": "https://github.com/vuetifyjs/eslint-plugin-vuetify"
+ },
  "wc": {
   "docs": "https://github.com/43081j/eslint-plugin-wc/blob/master/docs/rules/",
   "repository": "https://github.com/43081j/eslint-plugin-wc"
