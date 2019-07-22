@@ -2409,6 +2409,10 @@
  "system-import-strings": {
   "repository": "https://github.com/pwmckenna/eslint-plugin-system-import-strings"
  },
+ "tachecker": {
+  "docs": "https://github.com/linshaolie/eslint-plugin-tachecker/blob/master/docs/rules/",
+  "repository": "https://github.com/linshaolie/eslint-plugin-tachecker"
+ },
  "tachyons-jsx": {
   "repository": "https://github.com/Bebersohl/eslint-plugin-tachyons-jsx"
  },
@@ -2638,6 +2642,9 @@
  },
  "wix-editor": {
   "repository": "https://github.com/wix/eslint-plugin-wix-editor"
+ },
+ "wkovacs64": {
+  "repository": "https://github.com/wKovacs64/eslint-plugin-wkovacs64"
  },
  "wolkenkit": {
   "repository": "https://github.com/thenativeweb/eslint-plugin-wolkenkit"
