@@ -1328,9 +1328,6 @@
   "docs": "https://github.com/dferber90/eslint-plugin-meteor/blob/master/docs/rules/",
   "repository": "https://github.com/dferber90/eslint-plugin-meteor"
  },
- "microsoft-typescript": {
-  "repository": "https://github.com/a-tarasyuk/eslint-plugin-microsoft-typescript"
- },
  "miniprogram": {
   "repository": "https://github.com/airbnb/eslint-plugin-miniprogram"
  },
@@ -2438,6 +2435,9 @@
  },
  "tdd": {
   "repository": "https://github.com/Fox-n-Rabbit/fxnrbt"
+ },
+ "teamdigitaledge": {
+  "repository": "https://github.com/teamdigitaledge/eslint-plugin-teamdigitaledge"
  },
  "template": {
   "repository": "https://github.com/gramener/eslint-plugin-template"
