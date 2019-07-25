@@ -1145,6 +1145,9 @@
  "json-lite": {
   "repository": "https://github.com/jacob-israel-turner/eslint-plugin-json-lite"
  },
+ "json-processor": {
+  "repository": "https://github.com/doochik/eslint-plugin-json-processor"
+ },
  "jsp": {
   "repository": "https://github.com/haroldputman/eslint-plugin-jsp"
  },
