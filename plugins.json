@@ -2573,6 +2573,9 @@
  "viper-v2": {
   "repository": "https://github.com/Nigiss/eslint-plugin-viper"
  },
+ "viper-v3": {
+  "repository": "https://github.com/Nigiss/eslint-plugin-viper-v3"
+ },
  "vitsaus": {
   "repository": "https://github.com/Vitsaus/eslint-plugin-vitsaus"
  },
