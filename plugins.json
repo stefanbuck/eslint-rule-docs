@@ -2137,6 +2137,9 @@
  "restify-use-next": {
   "repository": "https://github.com/rajatkumar/eslint-plugin-restify-use-next"
  },
+ "restrict-import": {
+  "repository": "https://github.com/ozaki25/eslint-plugin-restrict-import"
+ },
  "resub": {
   "repository": "https://github.com/a-tarasyuk/eslint-plugin-resub"
  },
