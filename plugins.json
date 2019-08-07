@@ -111,7 +111,7 @@
   "repository": "https://github.com/bryanrsmith/eslint-plugin-aurelia"
  },
  "autofix": {
-  "repository": "https://github.com/aladdin-add/eslint-plugin-autofix"
+  "repository": "https://github.com/aladdin-add/eslint-plugin"
  },
  "automatic": {
   "repository": "https://github.com/gaoxiaosong/eslint-plugin-automatic"
@@ -880,6 +880,9 @@
   "docs": "https://github.com/hijup/eslint-plugin-hijup/blob/master/docs/rules/",
   "repository": "https://github.com/hijup/eslint-plugin-hijup"
  },
+ "homer0": {
+  "repository": "https://github.com/homer0/eslint-plugin-homer0"
+ },
  "html": {
   "repository": "https://github.com/BenoitZugmeyer/eslint-plugin-html"
  },
@@ -952,6 +955,9 @@
  "immutable-js": {
   "docs": "https://github.com/dingbat/eslint-plugin-immutable-js/blob/master/docs/rules/",
   "repository": "https://github.com/dingbat/eslint-plugin-immutable-js"
+ },
+ "immutablefork": {
+  "repository": "https://github.com/raphaelbadia/eslint-plugin-immutable"
  },
  "imperative": {
   "repository": "https://github.com/guidesmiths/eslint-plugin-imperative"
@@ -1138,6 +1144,9 @@
  "json-files": {
   "docs": "https://github.com/kellyselden/eslint-plugin-json-files/blob/master/docs/rules/",
   "repository": "https://github.com/kellyselden/eslint-plugin-json-files"
+ },
+ "json-format": {
+  "repository": "https://github.com/bkucera/eslint-plugin-json-format"
  },
  "json-light": {
   "repository": "https://github.com/locomote/eslint-plugin-json-light"
@@ -1402,6 +1411,9 @@
  "more-naming-conventions-leading-underscore": {
   "repository": "https://github.com/alex-zissis/eslint-plugin-more-naming-conventions"
  },
+ "move-files": {
+  "repository": "https://github.com/JamieMason/eslint-plugin-move-files"
+ },
  "mp": {
   "docs": "https://github.com/mp-components/eslint-plugin-mp/blob/master/docs/rules/",
   "repository": "https://github.com/mp-components/eslint-plugin-mp"
@@ -1472,6 +1484,9 @@
  "nextcloud": {
   "docs": "https://github.com/nextcloud/eslint-plugin-nextcloud/blob/master/docs/rules/",
   "repository": "https://github.com/nextcloud/eslint-plugin-nextcloud"
+ },
+ "ngrx": {
+  "repository": "https://github.com/timdeschryver/eslint-plugin-ngrx"
  },
  "nnimetz": {
   "docs": "https://github.com/NicolasNimetz/eslint-plugin-nnimetz/blob/master/docs/rules/",
@@ -1886,6 +1901,9 @@
  "prettier-rules": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-prettier-rules"
  },
+ "prettier-vue": {
+  "repository": "https://github.com/meteorlxy/eslint-plugin-prettier-vue"
+ },
  "prettierx": {
   "repository": "https://github.com/aMarCruz/eslint-plugin-prettierx"
  },
@@ -2137,8 +2155,9 @@
  "restify-use-next": {
   "repository": "https://github.com/rajatkumar/eslint-plugin-restify-use-next"
  },
- "restrict-import": {
-  "repository": "https://github.com/ozaki25/eslint-plugin-restrict-import"
+ "restrict-named-import": {
+  "docs": "https://github.com/ozaki25/eslint-plugin-restrict-named-import/blob/master/docs/rules/",
+  "repository": "https://github.com/ozaki25/eslint-plugin-restrict-named-import"
  },
  "resub": {
   "repository": "https://github.com/a-tarasyuk/eslint-plugin-resub"
@@ -2270,6 +2289,9 @@
  "smells": {
   "docs": "https://github.com/elijahmanor/eslint-plugin-smells/blob/master/docs/rules/",
   "repository": "https://github.com/elijahmanor/eslint-plugin-smells"
+ },
+ "smelly": {
+  "repository": "https://github.com/qix-/eslint-plugin-smelly"
  },
  "smtxt": {
   "repository": "https://github.com/sematext/eslint-plugin-smtxt"
