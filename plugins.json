@@ -82,6 +82,9 @@
  "appjson": {
   "repository": "https://github.com/unfold/eslint-config-appjson"
  },
+ "arcadia": {
+  "repository": "https://github.com/salesmessage/javascript"
+ },
  "arguments": {
   "repository": "https://github.com/ronapelbaum/eslint-plugin-arguments"
  },
