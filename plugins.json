@@ -362,6 +362,10 @@
  "commonjs-require-name": {
   "repository": "https://github.com/charlesbjohnson/eslint-module-plugins"
  },
+ "communist-spelling": {
+  "docs": "https://github.com/dprgarner/eslint-plugin-communist-spelling/blob/master/docs/rules/",
+  "repository": "https://github.com/dprgarner/eslint-plugin-communist-spelling"
+ },
  "compat": {
   "docs": "https://github.com/amilajack/eslint-plugin-compat/blob/master/docs/rules/",
   "repository": "https://github.com/amilajack/eslint-plugin-compat"
