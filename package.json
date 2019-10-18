@@ -27,6 +27,7 @@
   "homepage": "https://github.com/stefanbuck/eslint-rule-docs#readme",
   "devDependencies": {
     "async": "^3.1.0",
+    "find-reachable-urls": "^1.1.1",
     "got": "^9.6.0",
     "mocha": "^6.2.1",
     "sort-keys": "^4.0.0"
