@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/stefanbuck/eslint-rule-docs#readme",
   "devDependencies": {
-    "async": "^2.6.1",
-    "got": "^9.2.0",
-    "mocha": "^5.2.0",
-    "sort-keys": "^2.0.0"
+    "async": "^3.1.0",
+    "got": "^9.6.0",
+    "mocha": "^6.2.1",
+    "sort-keys": "^4.0.0"
   }
 }
