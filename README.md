@@ -1,4 +1,5 @@
-# eslint-rule-docs [![Build Status](https://travis-ci.com/stefanbuck/eslint-rule-docs.svg?branch=master)](https://travis-ci.com/stefanbuck/eslint-rule-docs)
+# eslint-rule-docs 
+[![Actions Status](https://github.com/stefanbuck/eslint-rule-docs/workflows/Cron/badge.svg)](https://github.com/stefanbuck/eslint-rule-docs/actions) [![NPM](https://badgen.net/npm/v/eslint-rule-docs)](https://npmjs.com/package/eslint-rule-docs) 
 
 > Find documentation url for a given ESLint rule. Updated daily!
 
