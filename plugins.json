@@ -545,12 +545,6 @@
   "docs": "https://github.com/ast2018/eslint-plugin-agree/blob/master/docs/rules/",
   "repository": "https://github.com/ast2018/eslint-plugin-agree"
  },
- "aklesky": {
-  "repository": "https://github.com/aklesky/bliksy"
- },
- "aklesky-typescript": {
-  "repository": "https://github.com/aklesky/bliksy"
- },
  "ala": {
   "repository": "https://github.com/alaameddeb/ESLint-plugin"
  },
@@ -649,6 +643,9 @@
  "avoid-explicit-extension": {
   "docs": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension/blob/master/docs/rules/",
   "repository": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension"
+ },
+ "awell-rules": {
+  "repository": "https://github.com/awell-health/eslint-plugin-awell-rules"
  },
  "axe": {
   "repository": "https://github.com/dequelabs/axe-core"
