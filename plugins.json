@@ -102,6 +102,9 @@
   "docs": "https://github.com/change/javascript/blob/master/packages/eslint-plugin-change/docs/rules/",
   "repository": "https://github.com/change/javascript"
  },
+ "@checkdigit/eslint-plugin": {
+  "repository": "https://github.com/samelliottdlt/eslint-plugin-file-path-comment"
+ },
  "@clark/eslint-plugin-import-helpers-with-package": {
   "repository": "https://github.com/ClarkSource/eslint-config"
  },
@@ -263,6 +266,9 @@
  "@kfed/eslint-plugin-i18n": {
   "repository": "https://github.com/Kyr/eslint-plugin-i18n"
  },
+ "@khanacademy/eslint-plugin": {
+  "repository": "https://github.com/Khan/eslint-plugin-khan"
+ },
  "@kmdavis/eslint-plugin-sort-imports": {
   "repository": "https://github.com/kmdavis/eslint-plugin-sort-imports"
  },
@@ -352,6 +358,9 @@
  },
  "@openlayers/eslint-plugin": {
   "repository": "https://github.com/openlayers/eslint-plugin"
+ },
+ "@operation_code/eslint-plugin-custom-rules": {
+  "repository": "https://github.com/operationcode/configs"
  },
  "@pgilad/eslint-plugin-react-redux": {
   "docs": "https://github.com/pgilad/eslint-plugin-react-redux/blob/master/docs/rules/",
@@ -906,6 +915,10 @@
   "docs": "https://github.com/COMPFEST/eslint-plugin-compfest/blob/master/docs/rules/",
   "repository": "https://github.com/COMPFEST/eslint-plugin-compfest"
  },
+ "compsci": {
+  "docs": "https://github.com/k-yle/eslint-plugin-compsci/blob/master/docs/rules/",
+  "repository": "https://github.com/k-yle/eslint-plugin-compsci"
+ },
  "consistent-modules-import": {
   "repository": "https://github.com/kiwi-code/eslint-plugin-consistent-import"
  },
@@ -1057,6 +1070,9 @@
  },
  "dynamic-jest-global": {
   "repository": "https://github.com/nickshevr/eslint-plugin-dynamic-jest-global"
+ },
+ "ebdd": {
+  "repository": "https://github.com/fasttime/eslint-plugin-ebdd"
  },
  "editorconfig": {
   "repository": "https://github.com/phanect/eslint-plugin-editorconfig"
@@ -1560,6 +1576,9 @@
  "import-length": {
   "repository": "https://github.com/steelsojka/eslint-import-length"
  },
+ "import-monorepo": {
+  "repository": "https://github.com/igogo5yo/eslint-plugin-import-monorepo"
+ },
  "import-order-alphabetical": {
   "repository": "https://github.com/janpaul123/eslint-plugin-import-order-alphabetical"
  },
@@ -1921,6 +1940,9 @@
  },
  "mdx": {
   "repository": "https://github.com/rx-ts/eslint-mdx"
+ },
+ "mediawiki": {
+  "repository": "https://github.com/wikimedia/eslint-plugin-mediawiki"
  },
  "meetup": {
   "docs": "https://github.com/meetup/eslint-plugin-meetup/blob/master/docs/rules/",
@@ -2714,6 +2736,10 @@
   "docs": "https://github.com/airbnb/eslint-plugin-react-with-styles/blob/master/docs/rules/",
   "repository": "https://github.com/airbnb/eslint-plugin-react-with-styles"
  },
+ "reactxp": {
+  "docs": "https://github.com/a-tarasyuk/eslint-plugin-reactxp/blob/master/docs/rules/",
+  "repository": "https://github.com/a-tarasyuk/eslint-plugin-reactxp"
+ },
  "readable": {
   "repository": "https://github.com/YounGoat/eslint-plugin-readable"
  },
@@ -2956,6 +2982,10 @@
   "repository": "https://github.com/solfegejs/eslint-plugin"
  },
  "sonarjs": {
+  "docs": "https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/",
+  "repository": "https://github.com/SonarSource/eslint-plugin-sonarjs"
+ },
+ "sonarjs-6": {
   "docs": "https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/",
   "repository": "https://github.com/SonarSource/eslint-plugin-sonarjs"
  },
