@@ -43,6 +43,9 @@
  "@appulate/eslint-plugin": {
   "repository": "https://github.com/appulate/eslint-plugin-appulate"
  },
+ "@asbjorn/eslint-plugin-groq": {
+  "repository": "https://github.com/asbjornh/eslint-plugin-groq"
+ },
  "@atlauncher/eslint-plugin-atlauncher": {
   "repository": "https://github.com/ATLauncher/javascript"
  },
@@ -336,6 +339,9 @@
  "@naturacosmeticos/eslint-plugin-i18n-checker": {
   "repository": "https://github.com/natura-cosmeticos/eslint-plugin-i18n-checker"
  },
+ "@newrelic/eslint-plugin-newrelic": {
+  "repository": "https://github.com/NewRelic/eslint-plugin-newrelic"
+ },
  "@nisje/eslint-plugin": {
   "repository": "https://github.com/nisje/styleguide-javascript"
  },
@@ -437,6 +443,9 @@
   "docs": "https://github.com/silvermine/eslint-plugin-silvermine/blob/master/docs/rules/",
   "repository": "https://github.com/silvermine/eslint-plugin-silvermine"
  },
+ "@sincronia/eslint-plugin": {
+  "repository": "https://github.com/nuvolo/sincronia"
+ },
  "@spalger/eslint-plugin-import": {
   "docs": "https://github.com/spalger/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/spalger/eslint-plugin-import"
@@ -494,6 +503,10 @@
  "@urbandoor/eslint-plugin-urbandoor": {
   "repository": "https://github.com/UrbanDoor/eslint-plugin-urbandoor"
  },
+ "@uwatch/eslint-plugin": {
+  "docs": "https://github.com/uwatch-live/eslint-plugin/blob/master/docs/rules/",
+  "repository": "https://github.com/uwatch-live/eslint-plugin"
+ },
  "@versett/eslint-plugin-versett": {
   "repository": "https://github.com/versett/eslint-plugin-versett"
  },
@@ -503,6 +516,12 @@
  "@vue/eslint-plugin": {
   "docs": "https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/",
   "repository": "https://github.com/vuejs/eslint-plugin-vue"
+ },
+ "@web-bee-ru/eslint-plugin": {
+  "repository": "https://github.com/web-bee-ru/eslint-plugin"
+ },
+ "@webdevstudios/eslint-plugin-js-coding-standards": {
+  "repository": "https://github.com/WebDevStudios/eslint-plugin-js-coding-standards"
  },
  "@weex-project/eslint-plugin-weex-bundle": {
   "repository": "https://github.com/Hanks10100/eslint-plugin-weex-bundle"
@@ -1309,6 +1328,9 @@
  },
  "format-message": {
   "repository": "https://github.com/format-message/format-message"
+ },
+ "formatjs": {
+  "repository": "https://github.com/formatjs/formatjs"
  },
  "formatting": {
   "repository": "https://github.com/dugokontov/eslint-plugin-formatting"
@@ -2211,6 +2233,7 @@
   "repository": "https://github.com/jussi-kalliokoski/eslint-plugin-no-implicit-side-effects"
  },
  "no-inferred-method-name": {
+  "docs": "https://github.com/johnstonbl01/eslint-no-inferred-method-name/blob/master/docs/rules/",
   "repository": "https://github.com/johnstonbl01/eslint-no-inferred-method-name"
  },
  "no-jquery": {
