@@ -156,6 +156,10 @@
  "@doodad-js/eslint-plugin-doodad": {
   "repository": "https://github.com/doodadjs/eslint-plugin-doodad"
  },
+ "@dr.potapoff/eslint-plugin": {
+  "docs": "https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/",
+  "repository": "https://github.com/typescript-eslint/typescript-eslint"
+ },
  "@dreipol/eslint-plugin-export-keys": {
   "repository": "https://github.com/dreipol/eslint-plugin-export-keys"
  },
@@ -1960,6 +1964,9 @@
  "max-len-2": {
   "repository": "https://github.com/andreineculau/eslint-plugin-max-len-2"
  },
+ "mayaka": {
+  "repository": "https://github.com/g-plane/eslint-plugin-mayaka"
+ },
  "mdx": {
   "repository": "https://github.com/rx-ts/eslint-mdx"
  },
@@ -1989,6 +1996,9 @@
  },
  "mistertemp": {
   "repository": "https://github.com/lzientek/eslint-plugin-mistertemp"
+ },
+ "mobx-computed-getters": {
+  "repository": "https://github.com/kubk/eslint-plugin-mobx-computed-getters"
  },
  "mocha": {
   "docs": "https://github.com/lo1tuma/eslint-plugin-mocha/blob/master/docs/rules/",
@@ -2199,6 +2209,9 @@
  },
  "no-eslint-disable": {
   "repository": "https://github.com/unlight/eslint-plugin-no-eslint-disable"
+ },
+ "no-explicit-type-exports": {
+  "repository": "https://github.com/intuit/eslint-plugin-no-explicit-type-exports"
  },
  "no-extension-in-require": {
   "repository": "https://github.com/pdubroy/eslint-plugin-no-extension-in-require"
@@ -2755,6 +2768,10 @@
  "react-ssr": {
   "repository": "https://github.com/ytanruengsri/eslint-plugin-react-ssr"
  },
+ "react-svg": {
+  "docs": "https://github.com/raix/eslint-plugin-react-svg/blob/master/docs/rules/",
+  "repository": "https://github.com/raix/eslint-plugin-react-svg"
+ },
  "react-with-styles": {
   "docs": "https://github.com/airbnb/eslint-plugin-react-with-styles/blob/master/docs/rules/",
   "repository": "https://github.com/airbnb/eslint-plugin-react-with-styles"
@@ -2838,6 +2855,7 @@
   "repository": "https://github.com/ozaki25/eslint-plugin-restrict-named-import"
  },
  "resub": {
+  "docs": "https://github.com/a-tarasyuk/eslint-plugin-resub/blob/master/docs/rules/",
   "repository": "https://github.com/a-tarasyuk/eslint-plugin-resub"
  },
  "return-early-dont-assign": {
@@ -3189,6 +3207,9 @@
   "docs": "https://github.com/spalger/eslint-plugin-test-filenames/blob/master/docs/rules/",
   "repository": "https://github.com/spalger/eslint-plugin-test-filenames"
  },
+ "test-import-paths": {
+  "repository": "https://github.com/jeyj0/eslint-plugin-test-import-paths"
+ },
  "test-names": {
   "docs": "https://github.com/DanielMSchmidt/eslint-plugin-test-names/blob/master/docs/rules/",
   "repository": "https://github.com/DanielMSchmidt/eslint-plugin-test-names"
@@ -3206,6 +3227,9 @@
  },
  "tgandrews": {
   "repository": "https://github.com/tgandrews/eslint-plugin-tgandrews"
+ },
+ "the-step-down-rule": {
+  "repository": "https://github.com/skabbi/eslint-plugin-the-step-down-rule"
  },
  "this": {
   "repository": "https://github.com/matijs/eslint-plugin-this"
@@ -3239,6 +3263,9 @@
  },
  "tsc": {
   "repository": "https://github.com/unlight/eslint-plugin-tsc"
+ },
+ "tsdoc": {
+  "repository": "https://github.com/microsoft/tsdoc"
  },
  "turbopatent": {
   "repository": "https://github.com/PatentNavigation/eslint-plugin-turbopatent"
@@ -3322,6 +3349,9 @@
  },
  "videoamp": {
   "repository": "https://github.com/VideoAmp/eslint-plugin-videoamp"
+ },
+ "view-models": {
+  "repository": "https://github.com/asbjornh/eslint-plugin-view-models"
  },
  "viper": {
   "repository": "https://github.com/cxdongjack/eslint-plugin-viper"
