@@ -105,14 +105,14 @@
   "docs": "https://github.com/change/javascript/blob/master/packages/eslint-plugin-change/docs/rules/",
   "repository": "https://github.com/change/javascript"
  },
- "@checkdigit/eslint-plugin": {
-  "repository": "https://github.com/samelliottdlt/eslint-plugin-file-path-comment"
- },
  "@clark/eslint-plugin-import-helpers-with-package": {
   "repository": "https://github.com/ClarkSource/eslint-config"
  },
  "@cloudfour/eslint-plugin": {
   "repository": "https://github.com/cloudfour/eslint-config"
+ },
+ "@codar/eslint-plugin": {
+  "repository": "https://github.com/codarme/stylelint"
  },
  "@cognibox/eslint-plugin-no-super-async": {
   "repository": "https://github.com/cognibox/eslint-no-super-async"
@@ -676,9 +676,6 @@
   "docs": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension/blob/master/docs/rules/",
   "repository": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension"
  },
- "awell-rules": {
-  "repository": "https://github.com/awell-health/eslint-plugin-awell-rules"
- },
  "axe": {
   "repository": "https://github.com/dequelabs/axe-core"
  },
@@ -1001,6 +998,9 @@
  "curology": {
   "docs": "https://github.com/PocketDerm/eslint-plugin-curology/blob/master/docs/rules/",
   "repository": "https://github.com/PocketDerm/eslint-plugin-curology"
+ },
+ "custom-jsx-props-order": {
+  "repository": "https://github.com/fenbka/eslint-plugin-custom-jsx-props-order"
  },
  "custom-prettier": {
   "repository": "https://github.com/shaneu/eslint-plugin-custom-prettier"
@@ -1921,6 +1921,9 @@
  "loosely-restrict-imports": {
   "repository": "https://github.com/mattgoucher/eslint-plugin-loosely-restrict-imports"
  },
+ "loyaltylion": {
+  "repository": "https://github.com/loyaltylion/eslint-plugin-loyaltylion"
+ },
  "lucky-monkey": {
   "docs": "https://github.com/borenXue/eslint-plugin-lucky-monkey/blob/master/docs/rules/",
   "repository": "https://github.com/borenXue/eslint-plugin-lucky-monkey"
@@ -2377,6 +2380,9 @@
   "docs": "https://github.com/doronwix/eslint-plugin-noko/blob/master/docs/rules/",
   "repository": "https://github.com/doronwix/eslint-plugin-noko"
  },
+ "nolint": {
+  "repository": "https://github.com/HaoChuan9421/eslint-plugin-nolint"
+ },
  "nop": {
   "repository": "https://github.com/pasaran/eslint-plugin-nop"
  },
@@ -2800,6 +2806,9 @@
   "docs": "https://github.com/regru/eslint-plugin-regru/blob/master/docs/rules/",
   "repository": "https://github.com/regru/eslint-plugin-regru"
  },
+ "regularjs-beautify": {
+  "repository": "https://github.com/hsiaosiyuan0/regularjs-beautify"
+ },
  "reiwa": {
   "repository": "https://github.com/otofu-square/eslint-plugin-reiwa"
  },
@@ -2942,6 +2951,9 @@
  "self": {
   "repository": "https://github.com/not-an-aardvark/eslint-plugin-self"
  },
+ "self-dir": {
+  "repository": "https://github.com/not-an-aardvark/eslint-plugin-self"
+ },
  "semantic-naming": {
   "repository": "https://github.com/Moncader/eslint-plugin-semantic-naming"
  },
@@ -3070,6 +3082,9 @@
  },
  "spellcheck": {
   "repository": "https://github.com/aotaduy/eslint-plugin-spellcheck"
+ },
+ "speller": {
+  "repository": "https://github.com/itlci/eslint-plugin-speller"
  },
  "spellingbee": {
   "repository": "https://github.com/eschaefer/eslint-plugin-spellingbee"
@@ -3382,6 +3397,10 @@
  "vue-libs": {
   "repository": "https://github.com/vuejs/eslint-plugin-vue-libs"
  },
+ "vue-scoped-css": {
+  "docs": "https://github.com/future-architect/eslint-plugin-vue-scoped-css/blob/master/docs/rules/",
+  "repository": "https://github.com/future-architect/eslint-plugin-vue-scoped-css"
+ },
  "vue-types": {
   "repository": "https://github.com/dwightjack/eslint-plugin-vue-types"
  },
@@ -3463,6 +3482,9 @@
  "wyze": {
   "docs": "https://github.com/wyze/eslint-plugin-wyze/blob/master/docs/rules/",
   "repository": "https://github.com/wyze/eslint-plugin-wyze"
+ },
+ "xmfe": {
+  "repository": "https://github.com/Cleam/eslint-plugin-xmfe"
  },
  "xod-fp": {
   "repository": "https://github.com/xodio/eslint-plugin-xod-fp"
