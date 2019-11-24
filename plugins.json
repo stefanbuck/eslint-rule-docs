@@ -70,6 +70,9 @@
   "docs": "https://github.com/bem/bem-react/blob/master/packages/eslint-plugin/docs/rules/",
   "repository": "https://github.com/bem/bem-react"
  },
+ "@berlysia/generator-eslint-plugin": {
+  "repository": "https://github.com/berlysia/generator-eslint-plugin"
+ },
  "@bigtaddy/eslint-plugin-simple-import-sort": {
   "repository": "https://github.com/bigtaddy/eslint-plugin-simple-import-sort"
  },
@@ -207,6 +210,9 @@
  "@flowio/eslint-plugin-flowio": {
   "docs": "https://github.com/flowcommerce/eslint-plugin-flowio/blob/master/docs/rules/",
   "repository": "https://github.com/flowcommerce/eslint-plugin-flowio"
+ },
+ "@floydspace/eslint-plugin-rules": {
+  "repository": "https://github.com/floydspace/eslint-plugin-rules"
  },
  "@frogeducation/eslint-plugin-jquery-compat": {
   "docs": "https://github.com/frogeducation/eslint-plugin-jquery-compat/blob/master/docs/rules/",
@@ -371,6 +377,9 @@
  },
  "@operation_code/eslint-plugin-custom-rules": {
   "repository": "https://github.com/operationcode/configs"
+ },
+ "@percolate/eslint-plugin": {
+  "repository": "https://github.com/percolate/blend"
  },
  "@pgilad/eslint-plugin-react-redux": {
   "docs": "https://github.com/pgilad/eslint-plugin-react-redux/blob/master/docs/rules/",
@@ -1696,6 +1705,9 @@
  },
  "jasmine-jquery": {
   "repository": "https://github.com/xxnatc/eslint-plugin-jasmine-jquery"
+ },
+ "jd": {
+  "repository": "https://github.com/gkxie/eslint-plugin-jd"
  },
  "jest": {
   "docs": "https://github.com/jest-community/eslint-plugin-jest/blob/master/docs/rules/",
