@@ -576,6 +576,9 @@
  "adone": {
   "repository": "https://github.com/ciferox/eslint-plugin-adone"
  },
+ "adonis": {
+  "repository": "https://github.com/AdonisCommunity/eslint-plugin-adonis"
+ },
  "adventure-land": {
   "repository": "https://github.com/davidtimmons/eslint-plugin-adventure-land"
  },
@@ -595,6 +598,9 @@
  "alloy": {
   "docs": "https://github.com/appcelerator/eslint-plugin-alloy/blob/master/docs/rules/",
   "repository": "https://github.com/appcelerator/eslint-plugin-alloy"
+ },
+ "alphabetize": {
+  "repository": "https://github.com/NickHeiner/eslint-plugin-alphabetize"
  },
  "altesis": {
   "repository": "https://github.com/AltesisPro/eslint-plugin-altesis"
@@ -1566,6 +1572,9 @@
   "docs": "https://github.com/supremebeing7/eslint-plugin-immer/blob/master/docs/rules/",
   "repository": "https://github.com/supremebeing7/eslint-plugin-immer"
  },
+ "immer-reducer": {
+  "repository": "https://github.com/skoshy/eslint-plugin-immer-reducer"
+ },
  "immutable": {
   "repository": "https://github.com/jhusain/eslint-plugin-immutable"
  },
@@ -1832,6 +1841,10 @@
  },
  "koot": {
   "repository": "https://github.com/cmux/koot-eslint"
+ },
+ "koro-create": {
+  "docs": "https://github.com/OBKoro1/eslint-plugin-koro-create/blob/master/docs/rules/",
+  "repository": "https://github.com/OBKoro1/eslint-plugin-koro-create"
  },
  "lab": {
   "docs": "https://github.com/rankida/eslint-plugin-lab/blob/master/docs/rules/",
@@ -2225,6 +2238,10 @@
  "no-eslint-disable": {
   "repository": "https://github.com/unlight/eslint-plugin-no-eslint-disable"
  },
+ "no-except": {
+  "docs": "https://github.com/ryan-rushton/eslint-plugin-no-except/blob/master/docs/rules/",
+  "repository": "https://github.com/ryan-rushton/eslint-plugin-no-except"
+ },
  "no-explicit-type-exports": {
   "repository": "https://github.com/intuit/eslint-plugin-no-explicit-type-exports"
  },
@@ -2395,6 +2412,9 @@
  "nolint": {
   "repository": "https://github.com/HaoChuan9421/eslint-plugin-nolint"
  },
+ "nommon": {
+  "repository": "https://github.com/doochik/eslint-plugin-ru-typography"
+ },
  "nop": {
   "repository": "https://github.com/pasaran/eslint-plugin-nop"
  },
@@ -2462,6 +2482,9 @@
  "orbit-components": {
   "docs": "https://github.com/kiwicom/eslint-plugin-orbit-components/blob/master/docs/rules/",
   "repository": "https://github.com/kiwicom/eslint-plugin-orbit-components"
+ },
+ "ordered-imports": {
+  "repository": "https://github.com/KyleMayes/eslint-plugin-ordered-imports"
  },
  "organize-imports": {
   "repository": "https://github.com/sagiavinash/eslint-plugin-organize-imports"
@@ -2607,9 +2630,6 @@
  "producthunt": {
   "repository": "https://github.com/producthunt/eslint-plugin-producthunt"
  },
- "project": {
-  "repository": "https://github.com/g-plane/eslint-plugin-project"
- },
  "promise": {
   "docs": "https://github.com/xjamundx/eslint-plugin-promise/blob/master/docs/rules/",
   "repository": "https://github.com/xjamundx/eslint-plugin-promise"
@@ -2721,6 +2741,10 @@
  },
  "react-filenames": {
   "repository": "https://github.com/mapbox/eslint-plugin-react-filenames"
+ },
+ "react-flow": {
+  "docs": "https://github.com/Kiwka/eslint-plugin-react-flow/blob/master/docs/rules/",
+  "repository": "https://github.com/Kiwka/eslint-plugin-react-flow"
  },
  "react-functional-set-state": {
   "repository": "https://github.com/BE-Webdesign/eslint-plugin-react-functional-set-state"
@@ -2930,6 +2954,9 @@
  },
  "rxjs": {
   "repository": "https://github.com/cartant/eslint-plugin-rxjs"
+ },
+ "rxjs-angular": {
+  "repository": "https://github.com/cartant/eslint-plugin-rxjs-angular"
  },
  "ryanair": {
   "repository": "https://github.com/ryanair/linters"
@@ -3163,6 +3190,9 @@
  "strudel": {
   "docs": "https://github.com/strudeljs/eslint-plugin-strudel/blob/master/docs/rules/",
   "repository": "https://github.com/strudeljs/eslint-plugin-strudel"
+ },
+ "styled-components-varname": {
+  "repository": "https://github.com/macinjoke/eslint-plugin-styled-components-varname"
  },
  "styles-object": {
   "repository": "https://github.com/helixbass/eslint-plugin-styles-object"
