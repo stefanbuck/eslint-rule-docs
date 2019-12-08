@@ -486,6 +486,9 @@
  "@swissquote/eslint-plugin-swissquote": {
   "repository": "https://github.com/swissquote/crafty"
  },
+ "@theforeman/eslint-plugin-foreman": {
+  "repository": "https://github.com/theforeman/foreman-js"
+ },
  "@thibaudcolas/eslint-plugin-cookbook": {
   "repository": "https://github.com/thibaudcolas/eslint-plugin-cookbook"
  },
@@ -1111,6 +1114,9 @@
  },
  "ebdd": {
   "repository": "https://github.com/fasttime/eslint-plugin-ebdd"
+ },
+ "ecmascript-compat": {
+  "repository": "https://github.com/robatwilliams/es-compat"
  },
  "editorconfig": {
   "repository": "https://github.com/phanect/eslint-plugin-editorconfig"
@@ -1842,7 +1848,7 @@
  "koot": {
   "repository": "https://github.com/cmux/koot-eslint"
  },
- "koro-create": {
+ "korolint": {
   "docs": "https://github.com/OBKoro1/eslint-plugin-koro-create/blob/master/docs/rules/",
   "repository": "https://github.com/OBKoro1/eslint-plugin-koro-create"
  },
@@ -2157,10 +2163,6 @@
  "newline-before-func": {
   "repository": "https://github.com/florian-richter/eslint-plugin-newline-before-func"
  },
- "nextcloud": {
-  "docs": "https://github.com/nextcloud/eslint-plugin-nextcloud/blob/master/docs/rules/",
-  "repository": "https://github.com/nextcloud/eslint-plugin-nextcloud"
- },
  "ngrx": {
   "repository": "https://github.com/timdeschryver/eslint-plugin-ngrx"
  },
@@ -2413,7 +2415,7 @@
   "repository": "https://github.com/HaoChuan9421/eslint-plugin-nolint"
  },
  "nommon": {
-  "repository": "https://github.com/doochik/eslint-plugin-ru-typography"
+  "repository": "https://github.com/doochik/eslint-plugin-nommon"
  },
  "nop": {
   "repository": "https://github.com/pasaran/eslint-plugin-nop"
@@ -2755,6 +2757,9 @@
  "react-hooks-breadhead": {
   "repository": "https://github.com/breadhead/eslint-plugin-react-hooks-breadhead"
  },
+ "react-intl-extractor": {
+  "repository": "https://github.com/kesko-dev/eslint-plugin-react-intl-extractor"
+ },
  "react-intl-format": {
   "docs": "https://github.com/calm/eslint-plugin-react-intl-format/blob/master/docs/rules/",
   "repository": "https://github.com/calm/eslint-plugin-react-intl-format"
@@ -3047,6 +3052,9 @@
  "smart-sort": {
   "docs": "https://github.com/MoonW1nd/eslint-plugin-smart-sort/blob/master/docs/rules/",
   "repository": "https://github.com/MoonW1nd/eslint-plugin-smart-sort"
+ },
+ "smarter-tabs": {
+  "repository": "https://github.com/cheap-glitch/eslint-plugin-smarter-tabs"
  },
  "smartprocure": {
   "repository": "https://github.com/smartprocure/eslint-plugin-smartprocure"
