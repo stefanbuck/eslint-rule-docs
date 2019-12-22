@@ -33,6 +33,9 @@
  "@alibaba-aero/eslint-plugin-json": {
   "repository": "https://github.com/azeemba/eslint-plugin-json"
  },
+ "@americanexpress/eslint-plugin-one-app": {
+  "repository": "https://github.com/americanexpress/one-app-cli"
+ },
  "@anansi/eslint-plugin": {
   "repository": "https://github.com/ntucker/anansi"
  },
@@ -452,6 +455,10 @@
  "@satel/eslint-plugin": {
   "repository": "https://github.com/SatelCreative/eslint-plugin"
  },
+ "@sharegate/eslint-plugin-apricot": {
+  "docs": "https://github.com/gsoft-inc/sg-eslint-plugin-apricot/blob/master/docs/rules/",
+  "repository": "https://github.com/gsoft-inc/sg-eslint-plugin-apricot"
+ },
  "@sharkykh/eslint-plugin-vue-extra": {
   "repository": "https://github.com/sharkykh/eslint-plugin-vue-extra"
  },
@@ -494,6 +501,9 @@
  },
  "@thibaudcolas/eslint-plugin-cookbook": {
   "repository": "https://github.com/thibaudcolas/eslint-plugin-cookbook"
+ },
+ "@tinkoff/eslint-plugin": {
+  "repository": "https://github.com/TinkoffCreditSystems/linters"
  },
  "@tivac/eslint-plugin-svelte": {
   "repository": "https://github.com/tivac/eslint-plugin-svelte"
@@ -557,6 +567,9 @@
  },
  "@xtrctio/eslint-plugin-disallow-date": {
   "repository": "https://github.com/xtrctio/eslint-plugin-disallow-date"
+ },
+ "@yolkai/eslint-plugin-nx": {
+  "repository": "https://github.com/nrwl/nx"
  },
  "@zapier/eslint-plugin-zapier": {
   "repository": "https://github.com/zapier/eslint-plugin-zapier"
@@ -1252,6 +1265,9 @@
  "expires": {
   "repository": "https://github.com/digencer/eslint-plugin-expires"
  },
+ "exports-order": {
+  "repository": "https://github.com/simonprod/eslint-plugin-exports-order"
+ },
  "extend": {
   "docs": "https://github.com/bregenspan/eslint-plugin-extend/blob/master/docs/rules/",
   "repository": "https://github.com/bregenspan/eslint-plugin-extend"
@@ -1398,6 +1414,9 @@
  "full-import": {
   "docs": "https://github.com/mdebbar/eslint-plugin-full-import/blob/master/docs/rules/",
   "repository": "https://github.com/mdebbar/eslint-plugin-full-import"
+ },
+ "fullfilename": {
+  "repository": "https://github.com/litelite/eslint-plugin-fullfilename"
  },
  "func-call": {
   "repository": "https://github.com/titarenko/eslint-plugin-func-call"
@@ -1740,6 +1759,10 @@
   "docs": "https://github.com/jest-community/eslint-plugin-jest/blob/master/docs/rules/",
   "repository": "https://github.com/jest-community/eslint-plugin-jest"
  },
+ "jest-dom": {
+  "docs": "https://github.com/testing-library/eslint-plugin-jest-dom/blob/master/docs/rules/",
+  "repository": "https://github.com/testing-library/eslint-plugin-jest-dom"
+ },
  "jest-formatting": {
   "docs": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting/blob/master/docs/rules/",
   "repository": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting"
@@ -1867,6 +1890,9 @@
  "lab": {
   "docs": "https://github.com/rankida/eslint-plugin-lab/blob/master/docs/rules/",
   "repository": "https://github.com/rankida/eslint-plugin-lab"
+ },
+ "lambda-calculus": {
+  "repository": "https://github.com/david-davidson/eslint-plugin-lambda-calculus"
  },
  "langs": {
   "docs": "https://github.com/infodusha/eslint-plugin-langs/blob/master/docs/rules/",
@@ -2014,7 +2040,7 @@
   "repository": "https://github.com/g-plane/eslint-plugin-mayaka"
  },
  "mdx": {
-  "repository": "https://github.com/rx-ts/eslint-mdx"
+  "repository": "https://github.com/mdx-js/eslint-mdx"
  },
  "mediawiki": {
   "repository": "https://github.com/wikimedia/eslint-plugin-mediawiki"
@@ -2118,6 +2144,9 @@
  "msc": {
   "docs": "https://github.com/KIKIWU/eslint-plugin-msc/blob/master/docs/rules/",
   "repository": "https://github.com/KIKIWU/eslint-plugin-msc"
+ },
+ "muralco": {
+  "repository": "https://github.com/muralco/eslint-plugin-muralco"
  },
  "muriki": {
   "repository": "https://github.com/Moeriki/eslint-plugin-muriki"
@@ -3049,6 +3078,10 @@
  },
  "should-promised": {
   "repository": "https://github.com/dbrockman/eslint-plugin-should-promised"
+ },
+ "simon": {
+  "docs": "https://github.com/scott-m-sarsfield/eslint-plugin-simon/blob/master/docs/rules/",
+  "repository": "https://github.com/scott-m-sarsfield/eslint-plugin-simon"
  },
  "simple-i18n-text": {
   "repository": "https://github.com/azu/eslint-plugin-simple-i18n-text"
