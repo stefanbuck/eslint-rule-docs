@@ -1403,6 +1403,10 @@
  "front-require-in-package": {
   "repository": "https://github.com/frontapp/eslint-plugin-require-in-package"
  },
+ "frontend": {
+  "docs": "https://github.com/obartra/eslint-plugin-frontend/blob/master/docs/rules/",
+  "repository": "https://github.com/obartra/eslint-plugin-frontend"
+ },
  "fsa": {
   "docs": "https://github.com/joseph-galindo/eslint-plugin-fsa/blob/master/docs/rules/",
   "repository": "https://github.com/joseph-galindo/eslint-plugin-fsa"
@@ -1713,6 +1717,10 @@
  },
  "instructure-ui": {
   "repository": "https://github.com/instructure/instructure-ui"
+ },
+ "interfaced": {
+  "docs": "https://github.com/interfaced/eslint-plugin-interfaced/blob/master/docs/rules/",
+  "repository": "https://github.com/interfaced/eslint-plugin-interfaced"
  },
  "irm": {
   "repository": "https://github.com/hadeshe93/eslint-plugin-irm"
@@ -2467,6 +2475,10 @@
  "nop": {
   "repository": "https://github.com/pasaran/eslint-plugin-nop"
  },
+ "nosettimeout": {
+  "docs": "https://github.com/eva1963/eslint-plugin-noSetimeoutTime/blob/master/docs/rules/",
+  "repository": "https://github.com/eva1963/eslint-plugin-noSetimeoutTime"
+ },
  "notice": {
   "repository": "https://github.com/nickdeis/eslint-plugin-notice"
  },
@@ -2735,6 +2747,7 @@
   "repository": "https://github.com/quintoandar/eslint-config-quintoandar"
  },
  "qunar": {
+  "docs": "https://github.com/zhongzhi107/eslint-plugin-qunar/blob/master/docs/rules/",
   "repository": "https://github.com/zhongzhi107/eslint-plugin-qunar"
  },
  "qunit": {
@@ -3390,6 +3403,9 @@
  "ts": {
   "docs": "https://github.com/ovidiubute/eslint-plugin-ts/blob/master/docs/rules/",
   "repository": "https://github.com/ovidiubute/eslint-plugin-ts"
+ },
+ "ts-wasmify": {
+  "repository": "https://github.com/JaroslawPokropinski/eslint-plugin-ts-wasmify"
  },
  "tsc": {
   "repository": "https://github.com/unlight/eslint-plugin-tsc"
