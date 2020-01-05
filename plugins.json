@@ -2817,6 +2817,9 @@
  "react-hooks-breadhead": {
   "repository": "https://github.com/breadhead/eslint-plugin-react-hooks-breadhead"
  },
+ "react-hooks-ssr": {
+  "repository": "https://github.com/correttojs/eslint-plugin-react-hooks-ssr"
+ },
  "react-i18n": {
   "docs": "https://github.com/lolatravel/eslint-plugin-react-i18n/blob/master/docs/rules/",
   "repository": "https://github.com/lolatravel/eslint-plugin-react-i18n"
@@ -3288,6 +3291,10 @@
  },
  "suitcss-classnames": {
   "repository": "https://github.com/azu/eslint-plugin-suitcss-classnames"
+ },
+ "superstition": {
+  "docs": "https://github.com/gurov/eslint-plugin-superstition/blob/master/docs/rules/",
+  "repository": "https://github.com/gurov/eslint-plugin-superstition"
  },
  "svelte3": {
   "repository": "https://github.com/sveltejs/eslint-plugin-svelte3"
