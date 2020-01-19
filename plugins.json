@@ -424,6 +424,9 @@
  "@react-native-community/eslint-plugin": {
   "repository": "https://github.com/facebook/react-native"
  },
+ "@redwoodjs/eslint-plugin-redwood": {
+  "repository": "https://github.com/redwoodjs/redwood"
+ },
  "@regru/eslint-plugin-jquery-dollar-sign-reference": {
   "docs": "https://github.com/regru/eslint-plugin-jquery-dollar-sign-reference/blob/master/docs/rules/",
   "repository": "https://github.com/regru/eslint-plugin-jquery-dollar-sign-reference"
@@ -566,10 +569,6 @@
  },
  "@wikimedia/eslint-plugin-jquery": {
   "repository": "https://github.com/wikimedia/eslint-plugin-jquery"
- },
- "@wordpress/eslint-plugin": {
-  "docs": "https://github.com/WordPress/gutenberg/blob/master/packages/eslint-plugin/docs/rules/",
-  "repository": "https://github.com/WordPress/gutenberg"
  },
  "@xcritical/eslint-plugin-xcritical": {
   "repository": "https://github.com/xcritical-software/xc-front-presets"
@@ -758,6 +757,9 @@
  },
  "basad": {
   "repository": "https://github.com/EdenGottlieb/eslint-plugin-basad"
+ },
+ "baseui": {
+  "repository": "https://github.com/uber/baseweb"
  },
  "bbva": {
   "docs": "https://github.com/BBVAEngineering/javascript/blob/master/packages/eslint-plugin-bbva/docs/rules/",
@@ -1412,8 +1414,8 @@
   "repository": "https://github.com/jesterxl/eslint-plugin-fp-jxl"
  },
  "fpcs": {
-  "docs": "https://github.com/mattrabe/eslint-plugin-fpcs/blob/master/docs/rules/",
-  "repository": "https://github.com/mattrabe/eslint-plugin-fpcs"
+  "docs": "https://github.com/flowerpress/eslint-plugin-fpcs/blob/master/docs/rules/",
+  "repository": "https://github.com/flowerpress/eslint-plugin-fpcs"
  },
  "freaking": {
   "repository": "https://github.com/iandarling/eslint-plugin-freaking"
@@ -1471,6 +1473,9 @@
  },
  "gettext": {
   "repository": "https://github.com/appannie/eslint-plugin-gettext"
+ },
+ "ghost": {
+  "repository": "https://github.com/TryGhost/eslint-plugin-ghost"
  },
  "git": {
   "repository": "https://github.com/benmosher/eslint-plugin-git"
@@ -1884,6 +1889,9 @@
  },
  "jsx-extras": {
   "repository": "https://github.com/nmn/eslint-plugin-jsx-extras"
+ },
+ "jsx-falsy": {
+  "repository": "https://github.com/jeremy-deutsch/eslint-plugin-jsx-falsy"
  },
  "jsx-form": {
   "docs": "https://github.com/deadlybyte/eslint-plugin-jsx-form/blob/master/docs/rules/",
@@ -2861,6 +2869,9 @@
   "docs": "https://github.com/calm/eslint-plugin-react-intl-format/blob/master/docs/rules/",
   "repository": "https://github.com/calm/eslint-plugin-react-intl-format"
  },
+ "react-intl-static": {
+  "repository": "https://github.com/leonardodino/eslint-plugin-react-intl-static"
+ },
  "react-native": {
   "docs": "https://github.com/intellicode/eslint-plugin-react-native/blob/master/docs/rules/",
   "repository": "https://github.com/intellicode/eslint-plugin-react-native"
@@ -3689,6 +3700,9 @@
  },
  "you-dont-need-recompose": {
   "repository": "https://github.com/icrosil/eslint-plugin-you-dont-need-recompose"
+ },
+ "zacanger": {
+  "repository": "https://github.com/zacanger/eslint-plugin-zacanger"
  },
  "zero": {
   "repository": "https://github.com/zero-config/eslint-plugin-zero"
