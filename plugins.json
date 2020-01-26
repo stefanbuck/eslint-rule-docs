@@ -1,4 +1,7 @@
 {
+ "10x": {
+  "repository": "https://github.com/JonnyBurger/eslint-plugin-10x"
+ },
  "66nao": {
   "repository": "https://github.com/66nao/eslint-glugin-66nao"
  },
@@ -46,6 +49,9 @@
   "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/benmosher/eslint-plugin-import"
  },
+ "@app-cli/eslint-plugin": {
+  "repository": "https://github.com/app-cli/app-cli"
+ },
  "@appulate/eslint-plugin": {
   "repository": "https://github.com/appulate/eslint-plugin-appulate"
  },
@@ -90,6 +96,9 @@
  },
  "@bluelovers/eslint-plugin": {
   "repository": "https://github.com/bluelovers/ws-node-bluelovers"
+ },
+ "@blueprintjs/eslint-plugin-blueprint": {
+  "repository": "https://github.com/palantir/blueprint"
  },
  "@br/eslint-plugin-laws-of-the-game": {
   "repository": "https://github.com/bleacherreport/eslint-plugin-laws-of-the-game"
@@ -274,6 +283,10 @@
  "@igneel64/eslint-plugin-dangerous": {
   "docs": "https://github.com/igneel64/eslint-plugin-dangerous/blob/master/docs/rules/",
   "repository": "https://github.com/igneel64/eslint-plugin-dangerous"
+ },
+ "@intlify/eslint-plugin-vue-i18n": {
+  "docs": "https://github.com/intlify/eslint-plugin-vue-i18n/blob/master/docs/rules/",
+  "repository": "https://github.com/intlify/eslint-plugin-vue-i18n"
  },
  "@joyeecheung/eslint-plugin-node-core": {
   "repository": "https://github.com/joyeecheung/eslint-plugin-node-core"
@@ -631,6 +644,9 @@
  },
  "altesis": {
   "repository": "https://github.com/AltesisPro/eslint-plugin-altesis"
+ },
+ "always": {
+  "repository": "https://github.com/jenssimon/eslint-plugin-always"
  },
  "amd-imports": {
   "repository": "https://github.com/jkieboom/eslint-plugin-amd-imports"
@@ -1867,6 +1883,9 @@
  "json-processor": {
   "repository": "https://github.com/doochik/eslint-plugin-json-processor"
  },
+ "json5": {
+  "repository": "https://github.com/bayesimpact/eslint-plugin-json5"
+ },
  "jsp": {
   "repository": "https://github.com/haroldputman/eslint-plugin-jsp"
  },
@@ -2044,6 +2063,10 @@
  "magicdawn": {
   "docs": "https://github.com/magicdawn/eslint-plugin-magicdawn/blob/master/docs/rules/",
   "repository": "https://github.com/magicdawn/eslint-plugin-magicdawn"
+ },
+ "makestyles": {
+  "docs": "https://github.com/madflanderz/eslint-plugin-makestyles/blob/master/docs/rules/",
+  "repository": "https://github.com/madflanderz/eslint-plugin-makestyles"
  },
  "markdown": {
   "repository": "https://github.com/eslint/eslint-plugin-markdown"
@@ -2302,6 +2325,9 @@
  "no-copy-paste-default-export": {
   "repository": "https://github.com/buildo/eslint-plugin-no-copy-paste-default-export"
  },
+ "no-credentials": {
+  "repository": "https://github.com/oprogramador/eslint-plugin-no-credentials"
+ },
  "no-cyrillic-string": {
   "docs": "https://github.com/eprincev-egor/no-cyrillic-string/blob/master/docs/rules/",
   "repository": "https://github.com/eprincev-egor/no-cyrillic-string"
@@ -2386,6 +2412,9 @@
  },
  "no-loops": {
   "repository": "https://github.com/buildo/eslint-plugin-no-loops"
+ },
+ "no-memo-displayname": {
+  "repository": "https://github.com/patrykkopycinski/eslint-plugin-no-memo-displayname"
  },
  "no-mixed-operators": {
   "repository": "https://github.com/kevin940726/eslint-plugin-no-mixed-operators"
@@ -3565,13 +3594,13 @@
  "volkmann": {
   "repository": "https://github.com/mvolkmann/eslint-plugin-volkmann"
  },
+ "vtex": {
+  "docs": "https://github.com/vtex/javascript/blob/master/packages/eslint-plugin-vtex/docs/rules/",
+  "repository": "https://github.com/vtex/javascript"
+ },
  "vue": {
   "docs": "https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/",
   "repository": "https://github.com/vuejs/eslint-plugin-vue"
- },
- "vue-i18n": {
-  "docs": "https://github.com/kazupon/eslint-plugin-vue-i18n/blob/master/docs/rules/",
-  "repository": "https://github.com/kazupon/eslint-plugin-vue-i18n"
  },
  "vue-i18nstring": {
   "repository": "https://github.com/FlyDreame/eslint-plugin-vue-i18n"
@@ -3677,6 +3706,10 @@
  "xss": {
   "docs": "https://github.com/Rantanen/eslint-plugin-xss/blob/master/docs/rules/",
   "repository": "https://github.com/Rantanen/eslint-plugin-xss"
+ },
+ "xunit": {
+  "docs": "https://github.com/rochejul/eslint-plugin-xunit/blob/master/docs/rules/",
+  "repository": "https://github.com/rochejul/eslint-plugin-xunit"
  },
  "xurei": {
   "docs": "https://github.com/xurei/eslint-plugin/blob/master/docs/rules/",
