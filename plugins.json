@@ -52,6 +52,10 @@
  "@app-cli/eslint-plugin": {
   "repository": "https://github.com/app-cli/app-cli"
  },
+ "@applitools/eslint-plugin-compat": {
+  "docs": "https://github.com/applitools/eslint-plugin-compat/blob/master/docs/rules/",
+  "repository": "https://github.com/applitools/eslint-plugin-compat"
+ },
  "@appulate/eslint-plugin": {
   "repository": "https://github.com/appulate/eslint-plugin-appulate"
  },
@@ -218,6 +222,9 @@
   "docs": "https://github.com/sfabriece/eslint-plugin-react-typescript/blob/master/docs/rules/",
   "repository": "https://github.com/sfabriece/eslint-plugin-react-typescript"
  },
+ "@fasttime/eslint-plugin": {
+  "repository": "https://github.com/fasttime/eslint-plugin"
+ },
  "@fellow/eslint-plugin-coffee": {
   "repository": "https://github.com/aminland/eslint-plugin-coffee"
  },
@@ -293,6 +300,9 @@
  },
  "@joyeecheung/eslint-plugin-node-core": {
   "repository": "https://github.com/joyeecheung/eslint-plugin-node-core"
+ },
+ "@jsonxr/eslint-plugin": {
+  "repository": "https://github.com/jsonxr/eslint-plugin"
  },
  "@jupyterlab/eslint-plugin-jinja": {
   "repository": "https://github.com/alexkuz/eslint-plugin-jinja"
@@ -407,6 +417,9 @@
  "@operation_code/eslint-plugin-custom-rules": {
   "repository": "https://github.com/operationcode/configs"
  },
+ "@pdq/eslint-plugin-pdq": {
+  "repository": "https://github.com/pdq/eslint-plugin-pdq"
+ },
  "@percolate/eslint-plugin": {
   "repository": "https://github.com/percolate/blend"
  },
@@ -516,6 +529,9 @@
  "@sprucelabs/eslint-plugin-spruce": {
   "repository": "https://github.com/sprucelabsai/workspace.sprucebot-skills-kit"
  },
+ "@starryinternet/eslint-plugin-starry": {
+  "repository": "https://github.com/StarryInternet/eslint-plugin-starry"
+ },
  "@stencil/eslint-plugin": {
   "repository": "https://github.com/ionic-team/stencil-eslint"
  },
@@ -534,6 +550,9 @@
  },
  "@theforeman/eslint-plugin-foreman": {
   "repository": "https://github.com/theforeman/foreman-js"
+ },
+ "@theorem/eslint-plugin": {
+  "repository": "https://github.com/Theorem/eslint-plugin"
  },
  "@thibaudcolas/eslint-plugin-cookbook": {
   "repository": "https://github.com/thibaudcolas/eslint-plugin-cookbook"
@@ -1083,10 +1102,6 @@
  "cup": {
   "repository": "https://github.com/rtsao/create-universal-package"
  },
- "curology": {
-  "docs": "https://github.com/PocketDerm/eslint-plugin-curology/blob/master/docs/rules/",
-  "repository": "https://github.com/PocketDerm/eslint-plugin-curology"
- },
  "custom-jsx-props-order": {
   "repository": "https://github.com/fenbka/eslint-plugin-custom-jsx-props-order"
  },
@@ -1348,9 +1363,6 @@
  "fastify-security-rules": {
   "repository": "https://github.com/lirantal/eslint-plugin-security"
  },
- "fasttime-rules": {
-  "repository": "https://github.com/fasttime/eslint-plugin-fasttime-rules"
- },
  "fat-arrow-same-line": {
   "repository": "https://github.com/pzuraq/eslint-plugin-fat-arrow-same-line"
  },
@@ -1523,6 +1535,9 @@
  },
  "gm": {
   "repository": "https://github.com/gmfe/eslint-plugin-gm"
+ },
+ "gm-react-app": {
+  "repository": "https://github.com/gmfe/gm-react-app"
  },
  "gmfe": {
   "repository": "https://github.com/gmfe/eslint-plugin-gmfe"
@@ -2168,6 +2183,9 @@
   "docs": "https://github.com/freewheel/eslint-plugin-modulajs/blob/master/docs/rules/",
   "repository": "https://github.com/freewheel/eslint-plugin-modulajs"
  },
+ "module": {
+  "repository": "https://github.com/raxjs/rax-scripts"
+ },
  "module-name": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-module-name"
  },
@@ -2308,7 +2326,7 @@
   "repository": "https://github.com/zertosh/eslint-plugin-no-async-without-await"
  },
  "no-autofix": {
-  "repository": "https://github.com/aladdin-add/eslint-plugin-no-autofix"
+  "repository": "https://github.com/aladdin-add/eslint-plugin"
  },
  "no-await-async-call": {
   "repository": "https://github.com/christensson/eslint-plugin-no-await-async-call"
@@ -3209,9 +3227,6 @@
  "simple-jsx": {
   "repository": "https://github.com/putan/eslint-plugin-simple-jsx"
  },
- "skeleton": {
-  "repository": "https://github.com/akullpp/eslint-plugin-skeleton"
- },
  "skip-nolint-lines": {
   "repository": "https://github.com/gregsabo/eslint-plugin-skip-nolint-lines"
  },
@@ -3344,7 +3359,7 @@
   "repository": "https://github.com/aeharding/eslint-plugin-standard2"
  },
  "starry": {
-  "repository": "https://github.com/StarryInternet/eslint-plugin-starry"
+  "repository": "https://github.com/npm/security-holder"
  },
  "state": {
   "repository": "https://github.com/JackFei/eslint-plugin-state"
@@ -3642,6 +3657,9 @@
  },
  "vue-libs": {
   "repository": "https://github.com/vuejs/eslint-plugin-vue-libs"
+ },
+ "vue-oboi": {
+  "repository": "https://github.com/maxming2333/eslint-plugin-vue-oboi"
  },
  "vue-scoped-css": {
   "docs": "https://github.com/future-architect/eslint-plugin-vue-scoped-css/blob/master/docs/rules/",
