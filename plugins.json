@@ -142,9 +142,6 @@
  "@cognibox/eslint-plugin-vue-require-component-key": {
   "repository": "https://github.com/cognibox/eslint-vue-require-component-key"
  },
- "@cookielab.io/eslint-plugin-custom-rules": {
-  "repository": "https://github.com/cookielab/eslint-plugin-custom-rules"
- },
  "@coorpacademy/eslint-plugin-coorpacademy": {
   "repository": "https://github.com/CoorpAcademy/eslint-plugin-coorpacademy"
  },
@@ -261,6 +258,9 @@
  },
  "@getify/eslint-plugin-proper-ternary": {
   "repository": "https://github.com/getify/eslint-plugin-proper-ternary"
+ },
+ "@getstation/eslint-plugin-markdown": {
+  "repository": "https://github.com/eslint/eslint-plugin-markdown"
  },
  "@godaddy/eslint-plugin-react-intl": {
   "docs": "https://github.com/godaddy/eslint-plugin-react-intl/blob/master/docs/rules/",
@@ -811,6 +811,9 @@
  "basad": {
   "repository": "https://github.com/EdenGottlieb/eslint-plugin-basad"
  },
+ "base-style-config": {
+  "repository": "https://github.com/gmullerb/base-style-config"
+ },
  "baseui": {
   "repository": "https://github.com/uber/baseweb"
  },
@@ -1102,6 +1105,10 @@
  "cup": {
   "repository": "https://github.com/rtsao/create-universal-package"
  },
+ "curology": {
+  "docs": "https://github.com/PocketDerm/eslint-plugin-curology/blob/master/docs/rules/",
+  "repository": "https://github.com/PocketDerm/eslint-plugin-curology"
+ },
  "custom-jsx-props-order": {
   "repository": "https://github.com/fenbka/eslint-plugin-custom-jsx-props-order"
  },
@@ -1151,6 +1158,9 @@
  },
  "deprecated": {
   "repository": "https://github.com/ayqy/eslint-plugin-deprecated"
+ },
+ "deprecation": {
+  "repository": "https://github.com/gund/eslint-plugin-deprecation"
  },
  "design-system": {
   "repository": "https://github.com/dslounge/eslint-plugin-design-system"
@@ -1315,10 +1325,6 @@
  "evernote": {
   "repository": "https://github.com/evernote/eslint-plugin-evernote"
  },
- "exati": {
-  "docs": "https://github.com/GuilhermeAB/eslint-plugin-exati/blob/master/docs/rules/",
-  "repository": "https://github.com/GuilhermeAB/eslint-plugin-exati"
- },
  "exclude-nunjuck-tags": {
   "repository": "https://github.com/ibrahim12/eslint-plugin-exclude-nunjuck-tags"
  },
@@ -1438,6 +1444,9 @@
  },
  "folder-schema": {
   "repository": "https://github.com/servicetitan/folder-lint"
+ },
+ "forbidden-package": {
+  "repository": "https://github.com/Krosantos/eslint-plugin-forbidden-package"
  },
  "force-void": {
   "repository": "https://github.com/pat841/eslint-plugin-force-void"
@@ -1834,6 +1843,9 @@
  },
  "jasmine-jquery": {
   "repository": "https://github.com/xxnatc/eslint-plugin-jasmine-jquery"
+ },
+ "javascript": {
+  "repository": "https://github.com/exelord/eslint-plugin-javascript"
  },
  "jd": {
   "repository": "https://github.com/gkxie/eslint-plugin-jd"
@@ -2845,6 +2857,10 @@
  "quasar": {
   "docs": "https://github.com/quasarframework/eslint-plugin-quasar/blob/master/docs/rules/",
   "repository": "https://github.com/quasarframework/eslint-plugin-quasar"
+ },
+ "query": {
+  "docs": "https://github.com/brettz9/eslint-plugin-query/blob/master/docs/rules/",
+  "repository": "https://github.com/brettz9/eslint-plugin-query"
  },
  "quick-prettier": {
   "repository": "https://github.com/SalvatorePreviti/eslint-plugin-quick-prettier"
