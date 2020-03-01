@@ -229,6 +229,10 @@
   "docs": "https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/",
   "repository": "https://github.com/benmosher/eslint-plugin-import"
  },
+ "@fintechstudios/eslint-plugin-chai-as-promised": {
+  "docs": "https://github.com/fintechstudios/eslint-plugin-chai-as-promised/blob/master/docs/rules/",
+  "repository": "https://github.com/fintechstudios/eslint-plugin-chai-as-promised"
+ },
  "@flowio/eslint-plugin-flowio": {
   "docs": "https://github.com/flowcommerce/eslint-plugin-flowio/blob/master/docs/rules/",
   "repository": "https://github.com/flowcommerce/eslint-plugin-flowio"
@@ -454,6 +458,9 @@
   "docs": "https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/",
   "repository": "https://github.com/typescript-eslint/typescript-eslint"
  },
+ "@qfoooo/eslint-plugin-base": {
+  "repository": "https://github.com/qfoooo/qfoooo-eslint"
+ },
  "@qooxdoo/eslint-plugin-qx": {
   "repository": "https://github.com/qooxdoo/eslint-plugin-qx"
  },
@@ -573,6 +580,9 @@
  "@tyankatsu0105/eslint-plugin": {
   "docs": "https://github.com/tyankatsu0105/try-eslint-rule/blob/master/docs/rules/",
   "repository": "https://github.com/tyankatsu0105/try-eslint-rule"
+ },
+ "@types/eslint-plugin-prettier": {
+  "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped"
  },
  "@typescript-eslint/eslint-plugin": {
   "docs": "https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/",
@@ -773,6 +783,9 @@
  "avoid-explicit-extension": {
   "docs": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension/blob/master/docs/rules/",
   "repository": "https://github.com/rchougule/eslint-plugin-avoid-explicit-extension"
+ },
+ "avol": {
+  "repository": "https://github.com/Avol-V/eslint-plugin-avol"
  },
  "axe": {
   "repository": "https://github.com/dequelabs/axe-core"
@@ -975,6 +988,10 @@
  },
  "classes": {
   "repository": "https://github.com/Jxck/eslint-plugin-classes"
+ },
+ "clean-code": {
+  "docs": "https://github.com/pksilen/eslint-plugin-clean-code/blob/master/docs/rules/",
+  "repository": "https://github.com/pksilen/eslint-plugin-clean-code"
  },
  "cleanjs": {
   "docs": "https://github.com/eslint-plugin-cleanjs/eslint-plugin-cleanjs/blob/master/docs/rules/",
@@ -1858,6 +1875,9 @@
   "docs": "https://github.com/testing-library/eslint-plugin-jest-dom/blob/master/docs/rules/",
   "repository": "https://github.com/testing-library/eslint-plugin-jest-dom"
  },
+ "jest-extended": {
+  "repository": "https://github.com/mattphillips/eslint-plugin-jest-extended"
+ },
  "jest-formatting": {
   "docs": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting/blob/master/docs/rules/",
   "repository": "https://github.com/dangreenisrael/eslint-plugin-jest-formatting"
@@ -2174,6 +2194,9 @@
  "mistertemp": {
   "repository": "https://github.com/lzientek/eslint-plugin-mistertemp"
  },
+ "mix-lang": {
+  "repository": "https://github.com/Jogyly/mix-lang"
+ },
  "mobx-computed-getters": {
   "repository": "https://github.com/kubk/eslint-plugin-mobx-computed-getters"
  },
@@ -2204,6 +2227,9 @@
  "module-resolver": {
   "docs": "https://github.com/HeroProtagonist/eslint-plugin-module-resolver/blob/master/docs/rules/",
   "repository": "https://github.com/HeroProtagonist/eslint-plugin-module-resolver"
+ },
+ "moment-timezone": {
+  "repository": "https://github.com/hollandmatt/eslint-plugin-moment-timezone"
  },
  "moment-utc": {
   "docs": "https://github.com/wunderflats/eslint-plugin-moment-utc/blob/master/docs/rules/",
@@ -3503,6 +3529,9 @@
  "testcafe": {
   "repository": "https://github.com/miherlosev/eslint-plugin-testcafe"
  },
+ "testcafe-extended": {
+  "repository": "https://github.com/stefanschenk/eslint-plugin-testcafe-extended"
+ },
  "testdouble": {
   "docs": "https://github.com/michaelanthonymain/eslint-plugin-testdouble/blob/master/docs/rules/",
   "repository": "https://github.com/michaelanthonymain/eslint-plugin-testdouble"
@@ -3612,6 +3641,9 @@
  "url": {
   "docs": "https://github.com/keyfoxth/eslint-plugin-url/blob/master/docs/rules/",
   "repository": "https://github.com/keyfoxth/eslint-plugin-url"
+ },
+ "use-decorator": {
+  "repository": "https://github.com/team-parallax/eslint-plugin-use-decorator"
  },
  "use-macros": {
   "repository": "https://github.com/wantedly/frolint"
