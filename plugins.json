@@ -421,6 +421,9 @@
  "@operation_code/eslint-plugin-custom-rules": {
   "repository": "https://github.com/operationcode/configs"
  },
+ "@oursky/eslint-plugin": {
+  "repository": "https://github.com/oursky/eslint-oursky"
+ },
  "@pdq/eslint-plugin-pdq": {
   "repository": "https://github.com/pdq/eslint-plugin-pdq"
  },
@@ -488,6 +491,9 @@
  "@roadmunk/eslint-plugin-roadmunk-custom": {
   "docs": "https://github.com/Roadmunk/eslint-plugin-roadmunk/blob/master/docs/rules/",
   "repository": "https://github.com/Roadmunk/eslint-plugin-roadmunk"
+ },
+ "@romeovs/eslint-plugin-css-modules": {
+  "repository": "https://github.com/atfzl/eslint-plugin-css-modules"
  },
  "@rushplay/eslint-plugin-objects": {
   "docs": "https://github.com/RushPlay/eslint-plugin-objects/blob/master/docs/rules/",
@@ -678,6 +684,9 @@
  },
  "ala": {
   "repository": "https://github.com/alaameddeb/ESLint-plugin"
+ },
+ "algolia": {
+  "repository": "https://github.com/algolia/eslint-plugin-algolia"
  },
  "alint": {
   "repository": "https://github.com/AlanFoster/eslint-plugin-alint"
@@ -1023,11 +1032,17 @@
   "docs": "https://github.com/APshenkin/eslint-plugin-codeceptjs/blob/master/docs/rules/",
   "repository": "https://github.com/APshenkin/eslint-plugin-codeceptjs"
  },
+ "codegen": {
+  "repository": "https://github.com/mmkal/ts"
+ },
  "coffeescript": {
   "repository": "https://github.com/a-x-/eslint-plugin-coffeescript"
  },
  "coffeescript-es7": {
   "repository": "https://github.com/ovikholt/eslint-plugin-coffeescript"
+ },
+ "coherence": {
+  "repository": "https://github.com/leonardodino/eslint-plugin-coherence"
  },
  "comment-annotations": {
   "repository": "https://github.com/102/eslint-plugin-comment-annotations"
@@ -2500,6 +2515,14 @@
   "docs": "https://github.com/gabemeola/eslint-plugin-no-named-imports/blob/master/docs/rules/",
   "repository": "https://github.com/gabemeola/eslint-plugin-no-named-imports"
  },
+ "no-named-test-function": {
+  "docs": "https://github.com/sglord/eslint-plugin-no-named-test-function/blob/master/docs/rules/",
+  "repository": "https://github.com/sglord/eslint-plugin-no-named-test-function"
+ },
+ "no-named-test-functions": {
+  "docs": "https://github.com/sglord/eslint-plugin-no-named-test-functions/blob/master/docs/rules/",
+  "repository": "https://github.com/sglord/eslint-plugin-no-named-test-functions"
+ },
  "no-not-accumulator-reassign": {
   "docs": "https://github.com/mathieudutour/eslint-plugin-no-not-accumulator-reassign/blob/master/docs/rules/",
   "repository": "https://github.com/mathieudutour/eslint-plugin-no-not-accumulator-reassign"
@@ -3232,6 +3255,9 @@
  "semistandard-react": {
   "repository": "https://github.com/adamelliotfields/eslint-plugin-semistandard-react"
  },
+ "sequel": {
+  "repository": "https://github.com/5app/eslint-plugin-sequel"
+ },
  "serverless-eslint-plugin": {
   "repository": "https://github.com/nishantjain91/serverless-eslint-plugin"
  },
@@ -3559,6 +3585,9 @@
   "docs": "https://github.com/ewandennis/eslint-plugin-tick-tock-jsdoc/blob/master/docs/rules/",
   "repository": "https://github.com/ewandennis/eslint-plugin-tick-tock-jsdoc"
  },
+ "todo-comments": {
+  "repository": "https://github.com/fXy-during/eslint-plugin-todo-comments"
+ },
  "toplevel": {
   "repository": "https://github.com/HKalbasi/eslint-plugin-toplevel"
  },
@@ -3783,6 +3812,7 @@
   "repository": "https://github.com/thenativeweb/eslint-plugin-wolkenkit"
  },
  "workspaces": {
+  "docs": "https://github.com/joshuajaco/eslint-plugin-workspaces/blob/master/docs/rules/",
   "repository": "https://github.com/joshuajaco/eslint-plugin-workspaces"
  },
  "wpcalypso": {
