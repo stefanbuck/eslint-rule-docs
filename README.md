@@ -33,4 +33,4 @@ getRuleUrl('unknown-foo/bar');
 
 ## License
 
-MIT © [Stefan Buck](http://stefanbuck.com)
+Copyright (c) 2018–present [Stefan Buck](https://stefanbuck.com/). Licensed under the MIT license.
