@@ -11,12 +11,6 @@
  "@-k/eslint-plugin": {
   "repository": "https://github.com/AdrieanKhisbe/my-node-libraries"
  },
- "@0x4447/eslint-plugin-0x4447": {
-  "repository": "https://github.com/0x4447/0x4447-plugin-eslint"
- },
- "@0y0/eslint-plugin-react": {
-  "repository": "https://github.com/o0y0o/f2e-dev-toolkit"
- },
  "@2chevskii/eslint-plugin-putout": {
   "repository": "https://github.com/2chevskii/eslint-plugin-putout"
  },
@@ -31,9 +25,6 @@
  },
  "@aereal/eslint-plugin-react-type-safe-render": {
   "repository": "https://github.com/aereal/react-type-safe-render"
- },
- "@agumy/eslint-plugin-react-classname-sort": {
-  "repository": "https://github.com/agumy/eslint-plugin-react-classname-sort"
  },
  "@akphi/eslint-plugin": {
   "repository": "https://github.com/akphi/config-tester"
@@ -65,6 +56,9 @@
  "@anireact/eslint-plugin": {
   "repository": "https://github.com/anireact/zc"
  },
+ "@aortman/eslint-plugin-import": {
+  "repository": "https://github.com/benmosher/eslint-plugin-import"
+ },
  "@applitools/eslint-plugin-compat": {
   "repository": "https://github.com/applitools/eslint-plugin-compat"
  },
@@ -82,6 +76,9 @@
  },
  "@avaly/eslint-plugin-import-order": {
   "repository": "https://github.com/avaly/eslint-plugin-import-order"
+ },
+ "@babel/eslint-plugin": {
+  "repository": "https://github.com/babel/babel"
  },
  "@babel/eslint-plugin-development": {
   "repository": "https://github.com/babel/babel"
@@ -131,17 +128,14 @@
  "@br/eslint-plugin-laws-of-the-game": {
   "repository": "https://github.com/bleacherreport/eslint-plugin-laws-of-the-game"
  },
- "@breadhead/eslint-plugin-react-hooks": {
-  "repository": "https://github.com/breadhead/eslint-plugin-react-hooks"
- },
  "@breautek/eslint-plugin": {
   "repository": "https://github.com/breautek/eslint-plugin"
  },
  "@brettz9/eslint-plugin": {
   "repository": "https://github.com/brettz9/eslint-plugin"
  },
- "@busybox/eslint-plugin-json": {
-  "repository": "https://github.com/davidNHK/busybox"
+ "@bullhorn/eslint-plugin-bullhorn": {
+  "repository": "https://github.com/bullhorn/eslint-plugin-bullhorn"
  },
  "@bve/eslint-plugin": {
   "repository": "https://github.com/bvejs/bve"
@@ -157,9 +151,6 @@
  },
  "@change-org/eslint-plugin-change": {
   "repository": "https://github.com/change/javascript"
- },
- "@channel.io/eslint-plugin": {
-  "repository": "https://github.com/channel-io/eslint-plugin"
  },
  "@chanzuckerberg/eslint-plugin-stories": {
   "repository": "https://github.com/chanzuckerberg/frontend-libs"
@@ -179,9 +170,6 @@
  "@codaco/eslint-plugin-spellcheck": {
   "repository": "https://github.com/codaco/eslint-plugin-spellcheck"
  },
- "@codar/eslint-plugin": {
-  "repository": "https://github.com/codarme/stylelint"
- },
  "@cognibox/eslint-plugin-no-super-async": {
   "repository": "https://github.com/cognibox/eslint-no-super-async"
  },
@@ -196,12 +184,6 @@
  },
  "@copyist/eslint-plugin": {
   "repository": "https://github.com/ooooevan/copyist"
- },
- "@corbinu/eslint-plugin-typescript": {
-  "repository": "https://github.com/typescript-eslint/typescript-eslint"
- },
- "@corefw/eslint-plugin-corefw": {
-  "repository": "https://github.com/corefw/core-eslint-plugin-corefw"
  },
  "@creuna/eslint-plugin-prop-types-csharp": {
   "repository": "https://github.com/Creuna-Oslo/eslint-plugin-prop-types-csharp"
@@ -242,6 +224,9 @@
  "@doochik/eslint-plugin-location": {
   "repository": "https://github.com/doochik/eslint-plugin-location"
  },
+ "@doodad-js/eslint-plugin-doodad": {
+  "repository": "https://github.com/doodadjs/eslint-plugin-doodad"
+ },
  "@dr.potapoff/eslint-plugin": {
   "repository": "https://github.com/typescript-eslint/typescript-eslint"
  },
@@ -253,9 +238,6 @@
  },
  "@dword-design/eslint-plugin-import-alias": {
   "repository": "https://github.com/dword-design/eslint-plugin-import-alias"
- },
- "@edenhealth/eslint-plugin-react-native": {
-  "repository": "https://github.com/edenhealth/eslint-plugin-react-native"
  },
  "@einride/eslint-plugin": {
   "repository": "https://github.com/einride/eslint-plugin"
@@ -315,9 +297,6 @@
  "@fengyinchao/eslint-plugin-custom": {
   "repository": "https://github.com/fengyinchao/eslint-plugin-custom"
  },
- "@fictiv/eslint-plugin-import": {
-  "repository": "https://github.com/benmosher/eslint-plugin-import"
- },
  "@finos/eslint-plugin-legend-studio": {
   "repository": "https://github.com/finos/legend-studio"
  },
@@ -351,9 +330,6 @@
  "@fuzeman/eslint-plugin-import": {
   "repository": "https://github.com/fuzeman/eslint-plugin-import"
  },
- "@genus-machina/eslint-plugin-node": {
-  "repository": "https://github.com/genus-machina/eslint-plugin-node"
- },
  "@getstation/eslint-plugin-markdown": {
   "repository": "https://github.com/eslint/eslint-plugin-markdown"
  },
@@ -368,6 +344,9 @@
  },
  "@graphql-eslint/eslint-plugin": {
   "repository": "https://github.com/dotansimha/graphql-eslint"
+ },
+ "@gravitywelluk/eslint-plugin": {
+  "repository": "https://github.com/GravitywellUK/eslint-plugin"
  },
  "@gravitywelluk/eslint-plugin-test": {
   "repository": "https://github.com/GravitywellUK/eslint-plugin"
@@ -402,23 +381,23 @@
  "@homer0/eslint-plugin": {
   "repository": "https://github.com/homer0/packages"
  },
+ "@hrax/eslint-plugin-now-best-practices": {
+  "repository": "https://github.com/hrax/eslint-plugin-now-best-practices"
+ },
  "@hrbrain/eslint-plugin": {
   "repository": "https://github.com/hrbrain/eslint-plugin"
  },
  "@html-eslint/eslint-plugin": {
   "repository": "https://github.com/yeonjuan/html-eslint"
  },
- "@hypnosphi/eslint-plugin-import": {
-  "repository": "https://github.com/benmosher/eslint-plugin-import"
- },
  "@hypnosphi/eslint-plugin-react": {
   "repository": "https://github.com/yannickcr/eslint-plugin-react"
  },
+ "@iameax/eslint-plugin-code-style": {
+  "repository": "https://github.com/iameax/eslint-plugin-code-style"
+ },
  "@iamstarkov/eslint-plugin-require-path-exists": {
   "repository": "https://github.com/BohdanTkachenko/eslint-plugin-require-path-exists"
- },
- "@ianwremmel/eslint-plugin-ianwremmel": {
-  "repository": "https://github.com/ianwremmel/eslint-plugin-ianwremmel"
  },
  "@igneel64/eslint-plugin-dangerous": {
   "repository": "https://github.com/igneel64/eslint-plugin-dangerous"
@@ -486,23 +465,20 @@
  "@layout-css/eslint-plugin-styled-components": {
   "repository": "https://github.com/studiosciences/layout-css"
  },
- "@lewisl9029/eslint-plugin-react-hooks": {
-  "repository": "https://github.com/facebook/react"
- },
  "@lifeomic/eslint-plugin-frontend": {
   "repository": "https://github.com/lifeomic/eslint-plugin-frontend"
  },
  "@lifeomic/eslint-plugin-node": {
   "repository": "https://github.com/lifeomic/eslint-plugin-node"
  },
+ "@lightscript/eslint-plugin": {
+  "repository": "https://github.com/wcjohnson/lightscript-eslint"
+ },
  "@lint-md/eslint-plugin": {
   "repository": "https://github.com/lint-md/eslint-plugin"
  },
  "@lint-ts-index/eslint-plugin": {
   "repository": "https://github.com/bbenoist/lint-ts-index"
- },
- "@linvain/eslint-plugin": {
-  "repository": "https://github.com/linvain/linvain"
  },
  "@lwc/eslint-plugin-lwc": {
   "repository": "https://github.com/salesforce/eslint-plugin-lwc"
@@ -533,9 +509,6 @@
  },
  "@mapbox/eslint-plugin-script-tags": {
   "repository": "https://github.com/mapbox/eslint-plugin-script-tags"
- },
- "@mapbox/eslint-plugin-stickler": {
-  "repository": "https://github.com/mapbox/stickler"
  },
  "@mariosetenal/eslint-plugin-css-modules": {
   "repository": "https://github.com/atfzl/eslint-plugin-css-modules"
@@ -597,9 +570,6 @@
  "@mysticatea/eslint-plugin-vue": {
   "repository": "https://github.com/mysticatea/eslint-plugin-vue-trial"
  },
- "@naturacosmeticos/eslint-plugin-i18n-checker": {
-  "repository": "https://github.com/natura-cosmeticos/eslint-plugin-i18n-checker"
- },
  "@netless/eslint-plugin": {
   "repository": "https://github.com/netless-io/eslint-plugin"
  },
@@ -615,9 +585,6 @@
  "@nextcloud/eslint-plugin": {
   "docs": "https://github.com/nextcloud/eslint-plugin/blob/master/docs/rules/",
   "repository": "https://github.com/nextcloud/eslint-plugin"
- },
- "@nextools/eslint-plugin": {
-  "repository": "https://github.com/nextools/metarepo"
  },
  "@nexxtway/eslint-plugin-rainbow": {
   "repository": "https://github.com/nexxtway/eslint-plugin-rainbow"
@@ -636,9 +603,6 @@
  },
  "@nrwl/eslint-plugin-nx": {
   "repository": "https://github.com/nrwl/nx"
- },
- "@numso/eslint-plugin-import": {
-  "repository": "https://github.com/numso/eslint-plugin-import"
  },
  "@octogonz/eslint-plugin": {
   "repository": "https://github.com/typescript-eslint/typescript-eslint"
@@ -664,6 +628,9 @@
  "@pdq/eslint-plugin-pdq": {
   "repository": "https://github.com/pdq/eslint-plugin-pdq"
  },
+ "@percolate/eslint-plugin": {
+  "repository": "https://github.com/percolate/blend"
+ },
  "@pgilad/eslint-plugin-react-redux": {
   "repository": "https://github.com/pgilad/eslint-plugin-react-redux"
  },
@@ -678,6 +645,12 @@
  },
  "@preconstruct/eslint-plugin-format-js-tag": {
   "repository": "https://github.com/preconstruct/preconstruct"
+ },
+ "@prodo-ai/eslint-plugin": {
+  "repository": "https://github.com/prodo-ai/eslint-plugin-prodo"
+ },
+ "@prodo-ai/eslint-plugin-prodo": {
+  "repository": "https://github.com/prodo-ai/eslint-plugin-prodo"
  },
  "@prodo/eslint-plugin": {
   "repository": "https://github.com/prodo-ai/prodo"
@@ -712,9 +685,6 @@
  "@regru/eslint-plugin-prefer-early-return": {
   "repository": "https://github.com/regru/eslint-plugin-prefer-early-return"
  },
- "@rensovargas/eslint-plugin-riot": {
-  "repository": "https://github.com/rensovargas/eslint-plugin-riot"
- },
  "@revved/eslint-plugin-immutable": {
   "repository": "https://github.com/jhusain/eslint-plugin-immutable"
  },
@@ -736,17 +706,8 @@
  "@rushplay/eslint-plugin-objects": {
   "repository": "https://github.com/RushPlay/eslint-plugin-objects"
  },
- "@rushstack/eslint-plugin": {
-  "repository": "https://github.com/microsoft/rushstack"
- },
  "@rushstack/eslint-plugin-packlets": {
   "repository": "https://github.com/microsoft/rushstack"
- },
- "@rushstack/eslint-plugin-security": {
-  "repository": "https://github.com/microsoft/rushstack"
- },
- "@rxts/eslint-plugin-prettier": {
-  "repository": "https://github.com/prettier/eslint-plugin-prettier"
  },
  "@saji/eslint-plugin-brace-rules": {
   "repository": "https://github.com/marek-saji/eslint-plugin-brace-rules"
@@ -769,9 +730,6 @@
  "@scitotec/eslint-plugin-rules": {
   "repository": "https://github.com/scitotec/eslint-plugin-scitotec-rules"
  },
- "@seatentacle/eslint-plugin": {
-  "repository": "https://github.com/seatentacle/eslint-plugin"
- },
  "@seedcompany/eslint-plugin": {
   "repository": "https://github.com/seedcompany/eslint-plugin"
  },
@@ -783,9 +741,6 @@
  },
  "@sharegate/eslint-plugin-apricot": {
   "repository": "https://github.com/gsoft-inc/sg-eslint-plugin-apricot"
- },
- "@sharkykh/eslint-plugin-vue-extra": {
-  "repository": "https://github.com/sharkykh/eslint-plugin-vue-extra"
  },
  "@shopify/eslint-plugin": {
   "repository": "https://github.com/Shopify/web-configs"
@@ -801,6 +756,9 @@
  },
  "@sinonjs/eslint-plugin-no-prototype-methods": {
   "repository": "https://github.com/sinonjs/eslint-plugin-no-prototype-methods"
+ },
+ "@spalger/eslint-plugin-import": {
+  "repository": "https://github.com/spalger/eslint-plugin-import"
  },
  "@spothero/eslint-plugin-spothero": {
   "repository": "https://github.com/spothero/eslint-plugin-spothero"
@@ -834,6 +792,9 @@
  },
  "@superdispatch/eslint-plugin-ui": {
   "repository": "https://github.com/superdispatch/ui"
+ },
+ "@svenpiller/eslint-plugin": {
+  "repository": "https://github.com/sven-piller/eslint-plugin"
  },
  "@swissquote/eslint-plugin-swissquote": {
   "repository": "https://github.com/swissquote/crafty"
@@ -902,9 +863,6 @@
  "@vertical-made/eslint-plugin-no-arithmetic": {
   "repository": "https://github.com/vertical-made/eslint-plugin-no-arithmetic"
  },
- "@vovkasm/eslint-plugin-std": {
-  "repository": "https://github.com/vovkasm/eslint-plugin-std"
- },
  "@vue/eslint-plugin": {
   "repository": "https://github.com/vuejs/eslint-plugin-vue"
  },
@@ -932,8 +890,8 @@
  "@xtrctio/eslint-plugin-disallow-date": {
   "repository": "https://github.com/xtrctio/eslint-plugin-disallow-date"
  },
- "@z-brain/eslint-plugin-api-entity-ref": {
-  "repository": "https://github.com/z-brain/eslint-plugin-api-entity-ref"
+ "@yolkai/eslint-plugin-nx": {
+  "repository": "https://github.com/nrwl/nx"
  },
  "@zhike/eslint-plugin": {
   "repository": "https://github.com/zhike-team/eslint-plugin-zhike"
@@ -943,9 +901,6 @@
  },
  "@zsoltszavo/eslint-plugin-import-lines": {
   "repository": "https://github.com/zsoltszavo/eslint-plugin-import-lines"
- },
- "absolute-import": {
-  "repository": "https://github.com/mcclowes/eslint-plugin-absolute-import"
  },
  "actions": {
   "repository": "https://github.com/ylemkimon/eslint-plugin-actions"
@@ -971,14 +926,14 @@
  "agpl": {
   "repository": "https://github.com/ArekZc/eslint-plugin-agpl"
  },
- "agree": {
-  "repository": "https://github.com/ast2018/eslint-plugin-agree"
- },
  "ahaha-miniprogram": {
   "repository": "https://github.com/littleprincewdk/eslint-plugin-ahaha-miniprogram"
  },
- "ala": {
-  "repository": "https://github.com/alaameddeb/ESLint-plugin"
+ "airbnb": {
+  "repository": "https://github.com/npm/security-holder"
+ },
+ "airbnb-base": {
+  "repository": "https://github.com/npm/security-holder"
  },
  "algolia": {
   "repository": "https://github.com/algolia/eslint-plugin-algolia"
@@ -992,20 +947,11 @@
  "align": {
   "repository": "https://github.com/akluball/eslint-plugin-align"
  },
- "alint": {
-  "repository": "https://github.com/AlanFoster/eslint-plugin-alint"
- },
- "alloy": {
-  "repository": "https://github.com/appcelerator/eslint-plugin-alloy"
- },
  "alphabetize": {
   "repository": "https://github.com/NickHeiner/eslint-plugin-alphabetize"
  },
  "altair": {
   "repository": "https://github.com/altairtv/eslint-plugin-altair"
- },
- "altesis": {
-  "repository": "https://github.com/AltesisPro/eslint-plugin-altesis"
  },
  "always": {
   "repository": "https://github.com/jenssimon/eslint-plugin-always"
@@ -1019,17 +965,11 @@
  "analyze": {
   "repository": "https://github.com/th317erd/eslint-plugin-analyze"
  },
- "angular": {
-  "repository": "https://github.com/Gillespie59/eslint-plugin-angularjs"
- },
  "angular-hobbicloud": {
   "repository": "https://github.com/caglarcem/eslint-plugin-angular"
  },
  "angular-template-consistent-this": {
   "repository": "https://github.com/jerone/eslint-plugin-angular-template-consistent-this"
- },
- "angularjs": {
-  "repository": "https://github.com/sahibinden/eslint-plugin-angularjs"
  },
  "angularrules": {
   "repository": "https://github.com/drBenway/eslint-angular"
@@ -1040,9 +980,6 @@
  "apa": {
   "repository": "https://github.com/lekrans/eslint-plugin-apa"
  },
- "apklab-frida": {
-  "repository": "https://github.com/avast/eslint-plugin-apklab-frida"
- },
  "appjson": {
   "repository": "https://github.com/unfold/eslint-config-appjson"
  },
@@ -1052,17 +989,17 @@
  "arcadia": {
   "repository": "https://github.com/salesmessage/javascript"
  },
- "arguments": {
-  "repository": "https://github.com/ronapelbaum/eslint-plugin-arguments"
- },
  "arista": {
   "repository": "https://github.com/aristanetworks/cloudvision-frontend-config"
  },
  "arithmetic": {
   "repository": "https://github.com/JonnyBurger/eslint-plugin-arithmetic"
  },
- "array-func": {
-  "repository": "https://github.com/freaktechnik/eslint-plugin-array-func"
+ "arrow-function-brace": {
+  "repository": "https://github.com/hayawata3626/eslint-plugin-arrow-function-brace"
+ },
+ "ascii": {
+  "repository": "https://github.com/jsus1/eslint-plugin-ascii"
  },
  "aspida": {
   "repository": "https://github.com/ibuki2003/eslint-plugin-aspida"
@@ -1070,20 +1007,20 @@
  "asrt": {
   "repository": "https://github.com/pzapalski/asrt"
  },
+ "async": {
+  "repository": "https://github.com/vutran/eslint-plugin-async"
+ },
+ "async-await": {
+  "repository": "https://github.com/59naga/eslint-plugin-async-await"
+ },
  "atlassian-webapis": {
   "repository": "https://github.com/samhh/eslint-plugin-atlassian-webapis"
- },
- "atomic-design": {
-  "repository": "https://github.com/RyoNkmr/eslint-plugin-atomic-design"
  },
  "atomic-design-hierarchy": {
   "repository": "https://github.com/robinalaerts1/eslint-plugin-atomic-design-hierarchy"
  },
  "attributes": {
   "repository": "https://github.com/xjmforweb/eslint-plugin-attributes"
- },
- "aurelia": {
-  "repository": "https://github.com/bryanrsmith/eslint-plugin-aurelia"
  },
  "auto-import-ts": {
   "repository": "https://github.com/abstractball/eslint-plugin-auto-import-ts"
@@ -1116,6 +1053,9 @@
  "backpack": {
   "repository": "https://github.com/Skyscanner/eslint-plugin-backpack"
  },
+ "baitshop-hooks": {
+  "repository": "https://github.com/aarongoin/eslint-plugin-baitshop-hooks"
+ },
  "bam": {
   "repository": "https://github.com/bamlab/eslint-plugin-bam"
  },
@@ -1126,14 +1066,8 @@
  "ban-package-import": {
   "repository": "https://github.com/AlexandrKrivosheev/eslint-plugin-ban-package-import"
  },
- "banner-indentation-style": {
-  "repository": "https://github.com/pangon/eslint-plugin-banner-indentation-style"
- },
  "banno": {
   "repository": "https://github.com/Banno/eslint-plugin-banno"
- },
- "bardjs": {
-  "repository": "https://github.com/kpytang/eslint-plugin-bardjs"
  },
  "basad": {
   "repository": "https://github.com/EdenGottlieb/eslint-plugin-basad"
@@ -1159,6 +1093,9 @@
  "beautiful-sort": {
   "repository": "https://github.com/Allohamora/eslint-plugin-beautiful-sort"
  },
+ "bem-xjst": {
+  "repository": "https://github.com/bem/eslint-plugin-bem-xjst"
+ },
  "benderthecrime": {
   "repository": "https://github.com/benderTheCrime/eslint-plugin-benderthecrime"
  },
@@ -1168,11 +1105,17 @@
  "bestpractice": {
   "repository": "https://github.com/strawlion/eslint-plugin-bestpractice"
  },
+ "better": {
+  "repository": "https://github.com/idmitriev/eslint-plugin-better"
+ },
+ "better-dates": {
+  "repository": "https://github.com/chdsbd/eslint-plugin-better-dates"
+ },
  "better-mutation": {
   "repository": "https://github.com/sloops77/eslint-plugin-better-mutation"
  },
- "better-styled-components": {
-  "repository": "https://github.com/siffogh/eslint-plugin-better-styled-components"
+ "big-number-rules": {
+  "repository": "https://github.com/shuckster/eslint-plugin-big-number-rules"
  },
  "bitrefill": {
   "repository": "https://github.com/bitrefill/eslint-plugin-bitrefill"
@@ -1198,6 +1141,9 @@
  "brackets": {
   "repository": "https://github.com/kentor/eslint-plugin-brackets"
  },
+ "breakaway-eslint-plugin-patternfly-react": {
+  "repository": "https://github.com/pfbreakaway/breakaway-patternfly-react"
+ },
  "bs-eslint-rules": {
   "repository": "https://github.com/Ticalie/bs-eslint"
  },
@@ -1209,6 +1155,12 @@
  },
  "builtin-compat": {
   "repository": "https://github.com/instea/eslint-plugin-builtin-compat"
+ },
+ "bullhorn": {
+  "repository": "https://github.com/bullhorn/eslint-plugin-bullhorn"
+ },
+ "cake": {
+  "repository": "https://github.com/sbdchd/eslint-plugin-cake"
  },
  "caleb": {
   "repository": "https://github.com/calebeby/eslint-config"
@@ -1255,17 +1207,14 @@
  "chain": {
   "repository": "https://github.com/cenfun/eslint-plugin-chain"
  },
+ "chameleon": {
+  "repository": "https://github.com/vuejs/eslint-plugin-vue"
+ },
  "change-detection-strategy": {
   "repository": "https://github.com/num13ru/eslint-plugin-change-detection-strategy"
  },
- "chartjs": {
-  "repository": "https://github.com/Manu1400/eslint-plugin-chartjs"
- },
  "check-class-name": {
   "repository": "https://github.com/SkyblueWZZQ/eslint-plugin-check-class-name"
- },
- "check-filenames": {
-  "repository": "https://github.com/alfa-laboratory/eslint-plugin-check-filenames"
  },
  "chotot": {
   "repository": "https://github.com/chototoss/chotot-web-standards"
@@ -1406,6 +1355,9 @@
  "core": {
   "repository": "https://github.com/Braised-Cakes/eslint-plugin-core"
  },
+ "couchdb": {
+  "repository": "https://github.com/scdf/eslint-plugin-couchdb"
+ },
  "crb": {
   "repository": "https://github.com/chrisbreiding/eslint-plugin-crb"
  },
@@ -1424,14 +1376,14 @@
  "css-modules-mariosetenal": {
   "repository": "https://github.com/atfzl/eslint-plugin-css-modules"
  },
- "cssx": {
-  "repository": "https://github.com/krasimir/eslint-plugin-cssx"
- },
  "cucumber": {
   "repository": "https://github.com/darrinholst/eslint-plugin-cucumber"
  },
  "curology": {
   "repository": "https://github.com/PocketDerm/eslint-plugin-curology"
+ },
+ "custom-elements": {
+  "repository": "https://github.com/github/eslint-plugin-custom-elements"
  },
  "custom-jsx-props-order": {
   "repository": "https://github.com/fenbka/eslint-plugin-custom-jsx-props-order"
@@ -1439,11 +1391,17 @@
  "custom-prettier": {
   "repository": "https://github.com/shaneu/eslint-plugin-custom-prettier"
  },
+ "cute": {
+  "repository": "https://github.com/yacinehmito/cute"
+ },
  "cwkr": {
   "repository": "https://github.com/cwkr/coding-guidelines"
  },
  "cx": {
   "repository": "https://github.com/artemdudkin/eslint-plugin-cx"
+ },
+ "cxweb": {
+  "repository": "https://github.com/metreniuk/eslint-plugin-cxweb"
  },
  "cypress": {
   "docs": "https://github.com/cypress-io/eslint-plugin-cypress/blob/master/docs/rules/",
@@ -1491,6 +1449,9 @@
  "deprecate": {
   "repository": "https://github.com/AlexMost/eslint-plugin-deprecate"
  },
+ "deprecate-import": {
+  "repository": "https://github.com/findmypast-oss/eslint-plugin-deprecate-import"
+ },
  "deprecated": {
   "repository": "https://github.com/ayqy/eslint-plugin-deprecated"
  },
@@ -1499,9 +1460,6 @@
  },
  "design-system": {
   "repository": "https://github.com/dslounge/eslint-plugin-design-system"
- },
- "destructuring": {
-  "repository": "https://github.com/lukeapage/eslint-plugin-destructuring"
  },
  "destructuring-newline": {
   "repository": "https://github.com/kusotenpa/eslint-plugin-destructuring-newline"
@@ -1524,6 +1482,9 @@
  "dfsx": {
   "repository": "https://github.com/dfsxdev/eslint-plugin-dfsx"
  },
+ "diff": {
+  "repository": "https://github.com/paleite/eslint-plugin-diff"
+ },
  "dirnames": {
   "repository": "https://github.com/alfa-laboratory/eslint-plugin-dirnames"
  },
@@ -1532,9 +1493,6 @@
  },
  "disable-features": {
   "repository": "https://github.com/brendenpalmer/eslint-plugin-disable-features"
- },
- "disallow-literals-as-jsxelement-children": {
-  "repository": "https://github.com/dominiczaq/eslint-plugin-disallow-literals-as-jsxelement-children"
  },
  "django": {
   "repository": "https://github.com/benspaulding/eslint-plugin-django"
@@ -1545,8 +1503,14 @@
  "dollar-sign": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-dollar-sign"
  },
+ "dollarshaveclub": {
+  "repository": "https://github.com/dollarshaveclub/eslint-plugin-dollarshaveclub"
+ },
  "dom": {
   "repository": "https://github.com/amilajack/eslint-plugin-dom"
+ },
+ "done-component": {
+  "repository": "https://github.com/imjoshdean/eslint-plugin-done-component"
  },
  "double-semi": {
   "repository": "https://github.com/flet/eslint-plugin-double-semi"
@@ -1572,11 +1536,17 @@
  "editorconfig": {
   "repository": "https://github.com/phanect/eslint-plugin-editorconfig"
  },
+ "efficient": {
+  "repository": "https://github.com/flexare/eslint-plugin-efficient"
+ },
  "eggache": {
   "repository": "https://github.com/eggjs/eslint-plugin-eggache"
  },
  "egrand-vue": {
   "repository": "https://github.com/wuyuweixin/eslint-plugin-egrand-vue"
+ },
+ "ejs-js": {
+  "repository": "https://github.com/overlookmotel/eslint-plugin-ejs-js"
  },
  "ekimlinger": {
   "repository": "https://github.com/ekimlinger/eslint-plugin-ekimlinger"
@@ -1609,11 +1579,11 @@
  "emotion-utils": {
   "repository": "https://github.com/danielhusar/eslint-plugin-emotion-utils"
  },
- "empty-returns": {
-  "repository": "https://github.com/aero31aero/eslint-plugin-empty-returns"
- },
  "enact": {
   "repository": "https://github.com/enactjs/eslint-plugin-enact"
+ },
+ "engelhorn-sfcc": {
+  "repository": "https://github.com/t-huth/eslint-plugin-engelhorn-sfcc"
  },
  "enzyme": {
   "repository": "https://github.com/giamir/eslint-plugin-enzyme"
@@ -1626,9 +1596,6 @@
  },
  "es6": {
   "repository": "https://github.com/nadongguri/eslint-plugin-es6"
- },
- "es6-recommended": {
-  "repository": "https://github.com/mgtitimoli/eslint-plugin-es6-recommended"
  },
  "escompat": {
   "repository": "https://github.com/keithamus/eslint-plugin-escompat"
@@ -1662,8 +1629,11 @@
  "event-listener": {
   "repository": "https://github.com/SinLucifer/eslint-plugin-event-listeners"
  },
- "exclude-php-tags": {
-  "repository": "https://github.com/Alexnder/eslint-plugin-exclude-php-tags"
+ "evernote": {
+  "repository": "https://github.com/evernote/eslint-plugin-evernote"
+ },
+ "exclude-nunjuck-tags": {
+  "repository": "https://github.com/ibrahim12/eslint-plugin-exclude-nunjuck-tags"
  },
  "expect-type": {
   "repository": "https://github.com/ibezkrovnyi/eslint-plugin-expect-type"
@@ -1683,6 +1653,9 @@
  "extended": {
   "repository": "https://github.com/thenativeweb/eslint-plugin-extended"
  },
+ "extendscript": {
+  "repository": "https://github.com/adambrgmn/eslint-plugin-extendscript"
+ },
  "extjs": {
   "repository": "https://github.com/burnnat/eslint-plugin-extjs"
  },
@@ -1692,14 +1665,14 @@
  "fastify-security-rules": {
   "repository": "https://github.com/lirantal/eslint-plugin-security"
  },
+ "fat-arrow-same-line": {
+  "repository": "https://github.com/pzuraq/eslint-plugin-fat-arrow-same-line"
+ },
  "fb-www": {
   "repository": "https://github.com/aaronabramov/eslint-plugin-fb-www"
  },
  "fbi": {
   "repository": "https://github.com/fbi-js/eslint-plugin-fbi"
- },
- "fda": {
-  "repository": "https://github.com/meetromb/eslint-plugin-fda"
  },
  "fest": {
   "repository": "https://github.com/Angmor23/eslint-plugin-fest"
@@ -1713,9 +1686,6 @@
  "file-header": {
   "repository": "https://github.com/Sekhmet/eslint-plugin-file-header"
  },
- "file-layout": {
-  "repository": "https://github.com/keik/eslint-plugin-file-layout"
- },
  "file-progress": {
   "repository": "https://github.com/sibiraj-s/eslint-plugin-file-progress"
  },
@@ -1725,11 +1695,17 @@
  "filename-rules": {
   "repository": "https://github.com/dolsem/eslint-plugin-filename-rules"
  },
+ "filenames": {
+  "repository": "https://github.com/selaux/eslint-plugin-filenames"
+ },
  "filenames-simple": {
   "repository": "https://github.com/epaew/eslint-plugin-filenames-simple"
  },
  "filenames-suffix": {
   "repository": "https://github.com/mmiller42/eslint-plugin-filenames"
+ },
+ "filesize": {
+  "repository": "https://github.com/voltrevo/eslint-plugin-filesize"
  },
  "fix-deps": {
   "repository": "https://github.com/mitchellhamilton/eslint-plugin-fix-deps"
@@ -1739,9 +1715,6 @@
  },
  "flow-check": {
   "repository": "https://github.com/marionebl/eslint-plugin-flow-check"
- },
- "flow-header": {
-  "repository": "https://github.com/eirikurn/eslint-plugin-flow-header"
  },
  "flow-missing": {
   "repository": "https://github.com/alburkerk/eslint-plugin-flow-missing"
@@ -1773,9 +1746,6 @@
  "for-wtools": {
   "repository": "https://github.com/Wandalen/EslintPluginForWtools"
  },
- "forbidden-package": {
-  "repository": "https://github.com/Krosantos/eslint-plugin-forbidden-package"
- },
  "force-void": {
   "repository": "https://github.com/pat841/eslint-plugin-force-void"
  },
@@ -1788,6 +1758,9 @@
  "formatting": {
   "repository": "https://github.com/dugokontov/eslint-plugin-formatting"
  },
+ "fp": {
+  "repository": "https://github.com/jfmengels/eslint-plugin-fp"
+ },
  "fp-jxl": {
   "repository": "https://github.com/jesterxl/eslint-plugin-fp-jxl"
  },
@@ -1796,9 +1769,6 @@
  },
  "fpcs": {
   "repository": "https://github.com/flowerpress/eslint-plugin-fpcs"
- },
- "front-require-in-package": {
-  "repository": "https://github.com/frontapp/eslint-plugin-require-in-package"
  },
  "frontend": {
   "repository": "https://github.com/obartra/eslint-plugin-frontend"
@@ -1815,9 +1785,6 @@
  "fullfilename": {
   "repository": "https://github.com/litelite/eslint-plugin-fullfilename"
  },
- "func-call": {
-  "repository": "https://github.com/titarenko/eslint-plugin-func-call"
- },
  "func-params-args": {
   "repository": "https://github.com/abdusabri/eslint-plugin-func-params-args"
  },
@@ -1832,6 +1799,9 @@
  },
  "functional": {
   "repository": "https://github.com/jonaskello/eslint-plugin-functional"
+ },
+ "funfp": {
+  "repository": "https://github.com/twilson63/eslint-plugin-funfp"
  },
  "fuse-box-eslint-plugin": {
   "repository": "https://github.com/DoumanAsh/fuse-box-eslint-plugin"
@@ -1857,6 +1827,10 @@
  "gerhut": {
   "repository": "https://github.com/Gerhut/eslint-plugin-gerhut"
  },
+ "get-off-my-lawn": {
+  "docs": "https://github.com/manovotny/eslint-plugin-get-off-my-lawn/blob/master/docs/rules/",
+  "repository": "https://github.com/manovotny/eslint-plugin-get-off-my-lawn"
+ },
  "getsentry": {
   "repository": "https://github.com/getsentry/eslint-plugin-getsentry"
  },
@@ -1865,9 +1839,6 @@
  },
  "ghost": {
   "repository": "https://github.com/TryGhost/eslint-plugin-ghost"
- },
- "git": {
-  "repository": "https://github.com/benmosher/eslint-plugin-git"
  },
  "github": {
   "repository": "https://github.com/github/eslint-plugin-github"
@@ -1902,7 +1873,7 @@
  "grapes": {
   "repository": "https://github.com/Krosantos/eslint-plugin-grapes"
  },
- "graphql": {
+ "graphql-next": {
   "repository": "https://github.com/apollostack/eslint-plugin-graphql"
  },
  "graphql-schema": {
@@ -1913,6 +1884,9 @@
  },
  "grouped-imports": {
   "repository": "https://github.com/gohabereg/eslint-plugin-grouped-imports"
+ },
+ "hackmud": {
+  "repository": "https://github.com/apazzolini/eslint-hackmud"
  },
  "hammerhead": {
   "repository": "https://github.com/LavrovArtem/eslint-plugin-hammerhead"
@@ -1932,6 +1906,9 @@
  "healthier": {
   "repository": "https://github.com/KidkArolis/eslint-plugin-healthier"
  },
+ "heisenberg": {
+  "repository": "https://github.com/DekodeInteraktiv/heisenberg"
+ },
  "helix-structure": {
   "repository": "https://github.com/jeppeskovsen/eslint-plugin-helix-structure"
  },
@@ -1947,6 +1924,9 @@
  "hsl": {
   "repository": "https://github.com/hsl947/eslint-plugin-hsl"
  },
+ "htm": {
+  "repository": "https://github.com/rx-ts/eslint"
+ },
  "html": {
   "repository": "https://github.com/BenoitZugmeyer/eslint-plugin-html"
  },
@@ -1961,6 +1941,9 @@
  },
  "i18n-json": {
   "repository": "https://github.com/godaddy/eslint-plugin-i18n-json"
+ },
+ "i18n-plus": {
+  "repository": "https://github.com/alandre/eslint-plugin-i18n-plus"
  },
  "i18n-text": {
   "repository": "https://github.com/dgraham/eslint-plugin-i18n-text"
@@ -1993,12 +1976,6 @@
  "ie-jsapi": {
   "repository": "https://github.com/rainAgain/eslint-plugin-ie-jsapi"
  },
- "ie-static-methods": {
-  "repository": "https://github.com/rfeie/eslint-plugin-ie-static-methods"
- },
- "ie11": {
-  "repository": "https://github.com/Volox/eslint-plugin-ie11"
- },
  "if-in-test": {
   "repository": "https://github.com/shokai/eslint-plugin-if-in-test"
  },
@@ -2020,9 +1997,6 @@
  "immer-reducer": {
   "repository": "https://github.com/skoshy/eslint-plugin-immer-reducer"
  },
- "immutable": {
-  "repository": "https://github.com/jhusain/eslint-plugin-immutable"
- },
  "immutable-js": {
   "repository": "https://github.com/dingbat/eslint-plugin-immutable-js"
  },
@@ -2042,8 +2016,8 @@
  "import-alias": {
   "repository": "https://github.com/steelsojka/eslint-import-alias"
  },
- "import-force-abbr": {
-  "repository": "https://github.com/deser/eslint-plugin-import-force-abbr"
+ "import-auto-name": {
+  "repository": "https://github.com/shnhrrsn/eslint-plugin-import-auto-name"
  },
  "import-helpers": {
   "repository": "https://github.com/Tibfib/eslint-plugin-import-helpers"
@@ -2078,9 +2052,6 @@
  "import-order-emotion": {
   "repository": "https://github.com/jfrej/eslint-plugin-import-order-emotion"
  },
- "import-path": {
-  "repository": "https://github.com/andrienko/eslint-plugin-import-path"
- },
  "import-quotes": {
   "repository": "https://github.com/xneek/eslint-plugin-import-quotes"
  },
@@ -2089,9 +2060,6 @@
  },
  "import-root": {
   "repository": "https://github.com/freckstergit/eslint-plugin-import-root"
- },
- "import-sorter": {
-  "repository": "https://github.com/fengkfengk/eslint-plugin-import-sorter"
  },
  "import-splitnsort": {
   "repository": "https://github.com/mflorence99/eslint-plugin-import-splitnsort"
@@ -2132,9 +2100,6 @@
  "irm": {
   "repository": "https://github.com/hadeshe93/eslint-plugin-irm"
  },
- "iruhl": {
-  "repository": "https://github.com/LeadingLight/eslint-plugin-iruhl"
- },
  "isotropic": {
   "repository": "https://github.com/ibi-group/eslint-plugin-isotropic"
  },
@@ -2155,6 +2120,10 @@
  },
  "jane": {
   "repository": "https://github.com/jane/eslint-plugin-jane"
+ },
+ "jasmine": {
+  "docs": "https://github.com/tlvince/eslint-plugin-jasmine/blob/master/docs/rules/",
+  "repository": "https://github.com/tlvince/eslint-plugin-jasmine"
  },
  "jd": {
   "repository": "https://github.com/gkxie/eslint-plugin-jd"
@@ -2207,10 +2176,16 @@
  "jquery-unsafe": {
   "repository": "https://github.com/cdd/eslint-plugin-jquery-unsafe"
  },
+ "jsapps": {
+  "repository": "https://github.com/ideadapt/eslint-plugin-jsapps"
+ },
  "jsbox": {
   "repository": "https://github.com/EqualMa/eslint-plugin-jsbox"
  },
  "jsdoc": {
+  "repository": "https://github.com/gajus/eslint-plugin-jsdoc"
+ },
+ "jsdoc-ex": {
   "repository": "https://github.com/gajus/eslint-plugin-jsdoc"
  },
  "jsfix": {
@@ -2251,7 +2226,6 @@
   "repository": "https://github.com/ota-meshi/eslint-plugin-jsonc"
  },
  "jsort": {
-  "docs": "https://github.com/nate-wilkins/eslint-plugin-jsort/blob/master/docs/rules/",
   "repository": "https://github.com/nate-wilkins/eslint-plugin-jsort"
  },
  "jsp": {
@@ -2284,7 +2258,6 @@
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
  "jsx-a11y-div-fiftyeight": {
-  "docs": "https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/",
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
  "jsx-a11y-div-fiftyfive": {
@@ -2349,7 +2322,6 @@
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
  "jsx-a11y-div-nine": {
-  "docs": "https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/",
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
  "jsx-a11y-div-nineteen": {
@@ -2395,10 +2367,6 @@
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
  "jsx-a11y-div-sixtytwo": {
-  "docs": "https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/",
-  "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
- },
- "jsx-a11y-div-ten": {
   "docs": "https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/",
   "repository": "https://github.com/evcohen/eslint-plugin-jsx-a11y"
  },
@@ -2499,6 +2467,9 @@
  "jsx-advanced": {
   "repository": "https://github.com/fengxinming/babel-plugins"
  },
+ "jsx-conditionals": {
+  "repository": "https://github.com/julianburr/eslint-plugin-jsx-conditionals"
+ },
  "jsx-control-statements": {
   "repository": "https://github.com/vkbansal/eslint-plugin-jsx-control-statements"
  },
@@ -2513,6 +2484,12 @@
  },
  "jsx-img-no-referrer": {
   "repository": "https://github.com/darwintantuco/eslint-plugin-jsx-img-no-referrer"
+ },
+ "jsxspacing": {
+  "repository": "https://github.com/alexbird/eslint-plugin-jsxspacing"
+ },
+ "kaola": {
+  "repository": "https://github.com/Deol/eslint-plugin-kaola"
  },
  "kengoldfarb": {
   "repository": "https://github.com/kengoldfarb/lint"
@@ -2568,6 +2545,9 @@
  "license-header": {
   "repository": "https://github.com/nikku/eslint-plugin-license-header"
  },
+ "lightning-components": {
+  "repository": "https://github.com/reiniergs/eslint-plugin-lightning-components"
+ },
  "link-slash-end": {
   "repository": "https://github.com/HaganHan/eslint-plugin-link-slash-end"
  },
@@ -2608,14 +2588,14 @@
   "docs": "https://github.com/wix/eslint-plugin-lodash/blob/master/docs/rules/",
   "repository": "https://github.com/wix/eslint-plugin-lodash"
  },
+ "lodash-fp": {
+  "repository": "https://github.com/jfmengels/eslint-plugin-lodash-fp"
+ },
  "lodash-magic-import": {
   "repository": "https://github.com/bitsnap/eslint-plugin-lodash-magic-import"
  },
  "lodash-restrictions": {
   "repository": "https://github.com/idesi/eslint-plugin-lodash-restrictions"
- },
- "lodash-template": {
-  "repository": "https://github.com/ota-meshi/eslint-plugin-lodash-template"
  },
  "lodash-tree-shakeable-import": {
   "repository": "https://github.com/natterstefan/eslint-plugin-lodash-tree-shakeable-import"
@@ -2638,17 +2618,11 @@
  "lola": {
   "repository": "https://github.com/lolatravel/eslint-plugin-lola"
  },
- "loosely-restrict-imports": {
-  "repository": "https://github.com/mattgoucher/eslint-plugin-loosely-restrict-imports"
- },
  "loyaltylion": {
   "repository": "https://github.com/loyaltylion/eslint-plugin-loyaltylion"
  },
- "lw": {
-  "repository": "https://github.com/laurelandwolf/eslint-plugin-lw"
- },
- "lwc": {
-  "repository": "https://github.com/npm/security-holder"
+ "lucky-monkey": {
+  "repository": "https://github.com/borenXue/eslint-plugin-lucky-monkey"
  },
  "lwintch-wyze": {
   "docs": "https://github.com/lwintch/eslint-plugin-wyze/blob/master/docs/rules/",
@@ -2656,12 +2630,6 @@
  },
  "m99coder": {
   "repository": "https://github.com/m99coder/eslint-plugin-m99coder"
- },
- "magicdawn": {
-  "repository": "https://github.com/magicdawn/eslint-plugin-magicdawn"
- },
- "makestyles": {
-  "repository": "https://github.com/madflanderz/eslint-plugin-makestyles"
  },
  "markdown": {
   "repository": "https://github.com/eslint/eslint-plugin-markdown"
@@ -2671,6 +2639,9 @@
  },
  "markdown-runkit": {
   "repository": "https://github.com/eslint/eslint-plugin-markdown"
+ },
+ "markup": {
+  "repository": "https://github.com/rx-ts/eslint"
  },
  "markup-replace": {
   "repository": "https://github.com/xsjohn0306/eslint-plugin-markup-replace"
@@ -2708,6 +2679,9 @@
  "mediawiki": {
   "repository": "https://github.com/wikimedia/eslint-plugin-mediawiki"
  },
+ "meetup": {
+  "repository": "https://github.com/meetup/eslint-plugin-meetup"
+ },
  "metafizzy": {
   "repository": "https://github.com/metafizzy/eslint-plugin-metafizzy"
  },
@@ -2738,6 +2712,9 @@
  "mocha": {
   "docs": "https://github.com/lo1tuma/eslint-plugin-mocha/blob/master/docs/rules/",
   "repository": "https://github.com/lo1tuma/eslint-plugin-mocha"
+ },
+ "mocha-cakes": {
+  "repository": "https://github.com/daniel-lundin/eslint-plugin-mocha"
  },
  "mocha-cleanup": {
   "repository": "https://github.com/onechiporenko/eslint-plugin-mocha-cleanup"
@@ -2796,6 +2773,9 @@
  "moxio": {
   "repository": "https://github.com/Moxio/eslint-plugin-moxio"
  },
+ "mp": {
+  "repository": "https://github.com/mp-components/eslint-plugin-mp"
+ },
  "mpirik": {
   "repository": "https://github.com/mpirik/eslint-plugin-mpirik"
  },
@@ -2811,11 +2791,11 @@
  "muralco": {
   "repository": "https://github.com/muralco/eslint-plugin-muralco"
  },
- "muriki": {
-  "repository": "https://github.com/Moeriki/eslint-plugin-muriki"
- },
  "must-use-await": {
   "repository": "https://github.com/mikemaccana/eslint-plugin-must-use-await"
+ },
+ "nada": {
+  "repository": "https://github.com/leonardoanalista/eslint-plugin-nada"
  },
  "named-unassigned-functions": {
   "repository": "https://github.com/ValYouW/eslint-plugin-named-unassigned-functions"
@@ -2823,14 +2803,11 @@
  "native-over-lodash": {
   "repository": "https://github.com/Coobaha/eslint-plugin-native-over-lodash"
  },
+ "nebiru": {
+  "repository": "https://github.com/dkadrios/eslint-plugin-nebiru"
+ },
  "nebulas-contract": {
   "repository": "https://github.com/xingyunwork/eslint-plugin-nebulas-contract"
- },
- "nested": {
-  "repository": "https://github.com/fengzilong/eslint-plugin-nested"
- },
- "nestjs": {
-  "repository": "https://github.com/unlight/eslint-plugin-nestjs"
  },
  "neverblued": {
   "repository": "https://github.com/neverblued/eslint-plugin-neverblued"
@@ -2880,14 +2857,11 @@
  "no-arrow-this": {
   "repository": "https://github.com/wentout/eslint-plugin-no-arrow-this"
  },
- "no-async": {
-  "repository": "https://github.com/yoavniran/eslint-plugin-no-async"
- },
  "no-async-without-await": {
   "repository": "https://github.com/zertosh/eslint-plugin-no-async-without-await"
  },
  "no-autofix": {
-  "repository": "https://github.com/aladdin-add/eslint-plugin"
+  "repository": "https://github.com/aladdin-add/eslint-plugin/tree/master"
  },
  "no-bad-naming-variables": {
   "repository": "https://github.com/kovboyjder/eslint-no-bad-naming"
@@ -2900,12 +2874,6 @@
  },
  "no-catch-all": {
   "repository": "https://github.com/MrLoh/eslint-plugin-no-catch-all"
- },
- "no-class": {
-  "repository": "https://github.com/emmenko/eslint-plugin-no-class"
- },
- "no-compound-assigned-await": {
-  "repository": "https://github.com/PJWalker/eslint-plugin-no-compound-assigned-await"
  },
  "no-constructor-bind": {
   "docs": "https://github.com/markalfred/eslint-plugin-no-constructor-bind/blob/master/docs/rules/",
@@ -2920,6 +2888,12 @@
  "no-cyrillic-string": {
   "repository": "https://github.com/eprincev-egor/no-cyrillic-string"
  },
+ "no-dupe-class-fields": {
+  "repository": "https://github.com/Macil/eslint-plugin-no-dupe-class-fields"
+ },
+ "no-editor-code": {
+  "repository": "https://github.com/lukebelliveau/eslint-plugin-no-editor-code"
+ },
  "no-empty-disable": {
   "repository": "https://github.com/edwardpayton/eslint-plugin-no-empty-disable"
  },
@@ -2928,9 +2902,6 @@
  },
  "no-es2015": {
   "repository": "https://github.com/NatureFeng/eslint-plugin-no-es2015"
- },
- "no-eslint-disable": {
-  "repository": "https://github.com/unlight/eslint-plugin-no-eslint-disable"
  },
  "no-except": {
   "repository": "https://github.com/ryan-rushton/eslint-plugin-no-except"
@@ -2950,8 +2921,8 @@
  "no-for-of-loops": {
   "repository": "https://github.com/dharFr/eslint-plugin-no-for-of-loops"
  },
- "no-foreach": {
-  "repository": "https://github.com/flying-sheep/eslint-plugin-no-foreach"
+ "no-func-space": {
+  "repository": "https://github.com/Jxck/eslint-plugin-no-func-space"
  },
  "no-function-declare-after-return": {
   "repository": "https://github.com/bhumijgupta/eslint-plugin-no-function-declare-after-return"
@@ -2959,14 +2930,8 @@
  "no-global-lodash": {
   "repository": "https://github.com/adalbertoteixeira/eslint-plugin-no-global-lodash"
  },
- "no-http-protocol": {
-  "repository": "https://github.com/pstephenwille/no-http-protocol"
- },
  "no-hyogo-police": {
   "repository": "https://github.com/pipboy3000/eslint-plugin-no-hyogo-police"
- },
- "no-if-not": {
-  "repository": "https://github.com/bakkot/eslint-plugin-no-if-not"
  },
  "no-implicit-side-effects": {
   "repository": "https://github.com/jussi-kalliokoski/eslint-plugin-no-implicit-side-effects"
@@ -2991,6 +2956,9 @@
  },
  "no-memo-displayname": {
   "repository": "https://github.com/patrykkopycinski/eslint-plugin-no-memo-displayname"
+ },
+ "no-mixed-operators": {
+  "repository": "https://github.com/kevin940726/eslint-plugin-no-mixed-operators"
  },
  "no-null": {
   "repository": "https://github.com/nene/eslint-plugin-no-null"
@@ -3019,12 +2987,6 @@
  "no-require-self-ref": {
   "repository": "https://github.com/austinkelleher/eslint-plugin-no-require-self-ref"
  },
- "no-return": {
-  "repository": "https://github.com/boiyaa/eslint-plugin-no-return"
- },
- "no-secrets": {
-  "repository": "https://github.com/nickdeis/eslint-plugin-no-secrets"
- },
  "no-shit": {
   "repository": "https://github.com/jakubsadura/eslint-plugin-no-shit"
  },
@@ -3043,6 +3005,9 @@
  "no-string": {
   "repository": "https://github.com/yangjiagongzi/eslint-plugin-no-string"
  },
+ "no-string-in-jsx": {
+  "repository": "https://github.com/kdnk/eslint-plugin-no-string-in-jsx"
+ },
  "no-this-in-jsx-component-name": {
   "repository": "https://github.com/julienben/eslint-plugin-no-this-in-jsx-component-name"
  },
@@ -3052,9 +3017,6 @@
  "no-undef-class-this": {
   "repository": "https://github.com/langdonx/eslint-plugin-no-undef-class-this"
  },
- "no-unsafe-chars": {
-  "repository": "https://github.com/DerZyklop/eslint-plugin-no-unsafe-chars"
- },
  "no-unsafe-regex": {
   "repository": "https://github.com/kgryte/eslint-plugin-no-unsafe-regex"
  },
@@ -3063,12 +3025,6 @@
  },
  "no-unused-expressions": {
   "repository": "https://github.com/clark800/eslint-plugin-no-unused-expressions"
- },
- "no-unused-vars-rest": {
-  "repository": "https://github.com/bryanrsmith/eslint-plugin-no-unused-vars-rest"
- },
- "no-use-extend-native": {
-  "repository": "https://github.com/dustinspecker/eslint-plugin-no-use-extend-native"
  },
  "no-useless-const": {
   "repository": "https://github.com/p7g/eslint-plugin-no-useless-const"
@@ -3092,8 +3048,17 @@
  "node-security-rules": {
   "repository": "https://github.com/lirantal/eslint-plugin-security"
  },
+ "nodejs": {
+  "repository": "https://github.com/geek/eslint-plugin-nodejs"
+ },
+ "noko": {
+  "repository": "https://github.com/doronwix/eslint-plugin-noko"
+ },
  "nommon": {
   "repository": "https://github.com/doochik/eslint-plugin-nommon"
+ },
+ "nop": {
+  "repository": "https://github.com/pasaran/eslint-plugin-nop"
  },
  "nosettimeout": {
   "repository": "https://github.com/eva1963/eslint-plugin-noSetimeoutTime"
@@ -3134,6 +3099,9 @@
  "only-error": {
   "repository": "https://github.com/davidjbradshaw/eslint-plugin-only-error"
  },
+ "only-var": {
+  "repository": "https://github.com/deecewan/eslint-plugin-only-var"
+ },
  "only-warn": {
   "repository": "https://github.com/bfanger/eslint-plugin-only-warn"
  },
@@ -3143,15 +3111,15 @@
  "opensphere": {
   "repository": "https://github.com/ngageoint/eslint-plugin-opensphere"
  },
- "opinionated": {
-  "repository": "https://github.com/dogma-io/eslint-plugin-opinionated"
- },
  "opipe": {
   "repository": "https://github.com/peoro/eslint-plugin-opipe"
  },
  "optimize-regex": {
   "docs": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex/blob/master/docs/rules/",
   "repository": "https://github.com/BrainMaestro/eslint-plugin-optimize-regex"
+ },
+ "optional-comma-spacing": {
+  "repository": "https://github.com/greggman/eslint-plugin-optional-comma-spacing"
  },
  "orbit-components": {
   "repository": "https://github.com/kiwicom/orbit"
@@ -3195,11 +3163,11 @@
  "pathnames": {
   "repository": "https://github.com/dvpnt/eslint-plugin-pathnames"
  },
- "patternfly-test": {
+ "patternfly-react": {
   "repository": "https://github.com/patternfly/patternfly-react"
  },
- "patternplate": {
-  "repository": "https://github.com/marionebl/eslint-plugin-patternplate"
+ "patternfly-test": {
+  "repository": "https://github.com/patternfly/patternfly-react"
  },
  "peace": {
   "repository": "https://github.com/thoamsy/eslint-plugin-peace"
@@ -3234,9 +3202,6 @@
  "plantain": {
   "repository": "https://github.com/plantain-00/eslint-plugin-plantain"
  },
- "playlyfe": {
-  "repository": "https://github.com/Mayank1791989/eslint-plugin-playlyfe"
- },
  "playwright": {
   "repository": "https://github.com/mxschmitt/eslint-plugin-playwright"
  },
@@ -3261,6 +3226,9 @@
  "prefer-arrow": {
   "repository": "https://github.com/TristonJ/eslint-plugin-prefer-arrow"
  },
+ "prefer-arrow-functions": {
+  "repository": "https://github.com/JamieMason/eslint-plugin-prefer-arrow-functions"
+ },
  "prefer-bind-operator": {
   "repository": "https://github.com/erikdesjardins/eslint-plugin-prefer-bind-operator"
  },
@@ -3282,14 +3250,14 @@
  "prefer-type-alias": {
   "repository": "https://github.com/otofu-square/eslint-plugin-prefer-type-alias"
  },
- "prefix": {
-  "repository": "https://github.com/m-hall/eslint-plugin-prefix"
- },
  "prettier": {
   "repository": "https://github.com/prettier/eslint-plugin-prettier"
  },
  "prettier-doc": {
   "repository": "https://github.com/fisker/eslint-plugin-prettier-doc"
+ },
+ "prettier-eslint-plugin": {
+  "repository": "https://github.com/dmacdnld/prettier-eslint-webpack-plugin"
  },
  "prettier-rules": {
   "repository": "https://github.com/iambrandonn/eslint-plugin-prettier-rules"
@@ -3322,14 +3290,11 @@
  "promise-catch": {
   "repository": "https://github.com/jakwuh/eslint-plugin-promise-catch"
  },
- "prop-types-shorthand": {
-  "repository": "https://github.com/helixbass/eslint-plugin-prop-types-shorthand"
- },
  "proposal": {
   "repository": "https://github.com/peakchen90/eslint-plugin-proposal"
  },
- "prototype-chain": {
-  "repository": "https://github.com/boneskull/eslint-plugin-prototype-chain"
+ "prototype-pollution-security-rules": {
+  "repository": "https://github.com/LewisArdern/eslint-plugin-prototype-pollution-security-rules"
  },
  "protractor": {
   "repository": "https://github.com/alecxe/eslint-plugin-protractor"
@@ -3365,8 +3330,8 @@
  "radargun": {
   "repository": "https://github.com/dsfields/eslint-plugin-radargun"
  },
- "rapid7": {
-  "repository": "https://github.com/rapid7/eslint-plugin-rapid7"
+ "raml": {
+  "repository": "https://github.com/galk-in/eslint-plugin-raml"
  },
  "rational-studio": {
   "repository": "https://github.com/rational-studio/eslint-plugin-rational-studio"
@@ -3380,6 +3345,9 @@
  },
  "react-app": {
   "repository": "https://github.com/mmazzarolo/eslint-plugin-react-app"
+ },
+ "react-classname-sort": {
+  "repository": "https://github.com/agumy/eslint-plugin-react-classname-sort"
  },
  "react-compat": {
   "repository": "https://github.com/dogma-io/eslint-plugin-react-compat"
@@ -3398,6 +3366,9 @@
  },
  "react-extended": {
   "repository": "https://github.com/pustovalov/eslint-plugin-react-extended"
+ },
+ "react-filenames": {
+  "repository": "https://github.com/mapbox/eslint-plugin-react-filenames"
  },
  "react-flow": {
   "repository": "https://github.com/Kiwka/eslint-plugin-react-flow"
@@ -3471,18 +3442,12 @@
  "react-props": {
   "repository": "https://github.com/craigbilner/eslint-plugin-react-props"
  },
- "react-pug": {
-  "repository": "https://github.com/ezhlobo/eslint-plugin-react-pug"
- },
  "react-redux": {
   "docs": "https://github.com/DianaSuvorova/eslint-plugin-react-redux/blob/master/docs/rules/",
   "repository": "https://github.com/DianaSuvorova/eslint-plugin-react-redux"
  },
- "react-ssr": {
-  "repository": "https://github.com/ytanruengsri/eslint-plugin-react-ssr"
- },
- "react-svg": {
-  "repository": "https://github.com/raix/eslint-plugin-react-svg"
+ "react-with-classes": {
+  "repository": "https://github.com/jameswomack/eslint-plugin-react-with-classes"
  },
  "react-with-styles": {
   "docs": "https://github.com/airbnb/eslint-plugin-react-with-styles/blob/master/docs/rules/",
@@ -3506,18 +3471,21 @@
  "redux": {
   "repository": "https://github.com/Intellicode/eslint-plugin-redux"
  },
+ "redux-constants": {
+  "repository": "https://github.com/learningobjectsinc/eslint-plugin-redux-constants"
+ },
  "redux-reselect": {
   "repository": "https://github.com/viktor-ku/eslint-plugin-redux-reselect"
  },
  "redux-saga": {
   "repository": "https://github.com/pke/eslint-plugin-redux-saga"
  },
- "regex": {
-  "repository": "https://github.com/gmullerb/eslint-plugin-regex"
- },
  "regexp": {
   "docs": "https://github.com/ota-meshi/eslint-plugin-regexp/blob/master/docs/rules/",
   "repository": "https://github.com/ota-meshi/eslint-plugin-regexp"
+ },
+ "regru": {
+  "repository": "https://github.com/regru/eslint-plugin-regru"
  },
  "reiwa": {
   "repository": "https://github.com/otofu-square/eslint-plugin-reiwa"
@@ -3527,9 +3495,6 @@
  },
  "replyguy": {
   "repository": "https://github.com/jlengstorf/eslint-plugin-replyguy"
- },
- "require": {
-  "repository": "https://github.com/bregenspan/eslint-plugin-require"
  },
  "require-call": {
   "repository": "https://github.com/NelsonFrancisco/eslint-plugin-require-call"
@@ -3543,11 +3508,11 @@
  "require-duplicate": {
   "repository": "https://github.com/LukaPrebil/eslint-plugin-require-duplicate"
  },
- "require-exact-proptypes": {
-  "repository": "https://github.com/patrick-addepar/eslint-plugin-require-exact-proptypes"
- },
  "require-in-package": {
   "repository": "https://github.com/Craftsy/eslint-plugin-require-in-package"
+ },
+ "require-jsdoc": {
+  "repository": "https://github.com/nrsedat/eslint-plugin-require-jsdoc"
  },
  "require-jsdoc-except": {
   "repository": "https://github.com/MaienM/eslint-plugin-require-jsdoc-except"
@@ -3560,9 +3525,6 @@
  },
  "require-sort": {
   "repository": "https://github.com/zcuric/eslint-plugin-require-sort"
- },
- "requirejs": {
-  "repository": "https://github.com/cvisco/eslint-plugin-requirejs"
  },
  "reselect-utils": {
   "repository": "https://github.com/sgrishchenko/reselect-utils"
@@ -3582,8 +3544,8 @@
  "return-types-object-literals": {
   "repository": "https://github.com/upload-io/eslint-plugin-return-types-object-literals"
  },
- "revizto": {
-  "repository": "https://github.com/revizto/eslint-rules"
+ "rgl": {
+  "repository": "https://github.com/fengzilong/eslint-plugin-rgl"
  },
  "richtext-cp": {
   "repository": "https://github.com/dmonego/eslint-plugin-richtext-cp"
@@ -3621,6 +3583,9 @@
  "rut": {
   "repository": "https://github.com/milesj/rut"
  },
+ "rwell-camelcase": {
+  "repository": "https://github.com/RoundingWellOS/eslint-plugin-rwell-camelcase"
+ },
  "rxjs": {
   "repository": "https://github.com/cartant/eslint-plugin-rxjs"
  },
@@ -3642,14 +3607,8 @@
  "scd": {
   "repository": "https://github.com/uttk/eslint-plugin-scd"
  },
- "screeps": {
-  "repository": "https://github.com/postcrafter/eslint-plugin-screeps"
- },
  "sdwvit-eslint-plugin-svelte3": {
   "repository": "https://github.com/sveltejs/eslint-plugin-svelte3"
- },
- "security": {
-  "repository": "https://github.com/nodesecurity/eslint-plugin-security"
  },
  "security-node": {
   "docs": "https://github.com/gkouziik/eslint-plugin-security-node/blob/master/docs/rules/",
@@ -3673,14 +3632,8 @@
  "sensible": {
   "repository": "https://github.com/esatterwhite/eslint-plugin-sensible"
  },
- "sentry-csii-internal-eslint-plugin-sdk": {
-  "repository": "https://github.com/getsentry/sentry-javascript"
- },
  "sequel": {
   "repository": "https://github.com/5app/eslint-plugin-sequel"
- },
- "servicenow": {
-  "repository": "https://github.com/arnoudkooi/eslint-plugin-servicenow"
  },
  "set-iterable": {
   "repository": "https://github.com/fernap3/eslint-plugin-set-iterable"
@@ -3693,12 +3646,6 @@
  },
  "shopify-lean": {
   "repository": "https://github.com/sebastian-software/eslint-plugin-shopify-lean"
- },
- "should-promised": {
-  "repository": "https://github.com/dbrockman/eslint-plugin-should-promised"
- },
- "simple-i18n-text": {
-  "repository": "https://github.com/azu/eslint-plugin-simple-i18n-text"
  },
  "simple-import-sort": {
   "repository": "https://github.com/lydell/eslint-plugin-simple-import-sort"
@@ -3721,11 +3668,11 @@
  "small-import": {
   "repository": "https://github.com/JonnyBurger/eslint-plugin-react-native-normalized"
  },
- "smart-quotes": {
-  "repository": "https://github.com/jmont/eslint-plugin-smart-quotes"
- },
  "smart-sort": {
   "repository": "https://github.com/MoonW1nd/eslint-plugin-smart-sort"
+ },
+ "smarter-tabs": {
+  "repository": "https://github.com/cheap-glitch/eslint-plugin-smarter-tabs"
  },
  "smartprocure": {
   "repository": "https://github.com/smartprocure/eslint-plugin-smartprocure"
@@ -3736,11 +3683,14 @@
  "smelly": {
   "repository": "https://github.com/qix-/eslint-plugin-smelly"
  },
- "smtxt": {
-  "repository": "https://github.com/sematext/eslint-plugin-smtxt"
+ "snakecasejs": {
+  "repository": "https://github.com/ptkdev/eslint-plugin-snakecasejs"
  },
  "so-jah-seh": {
   "repository": "https://github.com/independentgeorge/eslint-plugin-so-jah-seh"
+ },
+ "solfege": {
+  "repository": "https://github.com/neolao/eslint-plugin-solfege"
  },
  "solfegejs": {
   "repository": "https://github.com/solfegejs/eslint-plugin"
@@ -3785,20 +3735,17 @@
  "sort-imports-es6-autofix": {
   "repository": "https://github.com/schuchertmanagementberatung/eslint-plugin-sort-imports-es6-autofix"
  },
+ "sort-keys-custom": {
+  "repository": "https://github.com/elliesec/eslint-plugin-sort-keys-custom"
+ },
  "sort-keys-shorthand": {
   "repository": "https://github.com/fxOne/eslint-plugin-sort-keys-shorthand"
  },
  "sort-requires": {
   "repository": "https://github.com/kentor/eslint-plugin-sort-requires"
  },
- "sort-requires-by-path": {
-  "repository": "https://github.com/oaltman/eslint-plugin-sort-requires-by-path"
- },
  "sorting": {
   "repository": "https://github.com/jacobrask/eslint-plugin-sorting"
- },
- "sowing-machine": {
-  "repository": "https://github.com/harrysolovay/sowing-machine"
  },
  "spellcheck": {
   "repository": "https://github.com/aotaduy/eslint-plugin-spellcheck"
@@ -3821,20 +3768,11 @@
  "sql": {
   "repository": "https://github.com/gajus/eslint-plugin-sql"
  },
- "sql-injection": {
-  "repository": "https://github.com/gavinaiken/eslint-plugin-sql-injection"
- },
- "square": {
-  "repository": "https://github.com/square/eslint-plugin-square"
+ "sql-template": {
+  "repository": "https://github.com/uphold/eslint-plugin-sql-template"
  },
  "srp-hints": {
   "repository": "https://github.com/eliasm307/eslint-plugin-srp-hints"
- },
- "ssr-friendly": {
-  "repository": "https://github.com/kopiro/eslint-plugin-ssr-friendly"
- },
- "standard2": {
-  "repository": "https://github.com/aeharding/eslint-plugin-standard2"
  },
  "starry": {
   "repository": "https://github.com/npm/security-holder"
@@ -3848,9 +3786,6 @@
  "stencil": {
   "repository": "https://github.com/addtoevent/stencil-eslint"
  },
- "step-functions": {
-  "repository": "https://github.com/bdgamble/eslint-plugin-step-functions"
- },
  "stormtrooper-eslint-plugin-css-modules": {
   "repository": "https://github.com/atfzl/eslint-plugin-css-modules"
  },
@@ -3860,23 +3795,20 @@
  "strict-booleans": {
   "repository": "https://github.com/vinceau/eslint-plugin-strict-booleans"
  },
+ "strict-cast": {
+  "repository": "https://github.com/TrySound/strict-cast"
+ },
  "strict-newline": {
   "repository": "https://github.com/MitMaro/eslint-plugin-strict-newline"
  },
  "strict-vue": {
   "repository": "https://github.com/GlebkaF/eslint-plugin-strict-vue"
  },
- "stringly-typed": {
-  "repository": "https://github.com/eddieantonio/eslint-plugin-stringly-typed"
- },
  "strudel": {
   "repository": "https://github.com/strudeljs/eslint-plugin-strudel"
  },
  "style": {
   "repository": "https://github.com/tao-cumplido/eslint-plugin-style"
- },
- "styled-components-varname": {
-  "repository": "https://github.com/macinjoke/eslint-plugin-styled-components-varname"
  },
  "styled-no-color-value": {
   "repository": "https://github.com/phobal/eslint-plugin-styled-no-color-value"
@@ -3932,14 +3864,14 @@
  "tailwindcss": {
   "repository": "https://github.com/francoismassart/eslint-plugin-tailwindcss"
  },
+ "talentpair": {
+  "repository": "https://github.com/talentpair/eslint-plugin-talentpair"
+ },
  "talltotal": {
   "repository": "https://github.com/talltotal/eslint-plugin-talltotal"
  },
  "tanda": {
   "repository": "https://github.com/deecewan/eslint-plugin-tanda"
- },
- "tanok": {
-  "repository": "https://github.com/kindritskyiMax/eslint-plugin-tanok"
  },
  "tape": {
   "repository": "https://github.com/atabel/eslint-plugin-tape"
@@ -3952,9 +3884,6 @@
  },
  "template": {
   "repository": "https://github.com/gramener/eslint-plugin-template"
- },
- "ternaries": {
-  "repository": "https://github.com/divyagnan/eslint-plugin-ternaries"
  },
  "ternary": {
   "docs": "https://github.com/grayedfox/eslint-plugin-ternary/blob/master/docs/rules/",
@@ -3977,9 +3906,6 @@
  },
  "test91": {
   "repository": "https://github.com/netless-io/eslint-plugin-netless"
- },
- "testcafe": {
-  "repository": "https://github.com/miherlosev/eslint-plugin-testcafe"
  },
  "testcafe-community": {
   "repository": "https://github.com/testcafe-community/eslint-plugin-testcafe-community"
@@ -4036,6 +3962,9 @@
  "ts-expect": {
   "repository": "https://github.com/4Catalyzer/eslint-plugin-ts-expect"
  },
+ "ts-exports": {
+  "repository": "https://github.com/wcandillon/eslint-plugin-ts-exports"
+ },
  "ts-import": {
   "repository": "https://github.com/bradennapier/eslint-plugin-ts-import"
  },
@@ -4072,30 +4001,33 @@
  "typescript-sort-keys": {
   "repository": "https://github.com/infctr/eslint-plugin-typescript-sort-keys"
  },
+ "typling": {
+  "repository": "https://github.com/jamen/eslint-plugin-typling"
+ },
  "udemy": {
   "repository": "https://github.com/udemy/js-tooling"
  },
  "ui-testing": {
   "repository": "https://github.com/kwoding/eslint-plugin-ui-testing"
  },
+ "unar": {
+  "repository": "https://github.com/lkdghzh/eslint-plugin-unar-extends"
+ },
  "uncalled-iife": {
   "repository": "https://github.com/romainmenke/eslint-plugin-uncalled-iife"
- },
- "undef-init": {
-  "repository": "https://github.com/bendtherules/eslint-plugin-undef-init"
- },
- "underscore": {
-  "repository": "https://github.com/captbaritone/eslint-plugin-underscore"
- },
- "undocumented-env": {
-  "repository": "https://github.com/lennym/eslint-plugin-implicit-dependencies"
  },
  "unicorn": {
   "docs": "https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/",
   "repository": "https://github.com/sindresorhus/eslint-plugin-unicorn"
  },
+ "unsafe-property-assignment": {
+  "repository": "https://github.com/jonathanKingston/eslint-plugin-unsafe-property-assignment"
+ },
  "unused-imports": {
   "repository": "https://github.com/sweepline/eslint-plugin-unused-imports"
+ },
+ "url": {
+  "repository": "https://github.com/keyfoxth/eslint-plugin-url"
  },
  "use-decorator": {
   "repository": "https://github.com/team-parallax/eslint-plugin-use-decorator"
@@ -4133,6 +4065,9 @@
  "variables": {
   "repository": "https://github.com/frsv/eslint-plugin-variables"
  },
+ "various": {
+  "repository": "https://github.com/oculus42/eslint-plugin-various"
+ },
  "verdaccio": {
   "repository": "https://github.com/verdaccio/monorepo"
  },
@@ -4142,14 +4077,14 @@
  "view-models": {
   "repository": "https://github.com/asbjornh/eslint-plugin-view-models"
  },
- "viper": {
-  "repository": "https://github.com/cxdongjack/eslint-plugin-viper"
- },
  "viper-v2": {
   "repository": "https://github.com/Nigiss/eslint-plugin-viper"
  },
  "viper-v3": {
   "repository": "https://github.com/Nigiss/eslint-plugin-viper-v3"
+ },
+ "virtru-lint": {
+  "repository": "https://github.com/npm/security-holder"
  },
  "vitsaus": {
   "repository": "https://github.com/Vitsaus/eslint-plugin-vitsaus"
@@ -4188,9 +4123,6 @@
  "vue-types": {
   "repository": "https://github.com/dwightjack/eslint-plugin-vue-types"
  },
- "vuefix": {
-  "repository": "https://github.com/lkiarest/eslint-plugin-vuefix"
- },
  "vuetify": {
   "repository": "https://github.com/vuetifyjs/eslint-plugin-vuetify"
  },
@@ -4209,9 +4141,6 @@
  "webassembly": {
   "repository": "https://github.com/xtuc/webassemblyjs"
  },
- "webgl": {
-  "repository": "https://github.com/amilajack/eslint-plugin-webgl"
- },
  "webgl-logic": {
   "repository": "https://github.com/peteward44/eslint-plugin-webgl-logic"
  },
@@ -4221,9 +4150,6 @@
  "weex": {
   "repository": "https://github.com/erha19/eslint-plugin-weex"
  },
- "weex-bundle": {
-  "repository": "https://github.com/Hanks10100/eslint-plugin-weex-bundle"
- },
  "weex-vue": {
   "repository": "https://github.com/erha19/eslint-plugin-weex-vue"
  },
@@ -4232,9 +4158,6 @@
  },
  "wemlion": {
   "repository": "https://github.com/AngusFu/wemlion-frontend-conf"
- },
- "whitespace": {
-  "repository": "https://github.com/willklein/eslint-plugin-whitespace"
  },
  "winniepukki-guidelines": {
   "repository": "https://github.com/winniepukki/guidelines"
@@ -4266,9 +4189,6 @@
  "wtf": {
   "repository": "https://github.com/qix-/eslint-plugin-wtf"
  },
- "wyze": {
-  "repository": "https://github.com/wyze/eslint-plugin-wyze"
- },
  "xod-fp": {
   "repository": "https://github.com/xodio/eslint-plugin-xod-fp"
  },
@@ -4287,6 +4207,9 @@
  "xupea": {
   "repository": "https://github.com/xupea/eslint-plugin-xupea"
  },
+ "xurei": {
+  "repository": "https://github.com/xurei/eslint-plugin"
+ },
  "xxx-eslint": {
   "repository": "https://github.com/SaiRS/eslint-plugin-xxx-eslint"
  },
@@ -4301,6 +4224,9 @@
  },
  "yola": {
   "repository": "https://github.com/yola/eslint-plugin-yola"
+ },
+ "you-dont-need-lodash-underscore": {
+  "repository": "https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore"
  },
  "you-dont-need-momentjs": {
   "repository": "https://github.com/you-dont-need/You-Dont-Need-Momentjs"
