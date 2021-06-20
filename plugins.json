@@ -21,7 +21,6 @@
   "repository": "https://github.com/2chevskii/eslint-plugin-putout"
  },
  "@6river/eslint-plugin-6river": {
-  "docs": "https://github.com/6RiverSystems/eslint-plugin-6river/blob/master/docs/rules/",
   "repository": "https://github.com/6RiverSystems/eslint-plugin-6river"
  },
  "@acmecryptocorp/eslint-plugin": {
@@ -145,6 +144,9 @@
  "@brettz9/eslint-plugin": {
   "repository": "https://github.com/brettz9/eslint-plugin"
  },
+ "@buildertrend/eslint-plugin-enterprise-extras": {
+  "repository": "https://github.com/buildertrend/eslint-plugin-enterprise-extras"
+ },
  "@busybox/eslint-plugin-json": {
   "repository": "https://github.com/davidNHK/busybox"
  },
@@ -229,6 +231,9 @@
  "@d0whc3r/eslint-plugin-stencil": {
   "repository": "https://github.com/d0whc3r/stencil-eslint"
  },
+ "@darraghor/eslint-plugin-nestjs-typed": {
+  "repository": "https://github.com/darraghoriordan/eslint-plugin-nestjs-typed"
+ },
  "@dbenfouzari/eslint-plugin-i18n": {
   "repository": "https://github.com/dbenfouzari/packages"
  },
@@ -305,6 +310,9 @@
   "docs": "https://github.com/emotion-js/emotion/blob/master/packages/eslint-plugin/docs/rules/",
   "repository": "https://github.com/emotion-js/emotion"
  },
+ "@emrys-myrddin/eslint-plugin": {
+  "repository": "https://github.com/dotansimha/graphql-eslint"
+ },
  "@endpass/eslint-plugin-endpass": {
   "repository": "https://github.com/endpass/endpass-core"
  },
@@ -319,6 +327,9 @@
  },
  "@evojs/eslint-plugin": {
   "repository": "https://github.com/evotool/js-eslint-plugin"
+ },
+ "@ezcater/eslint-plugin-recipe": {
+  "repository": "https://github.com/ezcater/recipe"
  },
  "@f-fjs/eslint-plugin-formatjs": {
   "repository": "https://github.com/formatjs/formatjs"
@@ -517,6 +528,10 @@
  "@layout-css/eslint-plugin-styled-components": {
   "repository": "https://github.com/studiosciences/layout-css"
  },
+ "@lcooper/eslint-plugin": {
+  "docs": "https://github.com/luciancooper/eslint-configs/blob/master/packages/eslint-plugin/docs/rules/",
+  "repository": "https://github.com/luciancooper/eslint-configs"
+ },
  "@lewisl9029/eslint-plugin-react-hooks": {
   "repository": "https://github.com/facebook/react"
  },
@@ -558,9 +573,6 @@
  },
  "@manuth/typescript-eslint-plugin": {
   "repository": "https://github.com/manuth/TypeScriptESLintPlugin"
- },
- "@mapbox/eslint-plugin-script-tags": {
-  "repository": "https://github.com/mapbox/eslint-plugin-script-tags"
  },
  "@mapbox/eslint-plugin-stickler": {
   "repository": "https://github.com/mapbox/stickler"
@@ -607,6 +619,9 @@
  "@moneyforward/code-review-action-eslint-plugin": {
   "repository": "https://github.com/moneyforward/eslint-action"
  },
+ "@mparticle/eslint-plugin": {
+  "repository": "https://github.com/mparticle/eslint-plugin"
+ },
  "@mtth/eslint-plugin": {
   "repository": "https://github.com/mtth/eslint-plugin"
  },
@@ -621,6 +636,9 @@
  },
  "@naturacosmeticos/eslint-plugin-i18n-checker": {
   "repository": "https://github.com/natura-cosmeticos/eslint-plugin-i18n-checker"
+ },
+ "@nbsolutions/eslint-plugin": {
+  "repository": "https://github.com/nbsolutions-ca/eslint-plugin"
  },
  "@netless/eslint-plugin": {
   "repository": "https://github.com/netless-io/eslint-plugin"
@@ -702,7 +720,6 @@
   "repository": "https://github.com/christophehurpeau/eslint-config-pob"
  },
  "@poool/eslint-plugin": {
-  "docs": "https://github.com/p3ol/eslint-config/blob/master/packages/eslint-plugin/docs/rules/",
   "repository": "https://github.com/p3ol/eslint-config"
  },
  "@preconstruct/eslint-plugin-format-js-tag": {
@@ -757,7 +774,6 @@
   "repository": "https://github.com/ridedott/eslint-plugin"
  },
  "@roadmunk/eslint-plugin-roadmunk-custom": {
-  "docs": "https://github.com/Roadmunk/eslint-plugin-roadmunk/blob/master/docs/rules/",
   "repository": "https://github.com/Roadmunk/eslint-plugin-roadmunk"
  },
  "@romeovs/eslint-plugin-css-modules": {
@@ -778,6 +794,9 @@
  "@salesforce/eslint-plugin-aura": {
   "repository": "https://github.com/forcedotcom/eslint-plugin-aura"
  },
+ "@salesforce/eslint-plugin-lightning": {
+  "repository": "https://github.com/salesforce/eslint-plugin-lightning"
+ },
  "@salesforce/eslint-plugin-visualforce": {
   "repository": "https://github.com/forcedotcom/eslint-plugin-visualforce"
  },
@@ -790,6 +809,9 @@
  "@satel/eslint-plugin": {
   "repository": "https://github.com/SatelCreative/eslint-plugin"
  },
+ "@sayari/eslint-plugin": {
+  "repository": "https://github.com/sayari-analytics/eslint-plugin-sayari"
+ },
  "@scitotec/eslint-plugin-rules": {
   "repository": "https://github.com/scitotec/eslint-plugin-scitotec-rules"
  },
@@ -798,9 +820,6 @@
  },
  "@seatentacle/eslint-plugin": {
   "repository": "https://github.com/seatentacle/eslint-plugin"
- },
- "@seedcompany/eslint-plugin": {
-  "repository": "https://github.com/seedcompany/eslint-plugin"
  },
  "@sentry-internal/eslint-plugin-sdk": {
   "repository": "https://github.com/getsentry/sentry-javascript"
@@ -866,6 +885,9 @@
  "@swrlab/eslint-plugin-swr": {
   "repository": "https://github.com/swrlab/eslint-plugin-swr"
  },
+ "@taccolaa/eslint-plugin-typeorm": {
+  "repository": "https://github.com/Polyconseil/eslint-plugin-typeorm"
+ },
  "@tapsellorg/eslint-plugin": {
   "repository": "https://github.com/tapsellorg/eslint-plugin"
  },
@@ -904,9 +926,6 @@
  },
  "@tyankatsu0105/eslint-plugin-with-typescript": {
   "repository": "https://github.com/tyankatsu0105/eslint-plugin-with-typescript"
- },
- "@typelib/eslint-plugin": {
-  "repository": "https://github.com/ilyub/eslint-plugin"
  },
  "@typeofweb/eslint-plugin": {
   "repository": "https://github.com/typeofweb/eslint-plugin"
@@ -966,6 +985,9 @@
  },
  "@zsoltszavo/eslint-plugin-import-lines": {
   "repository": "https://github.com/zsoltszavo/eslint-plugin-import-lines"
+ },
+ "@zstark/eslint-plugin-zstark": {
+  "repository": "https://github.com/PinghuaZhuang/zstark"
  },
  "actions": {
   "repository": "https://github.com/ylemkimon/eslint-plugin-actions"
@@ -1575,6 +1597,9 @@
  "easy-loops": {
   "repository": "https://github.com/bennypowers/eslint-plugin-easy-loops"
  },
+ "ebdd": {
+  "repository": "https://github.com/fasttime/eslint-plugin-ebdd"
+ },
  "ecmascript-compat": {
   "repository": "https://github.com/robatwilliams/es-compat"
  },
@@ -1624,6 +1649,9 @@
  "enzyme": {
   "docs": "https://github.com/giamir/eslint-plugin-enzyme/blob/master/docs/rules/",
   "repository": "https://github.com/giamir/eslint-plugin-enzyme"
+ },
+ "eqeqeq-fix": {
+  "repository": "https://github.com/Zamiell/eslint-plugin-eqeqeq-fix"
  },
  "es": {
   "docs": "https://github.com/mysticatea/eslint-plugin-es/blob/master/docs/rules/",
@@ -1800,7 +1828,6 @@
   "repository": "https://github.com/Jephuff/eslint-plugin-function-return-assigned-name"
  },
  "functional": {
-  "docs": "https://github.com/jonaskello/eslint-plugin-functional/blob/master/docs/rules/",
   "repository": "https://github.com/jonaskello/eslint-plugin-functional"
  },
  "funfp": {
@@ -1932,7 +1959,6 @@
   "repository": "https://github.com/pmrotule/eslint-plugin-html-erb"
  },
  "i18n": {
-  "docs": "https://github.com/chejen/eslint-plugin-i18n/blob/master/docs/rules/",
   "repository": "https://github.com/chejen/eslint-plugin-i18n"
  },
  "i18n-json": {
@@ -2174,7 +2200,6 @@
   "repository": "https://github.com/bayesimpact/eslint-plugin-json5"
  },
  "jsonc": {
-  "docs": "https://github.com/ota-meshi/eslint-plugin-jsonc/blob/master/docs/rules/",
   "repository": "https://github.com/ota-meshi/eslint-plugin-jsonc"
  },
  "jsort": {
@@ -2304,6 +2329,10 @@
  },
  "lola": {
   "repository": "https://github.com/lolatravel/eslint-plugin-lola"
+ },
+ "lookbehind-assertions": {
+  "docs": "https://github.com/l08084/eslint-plugin-lookbehind-assertions/blob/master/docs/rules/",
+  "repository": "https://github.com/l08084/eslint-plugin-lookbehind-assertions"
  },
  "loyaltylion": {
   "repository": "https://github.com/loyaltylion/eslint-plugin-loyaltylion"
@@ -2494,9 +2523,6 @@
  },
  "nestjs-framework": {
   "repository": "https://github.com/wisedog/eslint-plugin-nestjs-framework"
- },
- "neverblued": {
-  "repository": "https://github.com/neverblued/eslint-plugin-neverblued"
  },
  "new-line-before-if": {
   "repository": "https://github.com/nisshii0313/eslint-plugin-new-line-before-if"
@@ -3066,6 +3092,9 @@
  "react-ssr": {
   "repository": "https://github.com/ytanruengsri/eslint-plugin-react-ssr"
  },
+ "react-use-props": {
+  "repository": "https://github.com/docccdev/eslint-plugin-react-use-props"
+ },
  "react-with-classes": {
   "repository": "https://github.com/jameswomack/eslint-plugin-react-with-classes"
  },
@@ -3114,7 +3143,6 @@
   "repository": "https://github.com/ipekmuhammet/eslint-plugin-require-decorator"
  },
  "require-duplicate": {
-  "docs": "https://github.com/LukaPrebil/eslint-plugin-require-duplicate/blob/master/docs/rules/",
   "repository": "https://github.com/LukaPrebil/eslint-plugin-require-duplicate"
  },
  "require-in-package": {
@@ -3294,7 +3322,6 @@
   "repository": "https://github.com/rx-ts/eslint-plugin-sonar"
  },
  "sonarjs": {
-  "docs": "https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/",
   "repository": "https://github.com/SonarSource/eslint-plugin-sonarjs"
  },
  "sonarjs-6": {
@@ -3622,6 +3649,9 @@
  "url": {
   "repository": "https://github.com/keyfoxth/eslint-plugin-url"
  },
+ "use-declaration": {
+  "repository": "https://github.com/fenbka/eslint-plugin-use-declaration"
+ },
  "use-decorator": {
   "repository": "https://github.com/team-parallax/eslint-plugin-use-decorator"
  },
@@ -3683,6 +3713,9 @@
   "docs": "https://github.com/vuejs/eslint-plugin-vue/blob/master/docs/rules/",
   "repository": "https://github.com/vuejs/eslint-plugin-vue"
  },
+ "vue-enhanced": {
+  "repository": "https://github.com/fisker/eslint-plugin-vue-enhanced"
+ },
  "vue-i18nstring": {
   "repository": "https://github.com/FlyDreame/eslint-plugin-vue-i18n"
  },
@@ -3694,6 +3727,9 @@
  },
  "vue-root-class": {
   "repository": "https://github.com/wiese/eslint-plugin-vue-root-class"
+ },
+ "vue-scoped-css": {
+  "repository": "https://github.com/future-architect/eslint-plugin-vue-scoped-css"
  },
  "vue-style-tag": {
   "repository": "https://github.com/talltotal/eslint-plugin-vue-style-tag"
