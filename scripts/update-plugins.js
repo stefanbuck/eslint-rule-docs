@@ -29,8 +29,10 @@ async function load(from = 0) {
 
 function documentationUrl(item, callback) {  
   findReachableUrls([
+    `${item.repositoryUrl}/blob/main/docs/rules/`,
     `${item.repositoryUrl}/blob/master/docs/rules/`,
     `${item.repositoryUrl}/blob/master/packages/${item.name.replace(`@${item.scope}/`, '')}/docs/rules/`,
+    `${item.repositoryUrl}/blob/main/packages/${item.name.replace(`@${item.scope}/`, '')}/docs/rules/`,
   ]).then(result => callback(null, { ...item, docsUrl: result[0] }))
     .catch(error => callback(null, item));
 }
