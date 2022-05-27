@@ -13,7 +13,7 @@ describe('eslint-rule-docs', () => {
     assert.deepStrictEqual(getRuleUrl('react/sort-prop-types'), {
       exactMatch: true,
       url:
-        'https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/sort-prop-types.md'
+        'https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/sort-prop-types.md'
     });
   });
 
