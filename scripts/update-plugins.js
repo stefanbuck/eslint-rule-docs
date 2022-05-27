@@ -6,6 +6,7 @@ const got = require('got');
 const async = require('async');
 const sortKeys = require('sort-keys');
 const findReachableUrls = require('find-reachable-urls')
+const currentPlugins = require('../plugins.json')
 
 async function load(from = 0) {
   const response = await got(
@@ -27,7 +28,12 @@ async function load(from = 0) {
   }
 }
 
-function documentationUrl(item, callback) {  
+function documentationUrl(item, callback) {
+  if (currentPlugins[item.name]) {
+    console.log(`SKIP ${item.name} has been processed in the past`);
+    return callback(null, item)
+  }
+
   findReachableUrls([
     `${item.repositoryUrl}/blob/main/docs/rules/`,
     `${item.repositoryUrl}/blob/master/docs/rules/`,
